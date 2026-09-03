@@ -6,34 +6,34 @@ intentSlug: "bay-windows"
 region: "Scotland"
 indexable: false
 metaTitle: "Bay Windows in Glasgow | Double Glazing Expert"
-metaDescription: "Bay Windows in Glasgow: prices from £1,056 to £2,816. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Bay window replacement quotes in Glasgow from vetted installers. Typical £1,056-£2,816. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Bay Windows for Glasgow homes
+## Bay window replacement in Glasgow
 
-The bay window is typically the largest and trickiest glazing job in a Glasgow home - three to five interconnected units on what is often a load-bearing wall. The stock here sets the job up - Late Victorian sandstone tenement stock dominates central and west Glasgow.
+Bay windows in Glasgow are mostly on the interwar bungalows and villas of Bearsden, Giffnock and Newlands rather than the tenements. Many of those 1920s and 1930s bays have a timber or early concrete lintel already, so a full structural steel is needed less often here than on a Victorian English bay - but a survey still confirms it before anything is ordered.
 
-## What you get
+## Why Glasgow homeowners choose us
 
-- Installers who cover G1, G2, G3 and G4 and the rest of the Glasgow area
-- Fitters who know Glasgow's conservation rules - 23 conservation areas including Glasgow West and Pollokshields - many tenement blocks are B-listed, restricting frame changes.
 - Structural survey of the bay before any frame is ordered
+- Matched frame widths so an interwar splay bay keeps its proportions
 - Lead flashing and apron repairs above the bay included where needed
-- Matched frame widths across the bay so the proportions stay right
+- Steel or reinforced lintel fitted only where the survey shows it is needed
+- Scaled elevation drawings to approve before manufacture
 
 ## Areas we cover around Glasgow
 
-Southside, Dennistoun, Merchant City and West End and the rest of Glasgow are all covered, along with Paisley, East Kilbride and Edinburgh close by. Ask if your postcode isn't in G1, G2, G3 and G4 - we likely still reach it.
+Bearsden, Giffnock, Newlands, Shawlands and Newton Mearns, plus Paisley, East Kilbride and Dumbarton. Postcodes G1 to G41.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Glasgow?**
-23 conservation areas including Glasgow West and Pollokshields - many tenement blocks are B-listed, restricting frame changes. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Does a Glasgow 1930s bay need a steel beam?**
+Often not - interwar builders usually fitted a lintel. A survey confirms whether the existing support is adequate before any frame is ordered.
 
 **How much does a bay window cost in Glasgow?**
-Typically £1,056 to £2,816 in Glasgow for the glazing, using the local 0.88x factor - plus £600 to £1,200 on top if a structural steel is needed, which a survey confirms.
+Typically £1,056 to £2,816 for the glazing using the local 0.88x factor, plus £600 to £1,200 if structural work is needed.
 
-**Will a new bay match a conservation area street?**
-It can, but the profile and glazing bar pattern usually need council sign-off first. Get written pre-approval before the frames are made.
+**Can you keep the internal bay reveal and seat?**
+Usually yes - the frame is replaced around them; making-good is included where they have to be disturbed.

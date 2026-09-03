@@ -6,34 +6,34 @@ intentSlug: "window-repair"
 region: "Scotland"
 indexable: false
 metaTitle: "Double Glazing Repairs in Edinburgh | Double Glazing Expert"
-metaDescription: "Double Glazing Repairs in Edinburgh: prices from £85 to £285. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Misted units, blown seals and faulty hinges repaired in Edinburgh. From £85. Same-week visits, free quotes."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Double Glazing Repairs for Edinburgh homes
+## Double glazing repairs in Edinburgh
 
-Blown seals are the most common repair call in Edinburgh - the failed glass unit comes out, a new one made to size goes into the existing frame. Georgian New Town townhouses (heavily A-listed), Victorian tenement flats across Marchmont and Bruntsfield, plus 1930s bungalows in Corstorphine.
+Edinburgh's suburban uPVC from the 1990s and 2000s is now at the age where sealed units mist and friction hinges wear. Where the frame is sound, that is a glass-unit swap in the existing frame - one visit. For the tenement and New Town flats, the equivalent job is refurbishing and draught-proofing the original timber sash-and-case.
 
-## What you get
+## Why Edinburgh homeowners choose us
 
-- Installers who cover EH1, EH2, EH3 and EH8 and the rest of the Edinburgh area
-- Fitters who know Edinburgh's conservation rules - the New Town and Old Town are a UNESCO World Heritage Site - any street-facing window change usually requires Listed Building Consent.
-- Written diagnosis before any work - some "misting" is room condensation, a ventilation issue
+- Written diagnosis first - some "misting" is room condensation, a ventilation issue
+- Made-to-measure replacement sealed units for suburban uPVC
+- Friction stay, gearbox and multi-point mechanism swaps done in situ
 - Replacement units guaranteed to match the original 10-year seal warranty
-- Made-to-measure replacement sealed units for non-standard openings
+- Timber sash-and-case refurbishment specialists for listed and New Town flats
 
 ## Areas we cover around Edinburgh
 
-Old Town, New Town, Morningside and Stockbridge and the rest of Edinburgh are all covered, along with Livingston, Glasgow and Aberdeen close by. Ask if your postcode isn't in EH1, EH2, EH3 and EH8 - we likely still reach it.
+Repairs across Corstorphine, Colinton, Liberton, Cramond and Barnton, plus Livingston, Musselburgh and Dalkeith. Postcodes EH1 to EH12.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Edinburgh?**
-The New Town and Old Town are a UNESCO World Heritage Site - any street-facing window change usually requires Listed Building Consent. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can a misted unit be repaired without a new window?**
+Yes - it is a glass-unit swap and the frame stays in place. Around £85 to £285 per unit in Edinburgh using the local 0.95x factor.
 
-**How much are double glazing repairs in Edinburgh?**
-Most repairs in Edinburgh run £85 to £285 per unit or mechanism using the local 0.95x factor, usually done in a single visit.
+**Can you repair a New Town sash window instead of replacing it?**
+Usually, yes - and on a listed New Town property, refurbishment with draught-proofing and slim glazing is often the only consented option as well as the cheaper one.
 
-**Is it worth repairing old double glazing?**
-Up to a point. If more than a third of your windows have blown seals or the frames themselves are failing, replacement usually beats piecemeal repair.
+**How quickly can you come out?**
+Same week for most repairs; sooner for a window that will not lock or close.

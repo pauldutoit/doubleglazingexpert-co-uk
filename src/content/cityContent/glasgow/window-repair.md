@@ -6,34 +6,34 @@ intentSlug: "window-repair"
 region: "Scotland"
 indexable: false
 metaTitle: "Double Glazing Repairs in Glasgow | Double Glazing Expert"
-metaDescription: "Double Glazing Repairs in Glasgow: prices from £78 to £264. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Misted units, blown seals and faulty hinges repaired in Glasgow. From £78. Same-week visits, free quotes."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Glasgow double Glazing Repairs: what to expect
+## Double glazing repairs in Glasgow
 
-Repair beats replacement in Glasgow until repair costs approach half the price of a new window. Misted units, faulty gearboxes and worn friction stays are all fixable in situ.
+Glasgow's suburban uPVC stock from the 1990s and 2000s is now at the age where sealed units fail and friction hinges wear, and the wet climate speeds up blown seals. Where the frame is sound, a misted unit is a glass swap in the existing frame, not a new window - usually one visit.
 
-## Why locals choose us
+## Why Glasgow homeowners choose us
 
-- Local knowledge of West End, Southside and Dennistoun and the surrounding Glasgow streets
-- Installers who cover G1, G2, G3 and G4 and the rest of the Glasgow area
+- Written diagnosis first - some "misting" is room condensation, a ventilation issue
+- Made-to-measure replacement sealed units
 - Friction stay, gearbox and multi-point mechanism swaps done in situ
-- Same-week visits for windows that will not lock or close
 - Replacement units guaranteed to match the original 10-year seal warranty
+- Timber sash-and-case repair specialists for listed tenement windows
 
 ## Areas we cover around Glasgow
 
-We match homeowners in Merchant City, Southside, Dennistoun and Partick and the wider Glasgow area, plus neighbouring Paisley, East Kilbride and Edinburgh. That covers G1, G2, G3 and G4 and beyond.
+Repairs across Bearsden, Knightswood, Shawlands, Giffnock and the West End, plus Paisley, East Kilbride and Dumbarton. Postcodes G1 to G41.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Glasgow?**
-23 conservation areas including Glasgow West and Pollokshields - many tenement blocks are B-listed, restricting frame changes. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can a misted unit be repaired without a new window?**
+Yes - it is a glass-unit swap and the frame stays in place. Around £78 to £264 per unit in Glasgow using the local 0.88x factor.
 
-**How much are double glazing repairs in Glasgow?**
-Most repairs in Glasgow run £78 to £264 per unit or mechanism using the local 0.88x factor, usually done in a single visit.
+**Can you repair rather than replace a listed tenement sash window?**
+Often, yes - a refurbished sash-and-case with draught-proofing and a slim double-glazed or secondary unit is frequently the compliant and cheaper route on a listed block.
 
-**Is it worth repairing old double glazing?**
-Up to a point. If more than a third of your windows have blown seals or the frames themselves are failing, replacement usually beats piecemeal repair.
+**How quickly can you come out?**
+Same week for most repairs; sooner for a window that will not lock or close.

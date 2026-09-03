@@ -6,34 +6,34 @@ intentSlug: "double-glazing"
 region: "Scotland"
 indexable: false
 metaTitle: "Double Glazing in Edinburgh | Double Glazing Expert"
-metaDescription: "Double Glazing in Edinburgh: prices from £2,850 to £8,550. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Whole-home double glazing quotes in Edinburgh from vetted installers. Typical £2,850-£8,550. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Double Glazing for Edinburgh homes
+## Whole-home double glazing in Edinburgh
 
-Replacing all the single glazing or tired old units in one go is the biggest glazing decision most Edinburgh homeowners make - and quotes for the same house can vary by thousands. Itemised pricing is the only way to compare fairly.
+A whole-house job in Edinburgh splits sharply by area. A Corstorphine or Barnton bungalow is a standard 9 to 12-opening uPVC job. A Marchmont or New Town flat is a heritage project - fewer, much larger sash windows, high ceilings, and Listed Building Consent for anything visible from the street, which means timber sash-and-case, not uPVC.
 
-## Why locals choose us
+## Why Edinburgh homeowners choose us
 
-- Installers who cover EH1, EH2, EH3 and EH8 and the rest of the Edinburgh area
-- Local knowledge of New Town, Old Town and Morningside and the surrounding Edinburgh streets
-- Making-good of plaster and external rendering included, not billed as an extra
-- One quote itemised opening-by-opening, so you can see what each window and door costs
-- A single matched foiled finish inside and out across the whole property
+- Area-appropriate advice: uPVC for the suburbs, timber for New Town and tenement flats
+- One itemised quote per opening so you can compare fairly
+- Listed Building Consent requirements flagged before you commit
+- A single matched finish across the property where uPVC is used
+- Registered installer, certificate issued for the completed work
 
 ## Areas we cover around Edinburgh
 
-Leith, Marchmont, Stockbridge and New Town and the rest of Edinburgh are all covered, along with Livingston, Glasgow and Aberdeen close by. Ask if your postcode isn't in EH1, EH2, EH3 and EH8 - we likely still reach it.
+Corstorphine, Colinton, Liberton, Cramond and Barnton, out to Livingston, Musselburgh and Dalkeith. Postcodes EH1 to EH12.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Edinburgh?**
-The New Town and Old Town are a UNESCO World Heritage Site - any street-facing window change usually requires Listed Building Consent. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can a New Town flat be done in uPVC?**
+No - the New Town is a World Heritage Site and street-facing windows must be timber sash-and-case under Listed Building Consent. The job is still worth doing, just as a heritage timber project rather than uPVC.
 
 **What does whole-home double glazing cost in Edinburgh?**
-A full replacement in Edinburgh typically lands between £2,850 and £8,550 depending on opening count, frame material and how many are bays. That reflects the area's 0.95x regional cost factor.
+Usually £2,850 to £8,550 for uPVC on suburban stock, using the local 0.95x cost factor. A timber sash-and-case job for a tenement or New Town flat costs significantly more.
 
-**How long does a whole-house job take in Edinburgh?**
-Usually two to four days for a mid-terrace or semi, longer where scaffolding or a structural bay is involved. Ask for a day-by-day plan before work starts.
+**How long does it take?**
+Two to four days for a suburban house; a heritage sash project is longer and often phased.

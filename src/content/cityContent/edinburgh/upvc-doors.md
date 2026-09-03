@@ -6,34 +6,34 @@ intentSlug: "upvc-doors"
 region: "Scotland"
 indexable: false
 metaTitle: "uPVC Doors in Edinburgh | Double Glazing Expert"
-metaDescription: "uPVC Doors in Edinburgh: prices from £618 to £1,710. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC front, back and patio door quotes in Edinburgh from vetted fitters. From £618. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Edinburgh uPVC Doors: what to expect
+## uPVC doors for Edinburgh homes
 
-uPVC is the standard for back and side doors across Edinburgh and a budget option for the front. Georgian New Town townhouses (heavily A-listed), Victorian tenement flats across Marchmont and Bruntsfield, plus 1930s bungalows in Corstorphine.
+For a suburban Edinburgh house, a uPVC door handles the weather well and takes a full PAS 24 multi-point lock. On a tenement, your flat's entrance door off the stair is normally yours to change; the main street door is shared and handled through the stair's owners. Street-facing doors on New Town and listed properties usually have to stay timber.
 
 ## Why Edinburgh homeowners choose us
 
-- Local knowledge of New Town, Old Town and Morningside and the surrounding Edinburgh streets
-- Quotes matched to Edinburgh's housing stock: georgian New Town townhouses (heavily A-listed), Victorian tenement flats across Marchmont and Bruntsfield, plus 1930s bungalows in Corstorphine.
-- PAS 24 multi-point locking and an anti-snap cylinder as standard, not an upsell
-- Toughened or laminated safety glass in every door side panel
-- French and patio door options for narrow terrace returns and side passages
+- PAS 24 multi-point locking and anti-snap cylinders as standard
+- Weather-sealed doors for Edinburgh's exposed, windy sites
+- Foiled colours matched to your existing windows and joinery
+- French and patio door options for suburban gardens
+- Old door and frame removed and disposed of within the quote
 
 ## Areas we cover around Edinburgh
 
-We match homeowners in Leith, Morningside, Stockbridge and New Town and the wider Edinburgh area, plus neighbouring Livingston, Glasgow and Aberdeen. That covers EH1, EH2, EH3 and EH8 and beyond.
+Corstorphine, Colinton, Liberton, Cramond and Barnton, out to Livingston, Musselburgh and Dalkeith. Postcodes EH1 to EH12.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Edinburgh?**
-The New Town and Old Town are a UNESCO World Heritage Site - any street-facing window change usually requires Listed Building Consent. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can I change my Edinburgh tenement flat's door?**
+The door from the stair into your flat is normally yours to replace. The main street door is shared and dealt with through the stair's owners' association.
+
+**Can a New Town front door be uPVC?**
+Usually not - a street-facing door on a listed New Town property has to stay timber under Listed Building Consent.
 
 **How much do uPVC doors cost in Edinburgh?**
-Roughly £618 to £1,710 fitted in Edinburgh using the local 0.95x factor - plain panel doors at the lower end, French and sliding patio sets at the top.
-
-**Is a uPVC front door secure enough?**
-A modern uPVC door with a 5-point multi-point lock, PAS 24 certification and a TS007 3-star anti-snap cylinder meets what most insurers ask for. Composite adds mass and looks, not fundamentally more lock security.
+Roughly £618 to £1,710 fitted for suburban properties using the local 0.95x factor.

@@ -6,34 +6,34 @@ intentSlug: "upvc-windows"
 region: "Yorkshire and the Humber"
 indexable: false
 metaTitle: "uPVC Windows in Leeds | Double Glazing Expert"
-metaDescription: "uPVC Windows in Leeds: prices from £308 to £792. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC window quotes in Leeds from FENSA fitters. From £308 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## uPVC Windows in Leeds
+## New uPVC windows for a Leeds home
 
-uPVC is the default replacement frame across Leeds - low maintenance, A-rated as standard, and far cheaper than timber or aluminium. The variables here are size, glazing spec and whether a foiled finish is needed to suit the street.
+Leeds has housing stock you do not see much elsewhere - back-to-back terraces in Harehills, Beeston and Armley that share a rear wall with the next street, so they only have windows on one or two elevations. Add the gritstone Victorian villas of Headingley and Roundhay and the interwar semis further out, and a window job here really depends on which of those you have.
 
-## What you get
+## Why Leeds homeowners choose us
 
-- Fitters who know Leeds's conservation rules - 48 conservation areas, with strong protection around Headingley, Roundhay Park and the city centre.
-- Local knowledge of Headingley, Roundhay and Chapel Allerton and the surrounding Leeds streets
-- A-rated 28mm argon-filled units with a warm-edge spacer and low-E soft coat as standard
-- Trickle vents fitted to current Building Regs without wrecking the sightline
-- Flush-sash profile available where a standard lipped casement would look wrong
+- Fitters who understand back-to-back layouts and their single-aspect ventilation
+- Knowledge of the Headingley, Roundhay Park and city-centre conservation rules
+- A-rated 28mm units, warm-edge spacers and trickle vents to Building Regs as standard
+- Foiled finishes to suit gritstone and red-brick streets, as well as white
+- FENSA or CERTASS registered, frames and glass guaranteed separately
 
 ## Areas we cover around Leeds
 
-As well as central Leeds, we take on jobs across Chapel Allerton, Headingley, Meanwood and Horsforth, and out to nearby Bradford, Wakefield and Huddersfield. Postcodes LS1, LS2, LS3 and LS6 are all covered.
+Headingley, Roundhay, Chapel Allerton, Meanwood, Kirkstall and Horsforth, out to Bradford, Wakefield, Huddersfield and Harrogate. Postcodes LS1 to LS8 and LS11 to LS17.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Leeds?**
-48 conservation areas, with strong protection around Headingley, Roundhay Park and the city centre. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Do back-to-back houses in Leeds have special ventilation rules?**
+They can. A single-aspect house relies heavily on trickle ventilation and extract fans, so trickle vents in the new frames are not optional - your installer should confirm the ventilation strategy meets Building Regs Part F.
+
+**Do Leeds conservation areas restrict windows?**
+In several of the 48 conservation areas, yes - Headingley and around Roundhay Park in particular. Check the council planning portal before ordering.
 
 **How much do uPVC windows cost in Leeds?**
-Typical prices in Leeds run about £308 to £792 per window fitted, using this area's regional labour factor of 0.88x the national average. Size, glazing spec and finish move the figure.
-
-**White or foiled frames?**
-White uPVC is cheapest; a foiled finish adds roughly 10-20% and is worth it on streets where white would look out of place. Foiled colours are through-coloured, not painted, so they don't flake.
+Typically £308 to £792 per window fitted, using the Yorkshire regional factor of 0.88x the national average.

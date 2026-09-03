@@ -6,34 +6,34 @@ intentSlug: "casement-windows"
 region: "Scotland"
 indexable: false
 metaTitle: "Casement Windows in Edinburgh | Double Glazing Expert"
-metaDescription: "Casement Windows in Edinburgh: prices from £333 to £855. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC casement window quotes in Edinburgh from registered fitters. From £333 per window. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Casement Windows for Edinburgh homes
+## Casement windows for Edinburgh homes
 
-The side-hung casement is the default window style across Edinburgh's interwar and post-war stock, and a common choice on terrace rears. Georgian New Town townhouses (heavily A-listed), Victorian tenement flats across Marchmont and Bruntsfield, plus 1930s bungalows in Corstorphine.
+Casements are the standard replacement across Edinburgh's interwar and postwar suburbs - Corstorphine, Colinton, Liberton, Clermiston - where the original windows were timber casements. In the tenement and New Town areas the original and required style is vertical sash-and-case, so casements are only appropriate on the unrestricted suburban stock.
 
-## Why locals choose us
+## Why Edinburgh homeowners choose us
 
-- Installers who cover EH1, EH2, EH3 and EH8 and the rest of the Edinburgh area
-- Fitters who know Edinburgh's conservation rules - the New Town and Old Town are a UNESCO World Heritage Site - any street-facing window change usually requires Listed Building Consent.
-- Foiled finishes for streets where white uPVC would look wrong
-- Flush-sash or standard casement priced side by side so you can compare the look
-- Multi-point locking as standard, not an upgrade
+- Casements for suburban stock where the original style allows it
+- Flush-sash option for a cleaner line on older suburban streets
+- Egress hinges on bedroom windows for fire-escape requirements
+- Trickle ventilation to Scottish Building Standards
+- Multi-point locking and internal beading as standard
 
 ## Areas we cover around Edinburgh
 
-Old Town, Morningside, Stockbridge and Leith and the rest of Edinburgh are all covered, along with Livingston, Glasgow and Aberdeen close by. Ask if your postcode isn't in EH1, EH2, EH3 and EH8 - we likely still reach it.
+Corstorphine, Colinton, Liberton, Clermiston and Cramond, plus Livingston, Musselburgh and Dalkeith. Postcodes EH1 to EH12.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Edinburgh?**
-The New Town and Old Town are a UNESCO World Heritage Site - any street-facing window change usually requires Listed Building Consent. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Should an Edinburgh tenement have casements?**
+No - the required style for a listed or conservation-area tenement is vertical sash-and-case. Casements suit the suburban stock.
+
+**What is a flush casement window?**
+One where the sash closes level with the frame rather than proud of it - a cleaner line, at roughly 10 to 15% over a standard casement.
 
 **How much are casement windows in Edinburgh?**
-Around £333 to £855 per window fitted in Edinburgh, based on the local 0.95x cost factor. Flush-sash profiles sit 10-15% above standard.
-
-**Can casement windows meet fire-escape rules?**
-Yes, with the right hinge. Habitable rooms above ground floor need a clear opening of at least 450mm x 450mm and 0.33 square metres - your installer should confirm this per window.
+Around £333 to £855 per window fitted for suburban stock, using the local 0.95x cost factor.

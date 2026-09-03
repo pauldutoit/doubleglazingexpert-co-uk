@@ -6,34 +6,34 @@ intentSlug: "double-glazing"
 region: "Scotland"
 indexable: false
 metaTitle: "Double Glazing in Glasgow | Double Glazing Expert"
-metaDescription: "Double Glazing in Glasgow: prices from £2,640 to £7,920. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Whole-home double glazing quotes in Glasgow from vetted installers. Typical £2,640-£7,920. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Glasgow double Glazing: what to expect
+## Whole-home double glazing in Glasgow
 
-A whole-home double glazing job in Glasgow is normally 10-15 openings plus a front door. The stock here sets the job up - Late Victorian sandstone tenement stock dominates central and west Glasgow. The big cost swings are access and whether any bay needs a steel above it.
+A whole-home job in Glasgow depends heavily on the building type. A Bearsden or Newton Mearns semi is a straightforward 9 to 12 openings. A West End tenement flat is a different proposition - fewer, larger windows, high ceilings, and if the block is listed the street-facing units usually have to be timber sash-and-case rather than uPVC.
 
-## What you get
+## Why Glasgow homeowners choose us
 
-- Local knowledge of West End, Southside and Dennistoun and the surrounding Glasgow streets
-- Installers who cover G1, G2, G3 and G4 and the rest of the Glasgow area
-- One quote itemised opening-by-opening, so you can see what each window and door costs
-- Access, scaffolding, parking and waste removal priced up front
-- Price held for at least a week - no "sign today" pressure
+- Building-appropriate advice: uPVC for suburban stock, timber for protected tenements
+- One itemised quote per opening so you can compare fairly
+- Common-repair and factor obligations flagged for tenement flats
+- A single matched finish across the whole property where uPVC is used
+- Registered installer, certificate issued for the completed work
 
 ## Areas we cover around Glasgow
 
-We match homeowners in Merchant City, Dennistoun, Shawlands and Partick and the wider Glasgow area, plus neighbouring Paisley, East Kilbride and Edinburgh. That covers G1, G2, G3 and G4 and beyond.
+Bearsden, Newton Mearns, Shawlands, Knightswood and the West End, out to Paisley, East Kilbride and Dumbarton. Postcodes G1 to G41.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Glasgow?**
-23 conservation areas including Glasgow West and Pollokshields - many tenement blocks are B-listed, restricting frame changes. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can a whole tenement flat be done in uPVC?**
+Only if the block is not listed and not in a conservation area that restricts frames. Many West End and Southside blocks are, so timber sash-and-case is often the compliant answer for the street elevation.
 
 **What does whole-home double glazing cost in Glasgow?**
-A full replacement in Glasgow typically lands between £2,640 and £7,920 depending on opening count, frame material and how many are bays. That reflects the area's 0.88x regional cost factor.
+Usually £2,640 to £7,920 for uPVC on suburban stock, using the local 0.88x cost factor. Timber sash-and-case for a listed flat costs considerably more.
 
-**How long does a whole-house job take in Glasgow?**
-Usually two to four days for a mid-terrace or semi, longer where scaffolding or a structural bay is involved. Ask for a day-by-day plan before work starts.
+**Do I need the factor's permission?**
+For a tenement flat, changes to the common street elevation usually need agreement through the building's factor or owners' association.

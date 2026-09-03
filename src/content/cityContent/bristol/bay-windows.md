@@ -6,34 +6,34 @@ intentSlug: "bay-windows"
 region: "South West England"
 indexable: false
 metaTitle: "Bay Windows in Bristol | Double Glazing Expert"
-metaDescription: "Bay Windows in Bristol: prices from £1,176 to £3,136. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Bay window replacement quotes in Bristol from vetted installers. Typical £1,176-£3,136. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Replacing a bay window in Bristol
+## Bay window replacement in Bristol
 
-Bay windows carry the widest price range of any window type because the variables stack: 3 vs 5 sided, the corner angle, the shape, and whether Bristol's older stock needs structural support added.
+The two-storey Victorian bay is a Bristol trademark across Bedminster, Totterdown, Redland and St Andrews - often a double bay stacked over two floors. Those were commonly built without a full structural beam, so a steel or reinforced lintel is usually needed to bring the opening up to current Building Regs, and a two-storey bay needs the structure checked at both levels.
 
-## What you get
+## Why Bristol homeowners choose us
 
-- Quotes matched to Bristol's housing stock: georgian Clifton townhouses and terraces, Victorian bay-fronts across Bedminster and Southville, plus extensive 1930s semis in Henleaze and Westbury.
-- Local knowledge of Clifton, Redland and Bishopston and the surrounding Bristol streets
-- Matched frame widths across the bay so the proportions stay right
-- At least one opening pane sized for fire escape on bedroom bays
-- Structural survey of the bay before any frame is ordered
+- Structural survey of the bay - both floors on a two-storey bay - before any frame is ordered
+- Matched frame widths so the stacked bay keeps its proportions
+- Steel or reinforced lintel fitted where the opening needs it
+- Lead flashing and apron repairs between and above the bays included where needed
+- Scaled elevation drawings to approve before manufacture
 
 ## Areas we cover around Bristol
 
-Coverage runs across Bristol - Clifton, Redland, Bishopston and Bedminster among them - and into Bath, Plymouth and Exeter. Postcodes from BS1, BS2, BS3 and BS4 outward.
+Bedminster, Totterdown, Redland, Bishopston, St Andrews and Southville, plus Bath, Portishead and Nailsea. Postcodes BS1 to BS9.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Bristol?**
-34 conservation areas - Clifton, Kingsdown and Cliftonwood are especially strict on street-facing frames. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**My Bristol bay runs over two floors - is that a bigger job?**
+Yes. The structure has to be checked at both levels and the two bays have to line up, so it costs more than a single-storey bay and takes longer.
 
 **How much does a bay window cost in Bristol?**
-Typically £1,176 to £3,136 in Bristol for the glazing, using the local 0.98x factor - plus £600 to £1,200 on top if a structural steel is needed, which a survey confirms.
+Typically £1,176 to £3,136 for the glazing using the local 0.98x factor, plus £600 to £1,200 or more for structural work on a two-storey bay.
 
-**Can you keep the internal arch or reveal?**
-Usually yes. A good installer works around the existing plaster arch or square reveal; where it has to be disturbed, making-good should be in the quote.
+**Will a new bay match a conservation area street?**
+It can, but the profile usually needs council sign-off first - get that in writing before manufacture.

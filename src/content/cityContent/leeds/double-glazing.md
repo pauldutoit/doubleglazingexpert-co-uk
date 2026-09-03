@@ -6,34 +6,34 @@ intentSlug: "double-glazing"
 region: "Yorkshire and the Humber"
 indexable: false
 metaTitle: "Double Glazing in Leeds | Double Glazing Expert"
-metaDescription: "Double Glazing in Leeds: prices from £2,640 to £7,920. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Whole-home double glazing quotes in Leeds from vetted installers. Typical £2,640-£7,920. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## A whole-home double glazing job in Leeds
+## Whole-home double glazing in Leeds
 
-It pays to know the local era - Victorian and Edwardian, with unique back-to-back stock still lived in. On a whole-home job in Leeds that history matters: older bays, non-standard openings and protected elevations all push the price around.
+A back-to-back or through terrace in Leeds might only be 6 to 9 openings because of the shared rear wall, which keeps a whole-house job smaller and cheaper than an equivalent semi elsewhere. The gritstone villas in Headingley and Roundhay are the bigger jobs - more openings, often a bay, and conservation constraints on the street elevation.
 
-## Why locals choose us
+## Why Leeds homeowners choose us
 
-- Quotes matched to Leeds's housing stock: distinctive back-to-back terraces (unique to Leeds and Bradford) in Harehills and Beeston, gritstone Victorian villas in Headingley and Roundhay, plus interwar semis in outer suburbs.
-- Local knowledge of Headingley, Roundhay and Chapel Allerton and the surrounding Leeds streets
-- Access, scaffolding, parking and waste removal priced up front
-- FENSA certificate registered in your name within 30 days - the document you need to sell
-- Price held for at least a week - no "sign today" pressure
+- One itemised quote per opening so you can compare fairly
+- Ventilation strategy confirmed for single-aspect back-to-back houses
+- A single matched foiled finish across the whole property
+- Structural check on Headingley and Roundhay bay fronts before glass is ordered
+- FENSA certificate registered in your name within 30 days
 
 ## Areas we cover around Leeds
 
-Coverage runs across Leeds - Meanwood, Horsforth, Kirkstall and Headingley among them - and into Bradford, Wakefield and Huddersfield. Postcodes from LS1, LS2, LS3 and LS6 outward.
+Headingley, Roundhay, Chapel Allerton, Meanwood and Horsforth, out to Bradford, Wakefield, Huddersfield and Harrogate. Postcodes LS1 to LS17.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Leeds?**
-48 conservation areas, with strong protection around Headingley, Roundhay Park and the city centre. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Is a whole-house job cheaper on a Leeds back-to-back?**
+Often, yes - fewer openings because of the shared rear wall. Expect 6 to 9 rather than the 10 to 14 of a comparable semi.
 
 **What does whole-home double glazing cost in Leeds?**
-A full replacement in Leeds typically lands between £2,640 and £7,920 depending on opening count, frame material and how many are bays. That reflects the area's 0.88x regional cost factor.
+Usually £2,640 to £7,920 depending on opening count, frame material and bays, using the local 0.88x cost factor.
 
-**How long does a whole-house job take in Leeds?**
-Usually two to four days for a mid-terrace or semi, longer where scaffolding or a structural bay is involved. Ask for a day-by-day plan before work starts.
+**Can I do it in phases?**
+You can, but one visit means one scaffold and one matched finish - usually a better per-window price too.

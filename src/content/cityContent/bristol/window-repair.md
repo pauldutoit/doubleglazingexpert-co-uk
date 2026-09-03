@@ -6,34 +6,34 @@ intentSlug: "window-repair"
 region: "South West England"
 indexable: false
 metaTitle: "Double Glazing Repairs in Bristol | Double Glazing Expert"
-metaDescription: "Double Glazing Repairs in Bristol: prices from £87 to £294. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Misted units, blown seals and faulty hinges repaired in Bristol. From £87. Same-week visits, free quotes."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Double Glazing Repairs in Bristol
+## Double glazing repairs in Bristol
 
-When a Bristol window frame is sound but a sealed unit has misted or a mechanism has failed, a repair is a fraction of replacement cost and usually a single visit.
+When a Bristol frame is sound but a sealed unit has misted or a mechanism has failed, repair beats replacement until the cost approaches half a new window. Blown seals on the 1990s and 2000s uPVC in Henleaze, Horfield and Fishponds are the most common call - the failed unit comes out, a new one made to size goes into the existing frame.
 
 ## Why Bristol homeowners choose us
 
-- Fitters who know Bristol's conservation rules - 34 conservation areas - Clifton, Kingsdown and Cliftonwood are especially strict on street-facing frames.
-- Quotes matched to Bristol's housing stock: georgian Clifton townhouses and terraces, Victorian bay-fronts across Bedminster and Southville, plus extensive 1930s semis in Henleaze and Westbury.
-- Same-week visits for windows that will not lock or close
-- Call-out fees quoted up front for urgent broken-glass or lock-out jobs
+- Written diagnosis first - some "misting" is room condensation, a ventilation issue
+- Made-to-measure replacement units, including odd sizes on terrace rears
 - Friction stay, gearbox and multi-point mechanism swaps done in situ
+- Replacement units guaranteed to match the original 10-year seal warranty
+- Timber sash repair specialists for Clifton and Kingsdown windows
 
 ## Areas we cover around Bristol
 
-As well as central Bristol, we take on jobs across Bedminster, Bishopston, Clifton and Southville, and out to nearby Bath, Plymouth and Exeter. Postcodes BS1, BS2, BS3 and BS4 are all covered.
+Repairs across Henleaze, Horfield, Bishopston, Redland, Southville and Fishponds, plus Bath, Portishead and Nailsea. Postcodes BS1 to BS9.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Bristol?**
-34 conservation areas - Clifton, Kingsdown and Cliftonwood are especially strict on street-facing frames. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can a misted unit be repaired without a new window?**
+Yes - it is a glass-unit swap and the frame stays in place. Around £87 to £294 per unit in Bristol using the local 0.98x factor.
 
-**How much are double glazing repairs in Bristol?**
-Most repairs in Bristol run £87 to £294 per unit or mechanism using the local 0.98x factor, usually done in a single visit.
+**Blown seal or condensation?**
+A blown seal mists permanently between the panes and can't be wiped. Room-side condensation is a ventilation problem, not a glazing fault.
 
-**Blown seal or condensation - how do I tell?**
-A blown seal mists permanently between the panes and can't be wiped. Condensation on the room side of the glass is a ventilation problem, not a glazing fault.
+**Can you repair a Clifton timber sash rather than replace it?**
+Often, yes - draught-proofing and a slim double-glazed or secondary unit in a refurbished sash is frequently the compliant and cheaper route on a listed street.
