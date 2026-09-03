@@ -6,34 +6,34 @@ intentSlug: "casement-windows"
 region: "South East England"
 indexable: false
 metaTitle: "Casement Windows in Southampton | Double Glazing Expert"
-metaDescription: "Casement Windows in Southampton: prices from £368 to £945. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC casement window quotes in Southampton from FENSA fitters. From £368 per window. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Southampton casement Windows: what to expect
+## Casement windows for Southampton homes
 
-A whole house of casements in Southampton (6-10 windows) is normally a one-to-two-day fit. The price driver is glass area and profile, not so much the frame colour.
+Casements are the standard replacement across the interwar semis of Bassett, Bitterne and Sholing, and on the rear elevations of the Portswood terraces. A flush-sash casement holds a cleaner line on the older brick streets than a standard lipped frame.
 
-## Why locals choose us
+## Why Southampton homeowners choose us
 
-- Local knowledge of Bassett, Highfield and Portswood and the surrounding Southampton streets
-- Installers who cover SO14, SO15, SO16 and SO17 and the rest of the Southampton area
-- Flush-sash or standard casement priced side by side so you can compare the look
-- Argon-filled A-rated units, warm-edge spacer, internally beaded for security
-- Egress hinges on bedroom windows to meet the 450mm fire-escape rule
+- Flush-sash and standard casements priced side by side
+- Casements for terrace rears where the front stays period
+- Egress hinges on bedroom windows for the 450mm fire-escape rule, sized for shared-house use where needed
+- Trickle vents to Building Regs, colour-matched to the frame
+- Multi-point locking and internal beading as standard
 
 ## Areas we cover around Southampton
 
-We match homeowners in Portswood, Bassett, Highfield and Bitterne and the wider Southampton area, plus neighbouring Portsmouth, Fareham and Reading. That covers SO14, SO15, SO16 and SO17 and beyond.
+Bassett, Bitterne, Sholing, Portswood, Highfield and Shirley, plus Eastleigh, Chandler's Ford, Totton and Hedge End. Postcodes SO14 to SO18.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Southampton?**
-Around 15 conservation areas including Old Town and Bassett Green. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**What is a flush casement window?**
+One where the sash closes level with the frame - a more traditional line for Southampton's Victorian streets, at roughly 10 to 15% more.
+
+**Can casements meet bedroom fire-escape rules?**
+Yes, with the right hinge - a clear opening of at least 450mm x 450mm and 0.33 square metres, confirmed per window and important in a shared house.
 
 **How much are casement windows in Southampton?**
-Around £368 to £945 per window fitted in Southampton, based on the local 1.05x cost factor. Flush-sash profiles sit 10-15% above standard.
-
-**What is a flush casement window?**
-One where the opening sash closes level with the outer frame instead of sitting proud of it - a cleaner, more traditional line that suits older Southampton streets, for about 10-15% more than a standard casement.
+Around £368 to £945 per window fitted, using the local 1.05x cost factor.

@@ -6,34 +6,34 @@ intentSlug: "upvc-windows"
 region: "South East England"
 indexable: false
 metaTitle: "uPVC Windows in Southampton | Double Glazing Expert"
-metaDescription: "uPVC Windows in Southampton: prices from £368 to £945. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC window quotes in Southampton from FENSA fitters. From £368 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## uPVC Windows for Southampton homes
+## New uPVC windows for a Southampton home
 
-If your Southampton windows are pre-2005 or anything is single-glazed, new uPVC units usually pay for themselves in energy savings within 8-12 years. Victorian terraces in Portswood and Bevois Valley, interwar semis in Highfield and Bassett, plus dockside modern developments post-2005.
+Southampton runs from the Victorian terraces of Portswood and Bevois Valley - much of it student and rental stock now - through the interwar semis of Highfield, Bassett and Bitterne to the modern dockside apartments built since 2005. The terraces have tall, non-standard openings; the interwar semis are far more uniform.
 
 ## Why Southampton homeowners choose us
 
-- Installers who cover SO14, SO15, SO16 and SO17 and the rest of the Southampton area
-- Fitters who know Southampton's conservation rules - around 15 conservation areas including Old Town and Bassett Green.
-- Foiled colour options - Anthracite Grey, black, woodgrain - as well as white
-- Flush-sash profile available where a standard lipped casement would look wrong
-- Frames and sealed units guaranteed separately, with cover if the installer stops trading
+- Made-to-measure frames for tall Portswood and Bevois Valley terrace openings
+- Landlord-friendly quoting for the student streets - safe bedroom egress and ventilation done right
+- Weather-rated units for exposed, coastal-influenced sites near the water
+- Knowledge of the Old Town and Bassett Green conservation areas
+- FENSA or CERTASS registered, frames and glass guaranteed separately
 
 ## Areas we cover around Southampton
 
-Portswood, Bitterne, Shirley and Bassett and the rest of Southampton are all covered, along with Portsmouth, Fareham and Reading close by. Ask if your postcode isn't in SO14, SO15, SO16 and SO17 - we likely still reach it.
+Portswood, Highfield, Bassett, Bitterne, Shirley and Woolston, out to Eastleigh, Chandler's Ford, Totton and Hedge End. Postcodes SO14 to SO18.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Southampton?**
-Around 15 conservation areas including Old Town and Bassett Green. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Do the student streets in Southampton have different rules?**
+The rules are the same, but safe escape from bedrooms and adequate ventilation matter more in a shared house - your installer should size egress hinges and trickle vents accordingly.
+
+**Do Southampton conservation areas restrict windows?**
+The Old Town and a few suburban areas have controls on street-facing frames - check with the council before ordering.
 
 **How much do uPVC windows cost in Southampton?**
-Typical prices in Southampton run about £368 to £945 per window fitted, using this area's regional labour factor of 1.05x the national average. Size, glazing spec and finish move the figure.
-
-**Do I need trickle vents on replacement windows?**
-Yes - since June 2022 replacement windows in England must include background ventilation, normally trickle vents in the frame head. A quote without them is cutting a corner.
+Typically £368 to £945 per window fitted, using the South East regional factor of 1.05x the national average.

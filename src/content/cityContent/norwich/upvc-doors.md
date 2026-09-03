@@ -6,34 +6,34 @@ intentSlug: "upvc-doors"
 region: "East of England"
 indexable: false
 metaTitle: "uPVC Doors in Norwich | Double Glazing Expert"
-metaDescription: "uPVC Doors in Norwich: prices from £592 to £1,638. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC front, back and patio door quotes in Norwich from vetted fitters. From £592. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Norwich uPVC Doors: what to expect
+## uPVC doors for Norwich homes
 
-Foiled uPVC doors - Anthracite Grey especially - close most of the appearance gap with composite in Norwich for roughly half the price.
+For a Norwich terrace or semi outside the walled centre, uPVC is the sensible choice for back, side and garden doors, and a budget option for the front. A uPVC French or patio door onto a Golden Triangle courtyard or an Eaton garden costs far less than aluminium.
 
 ## Why Norwich homeowners choose us
 
-- Local knowledge of Golden Triangle, Thorpe St Andrew and Eaton and the surrounding Norwich streets
-- Quotes matched to Norwich's housing stock: medieval and Georgian houses in the walled centre, Victorian terraces across Golden Triangle and Lakenham, plus interwar Eaton Park semis.
+- PAS 24 multi-point locking and anti-snap cylinders as standard
+- Foiled colours matched to your existing windows and joinery
+- French and patio door options for terrace courtyards and suburban gardens
+- Clear on where a central-Norwich street door must remain timber
 - Old door and frame removed and disposed of within the quote
-- French and patio door options for narrow terrace returns and side passages
-- PAS 24 multi-point locking and an anti-snap cylinder as standard, not an upsell
 
 ## Areas we cover around Norwich
 
-We match homeowners in Eaton, Trowse, Heigham and Golden Triangle and the wider Norwich area, plus neighbouring Great Yarmouth, Kings Lynn and Cambridge. That covers NR1, NR2, NR3 and NR4 and beyond.
+Golden Triangle, Thorpe St Andrew, Eaton, Heigham and Sprowston, out to Wymondham, Diss, Aylsham and North Walsham. Postcodes NR1 to NR6.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Norwich?**
-The city centre is a large conservation area - listed building density is one of the highest in England outside London. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Is a uPVC front door secure enough for Norwich?**
+A modern uPVC door with a 5-point multi-point lock, PAS 24 certification and a TS007 3-star anti-snap cylinder meets what most insurers ask for.
 
 **How much do uPVC doors cost in Norwich?**
-Roughly £592 to £1,638 fitted in Norwich using the local 0.91x factor - plain panel doors at the lower end, French and sliding patio sets at the top.
+Roughly £592 to £1,638 fitted using the local 0.91x factor, with French and sliding patio sets at the top.
 
-**Is a uPVC front door secure enough?**
-A modern uPVC door with a 5-point multi-point lock, PAS 24 certification and a TS007 3-star anti-snap cylinder meets what most insurers ask for. Composite adds mass and looks, not fundamentally more lock security.
+**Can you fit a patio door where the back door is now?**
+Sometimes as-is, but widening for a patio set usually needs a lintel. A site check confirms it.

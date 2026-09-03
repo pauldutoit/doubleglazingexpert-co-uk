@@ -6,34 +6,34 @@ intentSlug: "bay-windows"
 region: "East of England"
 indexable: false
 metaTitle: "Bay Windows in Luton | Double Glazing Expert"
-metaDescription: "Bay Windows in Luton: prices from £1,272 to £3,392. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Bay window replacement quotes in Luton from vetted installers. Typical £1,272-£3,392. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Luton bay Windows: what to expect
+## Bay window replacement in Luton
 
-Bay windows carry the widest price range of any window type because the variables stack: 3 vs 5 sided, the corner angle, the shape, and whether Luton's older stock needs structural support added.
+Bays in Luton are common on the Edwardian terraces of High Town and the villas around Wardown Park. Pre-1914 bays were often built without a full structural beam, so a steel or reinforced lintel is usually needed above the bay to meet current Building Regs.
 
-## Why locals choose us
+## Why Luton homeowners choose us
 
-- Local knowledge of Stopsley, Round Green and Wardown and the surrounding Luton streets
-- Fitters who know Luton's conservation rules - around 7 conservation areas including Wardown Park.
-- Steel or reinforced lintel fitted where the opening needs it to meet Building Regs
-- Matched frame widths across the bay so the proportions stay right
-- Lead flashing and apron repairs above the bay included where needed
+- Structural survey of the bay before any frame is ordered
+- Matched frame widths so the bay keeps its proportions
+- Steel or reinforced lintel fitted where the opening needs it
+- Acoustic laminated glazing available in the bay for flightpath homes
+- Scaled elevation drawings to approve before manufacture
 
 ## Areas we cover around Luton
 
-We match homeowners in Wardown, Lewsey, Stopsley and Round Green and the wider Luton area, plus neighbouring Bedford, Stevenage and Watford. That covers LU1, LU2, LU3 and LU4 and beyond.
+High Town, Wardown, Round Green, Stopsley and Bushmead, plus Dunstable, Houghton Regis, Harpenden and Hitchin. Postcodes LU1 to LU4.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Luton?**
-Around 7 conservation areas including Wardown Park. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Does my Luton Edwardian bay need a steel?**
+Almost certainly if it is pre-1914. A survey confirms it before any frame is ordered. Budget £600 to £1,200 for the work.
 
 **How much does a bay window cost in Luton?**
-Typically £1,272 to £3,392 in Luton for the glazing, using the local 1.06x factor - plus £600 to £1,200 on top if a structural steel is needed, which a survey confirms.
+Typically £1,272 to £3,392 for the glazing using the local 1.06x factor, plus the structural work if needed.
 
-**Can you keep the internal arch or reveal?**
-Usually yes. A good installer works around the existing plaster arch or square reveal; where it has to be disturbed, making-good should be in the quote.
+**Can the bay have acoustic glass?**
+Yes - a large bay facing the flightpath or a main road benefits from laminated acoustic panes.

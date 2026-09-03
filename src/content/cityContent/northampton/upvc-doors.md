@@ -6,34 +6,34 @@ intentSlug: "upvc-doors"
 region: "East Midlands"
 indexable: false
 metaTitle: "uPVC Doors in Northampton | Double Glazing Expert"
-metaDescription: "uPVC Doors in Northampton: prices from £598 to £1,656. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC front, back and patio door quotes in Northampton from vetted fitters. From £598. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Northampton uPVC Doors: what to expect
+## uPVC doors for Northampton homes
 
-Foiled uPVC doors - Anthracite Grey especially - close most of the appearance gap with composite in Northampton for roughly half the price.
+For a Northampton terrace or semi, uPVC is the sensible choice for back, side and garden doors, and a budget option for the front. On a shoe-worker terrace the front door often opens straight onto the street, so a good compression seal and a weathered threshold matter.
 
-## What you get
+## Why Northampton homeowners choose us
 
-- Local knowledge of Abington, Kingsley and Weston Favell and the surrounding Northampton streets
-- Quotes matched to Northampton's housing stock: victorian shoe-worker terraces in Semilong and St James, Edwardian villas in Abington and Kingsley, plus large postwar estates on the edges.
-- French and patio door options for narrow terrace returns and side passages
-- Toughened or laminated safety glass in every door side panel
+- PAS 24 multi-point locking and anti-snap cylinders as standard
+- Draught-sealed thresholds for front doors that open onto the street
 - Foiled colours matched to your existing windows and joinery
+- French and patio door options for semi and terrace gardens
+- Old door and frame removed and disposed of within the quote
 
 ## Areas we cover around Northampton
 
-We match homeowners in Duston, Kingsley, Far Cotton and Weston Favell and the wider Northampton area, plus neighbouring Kettering, Leicester and Nottingham. That covers NN1, NN2, NN3 and NN4 and beyond.
+Abington, Kingsley, Kingsthorpe, Weston Favell and Duston, out to Wellingborough, Kettering, Daventry and Towcester. Postcodes NN1 to NN5.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Northampton?**
-Around 22 conservation areas including Boot and Shoe Quarter and Abington. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Is a uPVC front door secure enough for Northampton?**
+A modern uPVC door with a 5-point multi-point lock, PAS 24 certification and a TS007 3-star anti-snap cylinder meets what most insurers ask for.
 
 **How much do uPVC doors cost in Northampton?**
-Roughly £598 to £1,656 fitted in Northampton using the local 0.92x factor - plain panel doors at the lower end, French and sliding patio sets at the top.
+Roughly £598 to £1,656 fitted using the local 0.92x factor, with French and sliding patio sets at the top.
 
-**Can you fit French or patio doors in a standard opening?**
-Often yes, but widening for a patio set can need a lintel. A site check confirms whether the existing opening works as-is.
+**Can you improve draughts on a street-facing front door?**
+Yes - a compression-seal uPVC door with a weathered threshold is a big step up from an old timber door opening straight onto the pavement.

@@ -6,34 +6,34 @@ intentSlug: "upvc-doors"
 region: "North East England"
 indexable: false
 metaTitle: "uPVC Doors in Sunderland | Double Glazing Expert"
-metaDescription: "uPVC Doors in Sunderland: prices from £540 to £1,494. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC front, back and patio door quotes in Sunderland from vetted fitters. From £540. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## uPVC Doors for Sunderland homes
+## uPVC doors for Sunderland homes
 
-uPVC is the standard for back and side doors across Sunderland and a budget option for the front. Coastal Victorian terraces around Roker and Hendon, Tyneside flats in the western wards, plus 1950s Farringdon and Silksworth estates.
+The Tyneside flat has a pair of front doors on the street - one for the upper flat's stair, one for the lower flat - and each is the responsibility of that flat. A modern uPVC door with a good compression seal is a real gain against North East coastal weather. For semis, uPVC handles back and garden doors well.
 
-## Why locals choose us
+## Why Sunderland homeowners choose us
 
-- Installers who cover SR1, SR2, SR3 and SR4 and the rest of the Sunderland area
-- Quotes matched to Sunderland's housing stock: coastal Victorian terraces around Roker and Hendon, Tyneside flats in the western wards, plus 1950s Farringdon and Silksworth estates.
-- Old door and frame removed and disposed of within the quote
+- PAS 24 multi-point locking and anti-snap cylinders as standard
+- Marine-grade hinges and handles for coastal, salt-laden air
+- Clear on which of the two Tyneside-flat front doors is yours
 - Foiled colours matched to your existing windows and joinery
-- Toughened or laminated safety glass in every door side panel
+- Old door and frame removed and disposed of within the quote
 
 ## Areas we cover around Sunderland
 
-East Herrington, Roker, Barnes and Ashbrooke and the rest of Sunderland are all covered, along with Newcastle upon Tyne, Durham and Middlesbrough close by. Ask if your postcode isn't in SR1, SR2, SR3 and SR4 - we likely still reach it.
+Roker, Ashbrooke, Fulwell, Barnes and Silksworth, out to Washington, Houghton-le-Spring, Seaham and Chester-le-Street. Postcodes SR1 to SR5.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Sunderland?**
-18 conservation areas including Ashbrooke and Roker. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Which front door is mine on a Tyneside flat?**
+The one opening onto your flat's stair. The two doors sit side by side but each belongs to a separate flat, so you only replace your own.
+
+**Is a uPVC front door secure enough for Sunderland?**
+A modern uPVC door with a 5-point multi-point lock, PAS 24 certification and a TS007 3-star anti-snap cylinder meets what most insurers ask for.
 
 **How much do uPVC doors cost in Sunderland?**
-Roughly £540 to £1,494 fitted in Sunderland using the local 0.83x factor - plain panel doors at the lower end, French and sliding patio sets at the top.
-
-**Is a uPVC front door secure enough?**
-A modern uPVC door with a 5-point multi-point lock, PAS 24 certification and a TS007 3-star anti-snap cylinder meets what most insurers ask for. Composite adds mass and looks, not fundamentally more lock security.
+Roughly £540 to £1,494 fitted using the local 0.83x factor, with French and sliding patio sets at the top.

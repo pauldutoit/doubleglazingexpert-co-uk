@@ -6,34 +6,34 @@ intentSlug: "upvc-windows"
 region: "North East England"
 indexable: false
 metaTitle: "uPVC Windows in Sunderland | Double Glazing Expert"
-metaDescription: "uPVC Windows in Sunderland: prices from £291 to £747. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC window quotes in Sunderland from FENSA fitters. From £291 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## uPVC Windows for Sunderland homes
+## New uPVC windows for a Sunderland home
 
-Most Sunderland window jobs are made to measure - coastal Victorian terraces around Roker and Hendon, Tyneside flats in the western wards, plus 1950s Farringdon and Silksworth estates. None of that stock was built to a standard window size, so a fitter who works your streets will size and price it properly.
+Sunderland has a coastal Victorian terrace stock around Roker, Fulwell and Hendon, Tyneside flats in the western wards, and 1950s municipal estates in Farringdon and Silksworth. The seafront position at Roker and Seaburn means salt air and driving rain, so weather-rated seals and good hardware matter here. Ashbrooke is the city's leafy Victorian conservation area.
 
-## What you get
+## Why Sunderland homeowners choose us
 
-- Installers who cover SR1, SR2, SR3 and SR4 and the rest of the Sunderland area
-- Fitters who know Sunderland's conservation rules - 18 conservation areas including Ashbrooke and Roker.
-- Foiled colour options - Anthracite Grey, black, woodgrain - as well as white
-- Trickle vents fitted to current Building Regs without wrecking the sightline
-- FENSA or CERTASS registered, so Building Regs compliance is self-certified
+- Weather-rated units and marine-grade hardware for the Roker and Seaburn seafront
+- Fitters who understand Tyneside flat layouts and split ownership of a terrace
+- Knowledge of the Ashbrooke and Roker conservation areas
+- A-rated 28mm units, warm-edge spacers and trickle vents to Building Regs as standard
+- FENSA or CERTASS registered, frames and glass guaranteed separately
 
 ## Areas we cover around Sunderland
 
-Barnes, Fulwell, Ashbrooke and Roker and the rest of Sunderland are all covered, along with Newcastle upon Tyne, Durham and Middlesbrough close by. Ask if your postcode isn't in SR1, SR2, SR3 and SR4 - we likely still reach it.
+Roker, Ashbrooke, Fulwell, Barnes, East Herrington and Silksworth, out to Washington, Houghton-le-Spring, Seaham and Chester-le-Street. Postcodes SR1 to SR5.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Sunderland?**
-18 conservation areas including Ashbrooke and Roker. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Who pays for windows in a Sunderland Tyneside flat?**
+Each flat owns and pays for its own windows - the upper flat its upstairs windows, the lower flat its downstairs. You only quote for your own.
+
+**Does the seafront position affect a window job?**
+Yes - salt air corrodes cheap hardware and degrades seals faster, so marine-grade friction stays and hinges are worth specifying at Roker, Seaburn and Fulwell.
 
 **How much do uPVC windows cost in Sunderland?**
-Typical prices in Sunderland run about £291 to £747 per window fitted, using this area's regional labour factor of 0.83x the national average. Size, glazing spec and finish move the figure.
-
-**How long does a full house of uPVC windows take?**
-For a typical Sunderland home of 8-10 windows, one to two days with a two-person team. Bays and structural openings add time.
+Typically £291 to £747 per window fitted, using the North East regional factor of 0.83x - the lowest of the major cities.

@@ -6,34 +6,34 @@ intentSlug: "window-repair"
 region: "South East England"
 indexable: false
 metaTitle: "Double Glazing Repairs in Reading | Double Glazing Expert"
-metaDescription: "Double Glazing Repairs in Reading: prices from £100 to £336. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Misted units, blown seals and faulty hinges repaired in Reading. From £100. Same-week visits, free quotes."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Double Glazing Repairs for Reading homes
+## Double glazing repairs in Reading
 
-Repair beats replacement in Reading until repair costs approach half the price of a new window. Misted units, faulty gearboxes and worn friction stays are all fixable in situ.
+Where a Reading frame is sound but a sealed unit has misted or a mechanism has failed, a repair costs a fraction of replacement and is usually one visit. Blown seals on the 1990s and 2000s uPVC across Caversham, Tilehurst and Woodley are the most common call.
 
-## What you get
+## Why Reading homeowners choose us
 
-- Installers who cover RG1, RG2, RG4 and RG6 and the rest of the Reading area
-- Fitters who know Reading's conservation rules - 13 conservation areas including Caversham and central Reading.
-- Call-out fees quoted up front for urgent broken-glass or lock-out jobs
+- Written diagnosis first - some "misting" is room condensation, a ventilation issue
+- Made-to-measure replacement units, with an option to upgrade to acoustic laminated glass
 - Friction stay, gearbox and multi-point mechanism swaps done in situ
-- Written diagnosis before any work - some "misting" is room condensation, a ventilation issue
+- Replacement units guaranteed to match the original 10-year seal warranty
+- Fast turnaround for landlords with a window that will not lock
 
 ## Areas we cover around Reading
 
-Woodley, Earley, Caversham and Tilehurst and the rest of Reading are all covered, along with Slough, Basingstoke and Southampton close by. Ask if your postcode isn't in RG1, RG2, RG4 and RG6 - we likely still reach it.
+Repairs across Caversham, Tilehurst, Earley, Woodley and Newtown, plus Wokingham, Bracknell, Henley and Twyford. Postcodes RG1 to RG30.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Reading?**
-13 conservation areas including Caversham and central Reading. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
-
-**How much are double glazing repairs in Reading?**
-Most repairs in Reading run £100 to £336 per unit or mechanism using the local 1.12x factor, usually done in a single visit.
-
 **Can a misted unit be repaired without a new window?**
-Yes. It is a glass-unit swap - the frame stays in place. Around an hour per unit once the replacement glass has been made to size.
+Yes - it is a glass-unit swap and the frame stays in place. Around £100 to £336 per unit in Reading using the local 1.12x factor.
+
+**Can you upgrade a blown unit to acoustic glass?**
+Yes - if you are replacing the unit anyway, a laminated acoustic pane in the same frame is a small extra for a useful noise reduction.
+
+**How quickly can you come out?**
+Same week for most repairs; sooner for a window that will not lock or close.

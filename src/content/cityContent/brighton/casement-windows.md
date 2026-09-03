@@ -6,34 +6,34 @@ intentSlug: "casement-windows"
 region: "South East England"
 indexable: false
 metaTitle: "Casement Windows in Brighton | Double Glazing Expert"
-metaDescription: "Casement Windows in Brighton: prices from £385 to £990. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC casement window quotes in Brighton & Hove from installers. From £385 per window. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Fitting casement windows in Brighton
+## Casement windows for Brighton homes
 
-The side-hung casement is the default window style across Brighton's interwar and post-war stock, and a common choice on terrace rears. Regency squares and townhouses around Kemptown, Brunswick and Montpelier - some of the finest Regency architecture in England - plus Victorian terraces in Hanover and Preston.
+Casements are the standard replacement across the interwar semis of Patcham, Woodingdean and Saltdean, and on the rear elevations of the Hanover and Elm Grove terraces. On the Regency and early-Victorian stock the original and required style is vertical sash, so casements suit the later and unrestricted stock.
 
-## Why locals choose us
+## Why Brighton homeowners choose us
 
-- Quotes matched to Brighton's housing stock: regency squares and townhouses around Kemptown, Brunswick and Montpelier - some of the finest Regency architecture in England - plus Victorian terraces in Hanover and Preston.
-- Installers who cover BN1, BN2 and BN3 and the rest of the Brighton area
-- Trickle vents to current Building Regs, colour-matched to the frame
-- Argon-filled A-rated units, warm-edge spacer, internally beaded for security
-- Egress hinges on bedroom windows to meet the 450mm fire-escape rule
+- Casements for the later Victorian and interwar stock where the style allows it
+- Flush-sash option for a cleaner line on older streets
+- Egress hinges on bedroom windows for the 450mm fire-escape rule
+- Weather-rated seals for an exposed south-coast position
+- Multi-point locking and internal beading as standard
 
 ## Areas we cover around Brighton
 
-Coverage runs across Brighton - Hove, Kemptown, North Laine and Brunswick among them - and into Worthing, Eastbourne and Southampton. Postcodes from BN1, BN2 and BN3 outward.
+Patcham, Woodingdean, Saltdean, Hanover, Elm Grove and Portslade, plus Worthing, Shoreham, Lewes and Newhaven. Postcodes BN1 to BN3.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Brighton?**
-34 conservation areas covering most of Brighton and Hove - Regency frontages carry very strict listed building consent. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Should a Regency Brighton house have casements?**
+No - the required style there is vertical sash. Casements suit the later Victorian terraces and interwar semis.
+
+**What is a flush casement window?**
+One where the sash closes level with the frame - a cleaner line, at roughly 10 to 15% over a standard casement.
 
 **How much are casement windows in Brighton?**
-Around £385 to £990 per window fitted in Brighton, based on the local 1.1x cost factor. Flush-sash profiles sit 10-15% above standard.
-
-**Can casement windows meet fire-escape rules?**
-Yes, with the right hinge. Habitable rooms above ground floor need a clear opening of at least 450mm x 450mm and 0.33 square metres - your installer should confirm this per window.
+Around £385 to £990 per window fitted for the unrestricted stock, using the local 1.10x cost factor.

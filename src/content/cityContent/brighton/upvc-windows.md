@@ -6,34 +6,34 @@ intentSlug: "upvc-windows"
 region: "South East England"
 indexable: false
 metaTitle: "uPVC Windows in Brighton | Double Glazing Expert"
-metaDescription: "uPVC Windows in Brighton: prices from £385 to £990. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC window quotes in Brighton & Hove from installers. From £385 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## uPVC Windows in Brighton
+## uPVC windows in Brighton - where they are allowed
 
-If your Brighton windows are pre-2005 or anything is single-glazed, new uPVC units usually pay for themselves in energy savings within 8-12 years. Regency squares and townhouses around Kemptown, Brunswick and Montpelier - some of the finest Regency architecture in England - plus Victorian terraces in Hanover and Preston.
+Brighton and Hove has some of the finest Regency architecture in England - the stucco-fronted squares and terraces of Kemptown, Brunswick and Montpelier - and around 34 conservation areas covering most of the city. On the Regency and early-Victorian frontages a street-facing window change needs consent and timber sash is almost always required. uPVC works on the later Victorian terraces of Hanover and Preston and the interwar stock further out.
 
 ## Why Brighton homeowners choose us
 
-- Fitters who know Brighton's conservation rules - 34 conservation areas covering most of Brighton and Hove - Regency frontages carry very strict listed building consent.
-- Quotes matched to Brighton's housing stock: regency squares and townhouses around Kemptown, Brunswick and Montpelier - some of the finest Regency architecture in England - plus Victorian terraces in Hanover and Preston.
-- Frames and sealed units guaranteed separately, with cover if the installer stops trading
-- Foiled colour options - Anthracite Grey, black, woodgrain - as well as white
-- Made-to-measure uPVC sized to your original openings, not forced into stock frames
+- Honest guidance on where uPVC is allowed and where a Regency frontage needs timber sash
+- Fitters matched to your property - later Victorian terrace or protected Regency house
+- A-rated units and trickle ventilation to Building Regs on the unrestricted stock
+- Weather-rated seals for an exposed south-coast position
+- FENSA or CERTASS registered, frames and glass guaranteed separately
 
 ## Areas we cover around Brighton
 
-As well as central Brighton, we take on jobs across North Laine, Brunswick, Rottingdean and Hove, and out to nearby Worthing, Eastbourne and Southampton. Postcodes BN1, BN2 and BN3 are all covered.
+Hanover, Preston Park, Fiveways, Hove, Portslade and Woodingdean, out to Worthing, Shoreham, Lewes and Newhaven. Postcodes BN1, BN2 and BN3.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Brighton?**
-34 conservation areas covering most of Brighton and Hove - Regency frontages carry very strict listed building consent. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can I fit uPVC windows on a Regency house in Kemptown or Brunswick?**
+Almost never on the street elevation - these are strict conservation areas with many listed buildings, and timber sash to the original profile is required under Listed Building Consent. Rear elevations are sometimes more flexible.
+
+**Where does uPVC work in Brighton?**
+On the later Victorian terraces of Hanover, Elm Grove and Preston, and the interwar semis of Patcham and Woodingdean, uPVC is common and usually unrestricted.
 
 **How much do uPVC windows cost in Brighton?**
-Typical prices in Brighton run about £385 to £990 per window fitted, using this area's regional labour factor of 1.1x the national average. Size, glazing spec and finish move the figure.
-
-**White or foiled frames?**
-White uPVC is cheapest; a foiled finish adds roughly 10-20% and is worth it on streets where white would look out of place. Foiled colours are through-coloured, not painted, so they don't flake.
+Typically £385 to £990 per window fitted, using the South East regional factor of 1.10x the national average.

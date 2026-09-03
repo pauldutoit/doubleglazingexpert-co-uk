@@ -6,34 +6,34 @@ intentSlug: "window-repair"
 region: "North East England"
 indexable: false
 metaTitle: "Double Glazing Repairs in Sunderland | Double Glazing Expert"
-metaDescription: "Double Glazing Repairs in Sunderland: prices from £74 to £249. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Misted units, blown seals and faulty hinges repaired in Sunderland. From £74. Same-week visits, free quotes."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Sunderland double Glazing Repairs: what to expect
+## Double glazing repairs in Sunderland
 
-When a Sunderland window frame is sound but a sealed unit has misted or a mechanism has failed, a repair is a fraction of replacement cost and usually a single visit.
+Where a Sunderland frame is sound but a sealed unit has misted or a mechanism has seized, a repair costs a fraction of replacement and is usually one visit. On the coast, salt speeds up blown seals and corrodes friction stays, so both are common calls at Roker, Seaburn and Fulwell.
 
-## What you get
+## Why Sunderland homeowners choose us
 
-- Local knowledge of Roker, Ashbrooke and Fulwell and the surrounding Sunderland streets
-- Quotes matched to Sunderland's housing stock: coastal Victorian terraces around Roker and Hendon, Tyneside flats in the western wards, plus 1950s Farringdon and Silksworth estates.
-- Call-out fees quoted up front for urgent broken-glass or lock-out jobs
-- Same-week visits for windows that will not lock or close
+- Written diagnosis first - some "misting" is room condensation, a ventilation issue
+- Made-to-measure replacement units for Tyneside flat and terrace openings
+- Friction stay and gearbox swaps using marine-grade parts on exposed elevations
 - Replacement units guaranteed to match the original 10-year seal warranty
+- Call-out fees quoted up front for urgent jobs
 
 ## Areas we cover around Sunderland
 
-We match homeowners in Roker, Fulwell, East Herrington and Ashbrooke and the wider Sunderland area, plus neighbouring Newcastle upon Tyne, Durham and Middlesbrough. That covers SR1, SR2, SR3 and SR4 and beyond.
+Repairs across Roker, Seaburn, Fulwell, Ashbrooke and Farringdon, plus Washington, Houghton-le-Spring, Seaham and Chester-le-Street. Postcodes SR1 to SR5.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Sunderland?**
-18 conservation areas including Ashbrooke and Roker. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can a misted unit be repaired without a new window?**
+Yes - it is a glass-unit swap and the frame stays in place. Around £74 to £249 per unit in Sunderland using the local 0.83x factor.
 
-**How much are double glazing repairs in Sunderland?**
-Most repairs in Sunderland run £74 to £249 per unit or mechanism using the local 0.83x factor, usually done in a single visit.
+**Why do my window hinges keep seizing?**
+Near the coast, salt corrosion is the usual cause - a marine-grade friction stay lasts far longer than a standard one.
 
-**Is it worth repairing old double glazing?**
-Up to a point. If more than a third of your windows have blown seals or the frames themselves are failing, replacement usually beats piecemeal repair.
+**How quickly can you come out?**
+Same week for most repairs; sooner for a window that will not lock or close.

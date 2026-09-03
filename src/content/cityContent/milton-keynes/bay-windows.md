@@ -6,34 +6,34 @@ intentSlug: "bay-windows"
 region: "South East England"
 indexable: false
 metaTitle: "Bay Windows in Milton Keynes | Double Glazing Expert"
-metaDescription: "Bay Windows in Milton Keynes: prices from £1,296 to £3,456. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Bay window replacement quotes in Milton Keynes from vetted installers. Typical £1,296-£3,456. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Bay Windows in Milton Keynes
+## Bay window replacement in Milton Keynes
 
-Pre-1930s bays in Milton Keynes were often built without a proper structural beam, relying on the old box frames for support. Bringing the opening up to current Building Regs usually means a steel or reinforced lintel.
+Bays in Milton Keynes are mostly on the 1980s and later executive estates and the older houses in Stony Stratford and Newport Pagnell. The MK-era bays usually have a modern lintel already, so full structural steel is needed less often than on a Victorian bay - but a survey still confirms it, and timber-frame houses need the bay tied back correctly.
 
-## What you get
+## Why Milton Keynes homeowners choose us
 
-- Fitters who know Milton Keynes's conservation rules - 9 conservation areas focused on the pre-New Town villages of Stony Stratford, Newport Pagnell and Woburn Sands.
-- Quotes matched to Milton Keynes's housing stock: founded as a New Town in 1967, MK is almost entirely postwar - Californian-style grid estates, cul-de-sacs and 1980s brick semis. Few conservation-era streets.
-- Matched frame widths across the bay so the proportions stay right
-- Steel or reinforced lintel fitted where the opening needs it to meet Building Regs
 - Structural survey of the bay before any frame is ordered
+- Matched frame widths so the bay keeps its proportions
+- Correct tie-back to the structure on timber-frame houses
+- Lead flashing and apron repairs above the bay included where needed
+- Scaled elevation drawings to approve before manufacture
 
 ## Areas we cover around Milton Keynes
 
-As well as central Milton Keynes, we take on jobs across Wolverton, Woburn Sands, Bletchley and Stony Stratford, and out to nearby Bedford, Northampton and Luton. Postcodes MK1, MK2, MK3 and MK4 are all covered.
+Stony Stratford, Newport Pagnell, Woburn Sands, Bletchley and Shenley, plus Bedford, Buckingham, Leighton Buzzard and Bicester. Postcodes MK1 to MK9.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Milton Keynes?**
-9 conservation areas focused on the pre-New Town villages of Stony Stratford, Newport Pagnell and Woburn Sands. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Does an MK-era bay need a steel beam?**
+Often not - houses from the 1970s onward usually have a modern lintel. A survey confirms whether the existing support is adequate.
 
 **How much does a bay window cost in Milton Keynes?**
-Typically £1,296 to £3,456 in Milton Keynes for the glazing, using the local 1.08x factor - plus £600 to £1,200 on top if a structural steel is needed, which a survey confirms.
+Typically £1,296 to £3,456 for the glazing using the local 1.08x factor, plus structural work if the survey calls for it.
 
-**Does my Milton Keynes bay need a steel beam?**
-If it dates from the 1930s or earlier, almost certainly - many were built without one. A structural survey confirms it before any frame is ordered.
+**Do timber-frame bays need special work?**
+The bay has to be tied back to the timber structure correctly - a fitter who knows ML house types will handle this.

@@ -6,34 +6,34 @@ intentSlug: "window-repair"
 region: "South East England"
 indexable: false
 metaTitle: "Double Glazing Repairs in Southampton | Double Glazing Expert"
-metaDescription: "Double Glazing Repairs in Southampton: prices from £93 to £315. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Misted units, blown seals and faulty hinges repaired in Southampton. From £93. Same-week visits, free quotes."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Southampton double Glazing Repairs: what to expect
+## Double glazing repairs in Southampton
 
-A misted double-glazed unit in Southampton is a glass swap, not a frame job - the frame stays put and a new sealed unit is made to fit it.
+Where a Southampton frame is sound but a sealed unit has misted or a mechanism has failed, a repair costs a fraction of replacement and is usually one visit. Blown seals on the 1990s and 2000s uPVC across Bitterne, Sholing and Bassett are the most common call.
 
-## What you get
+## Why Southampton homeowners choose us
 
-- Local knowledge of Bassett, Highfield and Portswood and the surrounding Southampton streets
-- Fitters who know Southampton's conservation rules - around 15 conservation areas including Old Town and Bassett Green.
-- Written diagnosis before any work - some "misting" is room condensation, a ventilation issue
-- Made-to-measure replacement sealed units for non-standard openings
+- Written diagnosis first - some "misting" is room condensation, a ventilation issue
+- Made-to-measure replacement units, including tall Victorian-terrace sizes
 - Friction stay, gearbox and multi-point mechanism swaps done in situ
+- Replacement units guaranteed to match the original 10-year seal warranty
+- Fast turnaround for landlords with a window that will not lock
 
 ## Areas we cover around Southampton
 
-We match homeowners in Bassett, Bitterne, Highfield and Portswood and the wider Southampton area, plus neighbouring Portsmouth, Fareham and Reading. That covers SO14, SO15, SO16 and SO17 and beyond.
+Repairs across Bitterne, Sholing, Bassett, Portswood and Highfield, plus Eastleigh, Chandler's Ford, Totton and Hedge End. Postcodes SO14 to SO18.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Southampton?**
-Around 15 conservation areas including Old Town and Bassett Green. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
-
-**How much are double glazing repairs in Southampton?**
-Most repairs in Southampton run £93 to £315 per unit or mechanism using the local 1.05x factor, usually done in a single visit.
-
 **Can a misted unit be repaired without a new window?**
-Yes. It is a glass-unit swap - the frame stays in place. Around an hour per unit once the replacement glass has been made to size.
+Yes - it is a glass-unit swap and the frame stays in place. Around £93 to £315 per unit in Southampton using the local 1.05x factor.
+
+**Blown seal or condensation?**
+A blown seal mists permanently between the panes and can't be wiped. Room-side condensation is a ventilation problem, not a glazing fault.
+
+**How quickly can you come out?**
+Same week for most repairs; sooner for a window that will not lock or close.

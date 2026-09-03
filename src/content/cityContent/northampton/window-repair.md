@@ -6,34 +6,34 @@ intentSlug: "window-repair"
 region: "East Midlands"
 indexable: false
 metaTitle: "Double Glazing Repairs in Northampton | Double Glazing Expert"
-metaDescription: "Double Glazing Repairs in Northampton: prices from £82 to £276. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Misted units, blown seals and faulty hinges repaired in Northampton. From £82. Same-week visits, free quotes."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Double Glazing Repairs for Northampton homes
+## Double glazing repairs in Northampton
 
-Blown seals are the most common repair call in Northampton - the failed glass unit comes out, a new one made to size goes into the existing frame. Victorian shoe-worker terraces in Semilong and St James, Edwardian villas in Abington and Kingsley, plus large postwar estates on the edges.
+Where a Northampton frame is sound but a sealed unit has misted or a mechanism has failed, a repair costs a fraction of replacement and is usually one visit. Blown seals on the 1990s and 2000s uPVC across Kingsthorpe, Weston Favell and Duston are the most common call.
 
 ## Why Northampton homeowners choose us
 
-- Installers who cover NN1, NN2, NN3 and NN4 and the rest of the Northampton area
-- Quotes matched to Northampton's housing stock: victorian shoe-worker terraces in Semilong and St James, Edwardian villas in Abington and Kingsley, plus large postwar estates on the edges.
+- Written diagnosis first - some "misting" is room condensation, a ventilation issue
+- Made-to-measure replacement units for small shoe-worker terrace openings
 - Friction stay, gearbox and multi-point mechanism swaps done in situ
-- Call-out fees quoted up front for urgent broken-glass or lock-out jobs
-- Written diagnosis before any work - some "misting" is room condensation, a ventilation issue
+- Replacement units guaranteed to match the original 10-year seal warranty
+- Call-out fees quoted up front for urgent jobs
 
 ## Areas we cover around Northampton
 
-Kingsley, Duston, Far Cotton and Weston Favell and the rest of Northampton are all covered, along with Kettering, Leicester and Nottingham close by. Ask if your postcode isn't in NN1, NN2, NN3 and NN4 - we likely still reach it.
+Repairs across Kingsthorpe, Weston Favell, Duston, Abington and Kingsley, plus Wellingborough, Kettering, Daventry and Towcester. Postcodes NN1 to NN5.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Northampton?**
-Around 22 conservation areas including Boot and Shoe Quarter and Abington. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
-
-**How much are double glazing repairs in Northampton?**
-Most repairs in Northampton run £82 to £276 per unit or mechanism using the local 0.92x factor, usually done in a single visit.
-
 **Can a misted unit be repaired without a new window?**
-Yes. It is a glass-unit swap - the frame stays in place. Around an hour per unit once the replacement glass has been made to size.
+Yes - it is a glass-unit swap and the frame stays in place. Around £82 to £276 per unit in Northampton using the local 0.92x factor.
+
+**Blown seal or condensation?**
+A blown seal mists permanently between the panes and can't be wiped. Room-side condensation is a ventilation problem, not a glazing fault.
+
+**How quickly can you come out?**
+Same week for most repairs; sooner for a window that will not lock or close.

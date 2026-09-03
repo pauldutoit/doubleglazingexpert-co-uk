@@ -6,34 +6,34 @@ intentSlug: "bay-windows"
 region: "East of England"
 indexable: false
 metaTitle: "Bay Windows in Chelmsford | Double Glazing Expert"
-metaDescription: "Bay Windows in Chelmsford: prices from £1,260 to £3,360. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Bay window replacement quotes in Chelmsford from vetted installers. Typical £1,260-£3,360. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Bay Windows in Chelmsford
+## Bay window replacement in Chelmsford
 
-Bay windows carry the widest price range of any window type because the variables stack: 3 vs 5 sided, the corner angle, the shape, and whether Chelmsford's older stock needs structural support added.
+Bays in Chelmsford are common on the Moulsham and Springfield Victorian and Edwardian terraces, and as a built-in feature on some newer estate houses. Pre-1914 bays were often built without a full structural beam, so a steel or reinforced lintel is usually needed; newer bays generally have a modern lintel already.
 
 ## Why Chelmsford homeowners choose us
 
-- Fitters who know Chelmsford's conservation rules - around 15 conservation areas including Chelmsford Cathedral and Moulsham Street.
-- Installers who cover CM1, CM2, CM3 and CM4 and the rest of the Chelmsford area
-- Scaled elevation drawings to approve before manufacture
 - Structural survey of the bay before any frame is ordered
-- Steel or reinforced lintel fitted where the opening needs it to meet Building Regs
+- Matched frame widths so the bay keeps its proportions
+- Steel or reinforced lintel fitted where an older bay needs it
+- Lead flashing and apron repairs above the bay included where needed
+- Scaled elevation drawings to approve before manufacture
 
 ## Areas we cover around Chelmsford
 
-As well as central Chelmsford, we take on jobs across Great Baddow, Moulsham, Springfield and Writtle, and out to nearby Colchester, Southend On Sea and Basildon. Postcodes CM1, CM2, CM3 and CM4 are all covered.
+Moulsham, Springfield, Great Baddow, Broomfield and Writtle, plus Colchester, Braintree, Witham and Billericay. Postcodes CM1 to CM4.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Chelmsford?**
-Around 15 conservation areas including Chelmsford Cathedral and Moulsham Street. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Does my Chelmsford bay need a steel?**
+A pre-1914 Moulsham bay almost always does; a newer estate bay usually has a modern lintel. A survey confirms it before any frame is ordered.
 
 **How much does a bay window cost in Chelmsford?**
-Typically £1,260 to £3,360 in Chelmsford for the glazing, using the local 1.05x factor - plus £600 to £1,200 on top if a structural steel is needed, which a survey confirms.
+Typically £1,260 to £3,360 for the glazing using the local 1.05x factor, plus £600 to £1,200 if structural work is needed.
 
-**Can you keep the internal arch or reveal?**
-Usually yes. A good installer works around the existing plaster arch or square reveal; where it has to be disturbed, making-good should be in the quote.
+**Can you keep the internal window seat?**
+Usually yes - the frame is replaced around the existing seat and reveal, with making-good where they have to be disturbed.

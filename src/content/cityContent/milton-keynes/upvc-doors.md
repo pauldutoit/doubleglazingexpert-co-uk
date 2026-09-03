@@ -6,34 +6,34 @@ intentSlug: "upvc-doors"
 region: "South East England"
 indexable: false
 metaTitle: "uPVC Doors in Milton Keynes | Double Glazing Expert"
-metaDescription: "uPVC Doors in Milton Keynes: prices from £702 to £1,944. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC front, back and patio door quotes in Milton Keynes from vetted fitters. From £702. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Fitting a uPVC door in Milton Keynes
+## uPVC doors for Milton Keynes homes
 
-The local housing tells the story - Postwar New Town, 1970s and 1980s dominant. Across that stock, a uPVC front, back, French or patio door is a single-day fit - the spec that matters is the locking, not the colour.
+MK estate houses almost all have a patio door onto the garden as standard, and after 30 to 40 years many of the original units are draughty or sticking. uPVC French and sliding patio doors are a straightforward, well-priced replacement. uPVC also handles front and back doors well.
 
 ## Why Milton Keynes homeowners choose us
 
-- Quotes matched to Milton Keynes's housing stock: founded as a New Town in 1967, MK is almost entirely postwar - Californian-style grid estates, cul-de-sacs and 1980s brick semis. Few conservation-era streets.
-- Local knowledge of Central Milton Keynes, Bletchley and Wolverton and the surrounding Milton Keynes streets
+- PAS 24 multi-point locking and anti-snap cylinders as standard
+- Direct replacement of tired 1980s patio doors with modern uPVC sliders or French sets
+- Timber-frame fixing done correctly where the house is not masonry
 - Foiled colours matched to your existing windows and joinery
-- PAS 24 multi-point locking and an anti-snap cylinder as standard, not an upsell
-- French and patio door options for narrow terrace returns and side passages
+- Old door and frame removed and disposed of within the quote
 
 ## Areas we cover around Milton Keynes
 
-Coverage runs across Milton Keynes - Wolverton, Central Milton Keynes, Woburn Sands and Stony Stratford among them - and into Bedford, Northampton and Luton. Postcodes from MK1, MK2, MK3 and MK4 outward.
+Bletchley, Furzton, Shenley, Wolverton and Newport Pagnell, out to Bedford, Buckingham, Leighton Buzzard and Bicester. Postcodes MK1 to MK9.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Milton Keynes?**
-9 conservation areas focused on the pre-New Town villages of Stony Stratford, Newport Pagnell and Woburn Sands. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can you replace an old 1980s patio door like for like?**
+Usually, yes - a modern uPVC slider or a French door set fits the same opening, with better sealing, locking and glazing.
+
+**Is a uPVC front door secure enough for Milton Keynes?**
+A modern uPVC door with a 5-point multi-point lock, PAS 24 certification and a TS007 3-star anti-snap cylinder meets what most insurers ask for.
 
 **How much do uPVC doors cost in Milton Keynes?**
-Roughly £702 to £1,944 fitted in Milton Keynes using the local 1.08x factor - plain panel doors at the lower end, French and sliding patio sets at the top.
-
-**Is a uPVC front door secure enough?**
-A modern uPVC door with a 5-point multi-point lock, PAS 24 certification and a TS007 3-star anti-snap cylinder meets what most insurers ask for. Composite adds mass and looks, not fundamentally more lock security.
+Roughly £702 to £1,944 fitted using the local 1.08x factor, with French and sliding patio sets at the top.

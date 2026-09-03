@@ -6,34 +6,34 @@ intentSlug: "casement-windows"
 region: "East of England"
 indexable: false
 metaTitle: "Casement Windows in Chelmsford | Double Glazing Expert"
-metaDescription: "Casement Windows in Chelmsford: prices from £368 to £945. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC casement window quotes in Chelmsford from FENSA fitters. From £368 per window. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Casement Windows in Chelmsford
+## Casement windows for Chelmsford homes
 
-Casement windows - hinged at the side, opening outward - are the cheapest uPVC window to replace and the fastest to fit. In Chelmsford the choice usually comes down to flush-sash versus standard profile.
+Casements are the standard across the interwar semis of Springfield, Broomfield and Melbourne, the new-build estates, and the rear elevations of the Moulsham terraces. A flush-sash casement suits the older Moulsham Street area better than a standard lipped frame.
 
-## Why locals choose us
+## Why Chelmsford homeowners choose us
 
-- Fitters who know Chelmsford's conservation rules - around 15 conservation areas including Chelmsford Cathedral and Moulsham Street.
-- Local knowledge of Moulsham, Great Baddow and Springfield and the surrounding Chelmsford streets
-- Trickle vents to current Building Regs, colour-matched to the frame
-- Foiled finishes for streets where white uPVC would look wrong
-- Multi-point locking as standard, not an upgrade
+- Flush-sash and standard casements priced side by side
+- Better-grade casements to replace thin builder-spec units on newer estates
+- Egress hinges on bedroom windows for the 450mm fire-escape rule
+- Trickle vents to Building Regs, colour-matched to the frame
+- Multi-point locking and internal beading as standard
 
 ## Areas we cover around Chelmsford
 
-As well as central Chelmsford, we take on jobs across Great Baddow, Moulsham, Broomfield and Springfield, and out to nearby Colchester, Southend On Sea and Basildon. Postcodes CM1, CM2, CM3 and CM4 are all covered.
+Springfield, Broomfield, Melbourne, Moulsham, Great Baddow and Writtle, plus Colchester, Braintree, Witham and Billericay. Postcodes CM1 to CM4.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Chelmsford?**
-Around 15 conservation areas including Chelmsford Cathedral and Moulsham Street. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can you replace the casements on a newer Chelmsford estate house?**
+Yes - swapping thin builder-spec casements for a better-grade uPVC unit with a proper warm-edge sealed unit is a common upgrade once the originals start to fail.
+
+**What is a flush casement window?**
+One where the sash closes level with the frame - a more traditional line for the Moulsham Street area, at roughly 10 to 15% more.
 
 **How much are casement windows in Chelmsford?**
-Around £368 to £945 per window fitted in Chelmsford, based on the local 1.05x cost factor. Flush-sash profiles sit 10-15% above standard.
-
-**Outward or inward opening?**
-Almost all UK casements open outward. Inward-opening (tilt-and-turn) is available and useful on upper floors for cleaning, at a price premium.
+Around £368 to £945 per window fitted, using the local 1.05x cost factor.

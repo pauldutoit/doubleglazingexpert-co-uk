@@ -6,34 +6,34 @@ intentSlug: "upvc-doors"
 region: "South East England"
 indexable: false
 metaTitle: "uPVC Doors in Portsmouth | Double Glazing Expert"
-metaDescription: "uPVC Doors in Portsmouth: prices from £670 to £1,854. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC front, back and patio door quotes in Portsmouth from vetted fitters. From £670. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Fitting a uPVC door in Portsmouth
+## uPVC doors for Portsmouth homes
 
-uPVC is the standard for back and side doors across Portsmouth and a budget option for the front. Terraced streets across Southsea and Fratton, Victorian villas in Old Portsmouth, plus postwar rebuild in the docks area after heavy WWII bombing.
+For a Portsmouth terrace or semi, uPVC is the sensible choice for back, side and garden doors, and a budget option for the front. On the exposed island the door hardware needs to be marine-grade and the threshold well weathered.
 
 ## Why Portsmouth homeowners choose us
 
-- Quotes matched to Portsmouth's housing stock: terraced streets across Southsea and Fratton, Victorian villas in Old Portsmouth, plus postwar rebuild in the docks area after heavy WWII bombing.
-- Fitters who know Portsmouth's conservation rules - 23 conservation areas including Old Portsmouth and Southsea.
+- PAS 24 multi-point locking and anti-snap cylinders as standard
+- Marine-grade hinges and handles for salt-laden air
+- Weathered thresholds for exposed island elevations
 - Foiled colours matched to your existing windows and joinery
-- Toughened or laminated safety glass in every door side panel
-- PAS 24 multi-point locking and an anti-snap cylinder as standard, not an upsell
+- Old door and frame removed and disposed of within the quote
 
 ## Areas we cover around Portsmouth
 
-Coverage runs across Portsmouth - Old Portsmouth, Milton, Drayton and Southsea among them - and into Southampton, Fareham and Reading. Postcodes from PO1, PO2, PO4 and PO5 outward.
+Southsea, Fratton, North End, Cosham and Drayton, out to Fareham, Gosport, Havant and Waterlooville. Postcodes PO1 to PO6.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Portsmouth?**
-23 conservation areas including Old Portsmouth and Southsea. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Is a uPVC front door secure enough for Portsmouth?**
+A modern uPVC door with a 5-point multi-point lock, PAS 24 certification and a TS007 3-star anti-snap cylinder meets what most insurers ask for.
 
 **How much do uPVC doors cost in Portsmouth?**
-Roughly £670 to £1,854 fitted in Portsmouth using the local 1.03x factor - plain panel doors at the lower end, French and sliding patio sets at the top.
+Roughly £670 to £1,854 fitted using the local 1.03x factor, with French and sliding patio sets at the top.
 
-**Can you fit French or patio doors in a standard opening?**
-Often yes, but widening for a patio set can need a lintel. A site check confirms whether the existing opening works as-is.
+**Does salt air corrode door fittings?**
+It can - ask for marine-grade or stainless hinges and handles on any door that faces the weather.

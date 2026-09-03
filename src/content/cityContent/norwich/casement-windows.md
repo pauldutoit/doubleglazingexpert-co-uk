@@ -6,34 +6,34 @@ intentSlug: "casement-windows"
 region: "East of England"
 indexable: false
 metaTitle: "Casement Windows in Norwich | Double Glazing Expert"
-metaDescription: "Casement Windows in Norwich: prices from £319 to £819. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC casement window quotes in Norwich from FENSA fitters. From £319 per window. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Casement Windows for Norwich homes
+## Casement windows for Norwich homes
 
-Casement windows - hinged at the side, opening outward - are the cheapest uPVC window to replace and the fastest to fit. In Norwich the choice usually comes down to flush-sash versus standard profile.
+Casements are the standard replacement across the interwar semis of Eaton, Hellesdon and Thorpe St Andrew, and on the rear elevations of the Golden Triangle terraces. A flush-sash casement holds a cleaner line on the older streets than a standard lipped frame.
 
-## What you get
+## Why Norwich homeowners choose us
 
-- Installers who cover NR1, NR2, NR3 and NR4 and the rest of the Norwich area
-- Quotes matched to Norwich's housing stock: medieval and Georgian houses in the walled centre, Victorian terraces across Golden Triangle and Lakenham, plus interwar Eaton Park semis.
-- Foiled finishes for streets where white uPVC would look wrong
-- Argon-filled A-rated units, warm-edge spacer, internally beaded for security
-- Egress hinges on bedroom windows to meet the 450mm fire-escape rule
+- Flush-sash and standard casements priced side by side
+- Casements for terrace rears where the front stays period
+- Egress hinges on bedroom windows for the 450mm fire-escape rule
+- Trickle vents to Building Regs, colour-matched to the frame
+- Multi-point locking and internal beading as standard
 
 ## Areas we cover around Norwich
 
-Golden Triangle, Trowse, Eaton and Thorpe St Andrew and the rest of Norwich are all covered, along with Great Yarmouth, Kings Lynn and Cambridge close by. Ask if your postcode isn't in NR1, NR2, NR3 and NR4 - we likely still reach it.
+Eaton, Hellesdon, Thorpe St Andrew, Heigham and Sprowston, plus Wymondham, Diss, Aylsham and North Walsham. Postcodes NR1 to NR6.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Norwich?**
-The city centre is a large conservation area - listed building density is one of the highest in England outside London. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**What is a flush casement window?**
+One where the sash closes level with the frame - a more traditional line for Norwich's Victorian streets, at roughly 10 to 15% more.
+
+**Can casements meet bedroom fire-escape rules?**
+Yes, with the right hinge - a clear opening of at least 450mm x 450mm and 0.33 square metres, confirmed per window.
 
 **How much are casement windows in Norwich?**
-Around £319 to £819 per window fitted in Norwich, based on the local 0.91x cost factor. Flush-sash profiles sit 10-15% above standard.
-
-**What is a flush casement window?**
-One where the opening sash closes level with the outer frame instead of sitting proud of it - a cleaner, more traditional line that suits older Norwich streets, for about 10-15% more than a standard casement.
+Around £319 to £819 per window fitted, using the local 0.91x cost factor.

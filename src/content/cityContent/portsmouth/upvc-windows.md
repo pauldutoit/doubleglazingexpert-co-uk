@@ -6,34 +6,34 @@ intentSlug: "upvc-windows"
 region: "South East England"
 indexable: false
 metaTitle: "uPVC Windows in Portsmouth | Double Glazing Expert"
-metaDescription: "uPVC Windows in Portsmouth: prices from £361 to £927. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC window quotes in Portsmouth from FENSA fitters. From £361 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Replacing uPVC windows in Portsmouth
+## New uPVC windows for a Portsmouth home
 
-Swapping tired windows for A-rated uPVC is the cheapest way to warm up a Portsmouth home. Terraced streets across Southsea and Fratton, Victorian villas in Old Portsmouth, plus postwar rebuild in the docks area after heavy WWII bombing. A local installer prices from the actual openings, not a catalogue.
+Portsmouth is the most densely built city in the UK - long, tight terraced streets across Southsea, Fratton and North End on flat, exposed Portsea Island. The salt air off the Solent is hard on frames and hardware, and the terraces have tall, narrow openings rarely a stock size. Old Portsmouth and Southsea seafront are tightly controlled.
 
-## What you get
+## Why Portsmouth homeowners choose us
 
-- Quotes matched to Portsmouth's housing stock: terraced streets across Southsea and Fratton, Victorian villas in Old Portsmouth, plus postwar rebuild in the docks area after heavy WWII bombing.
-- Local knowledge of Southsea, Old Portsmouth and Cosham and the surrounding Portsmouth streets
-- Flush-sash profile available where a standard lipped casement would look wrong
-- Made-to-measure uPVC sized to your original openings, not forced into stock frames
-- A-rated 28mm argon-filled units with a warm-edge spacer and low-E soft coat as standard
+- Made-to-measure frames for narrow, tall island terrace openings
+- Marine-grade hardware and weather-rated seals for salt-laden Solent air
+- Knowledge of the Old Portsmouth and Southsea conservation areas
+- A-rated 28mm units, warm-edge spacers and trickle vents to Building Regs as standard
+- FENSA or CERTASS registered, frames and glass guaranteed separately
 
 ## Areas we cover around Portsmouth
 
-Coverage runs across Portsmouth - Milton, Southsea, Old Portsmouth and Cosham among them - and into Southampton, Fareham and Reading. Postcodes from PO1, PO2, PO4 and PO5 outward.
+Southsea, Fratton, North End, Cosham, Drayton and Milton, out to Fareham, Gosport, Havant and Waterlooville. Postcodes PO1, PO2, PO4, PO5 and PO6.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Portsmouth?**
-23 conservation areas including Old Portsmouth and Southsea. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Does the sea air affect a Portsmouth window job?**
+Yes - salt corrodes cheap hardware and degrades seals faster, so marine-grade friction stays, hinges and handles are worth specifying on any weather-facing elevation.
+
+**Do Portsmouth conservation areas restrict windows?**
+Old Portsmouth and parts of Southsea have tight controls on street-facing frames - check with the council before ordering.
 
 **How much do uPVC windows cost in Portsmouth?**
-Typical prices in Portsmouth run about £361 to £927 per window fitted, using this area's regional labour factor of 1.03x the national average. Size, glazing spec and finish move the figure.
-
-**White or foiled frames?**
-White uPVC is cheapest; a foiled finish adds roughly 10-20% and is worth it on streets where white would look out of place. Foiled colours are through-coloured, not painted, so they don't flake.
+Typically £361 to £927 per window fitted, using the South East regional factor of 1.03x the national average.

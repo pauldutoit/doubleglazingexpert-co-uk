@@ -6,34 +6,34 @@ intentSlug: "casement-windows"
 region: "South East England"
 indexable: false
 metaTitle: "Casement Windows in Milton Keynes | Double Glazing Expert"
-metaDescription: "Casement Windows in Milton Keynes: prices from £378 to £972. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC casement window quotes in Milton Keynes from FENSA fitters. From £378 per window. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Casement Windows in Milton Keynes
+## Casement windows for Milton Keynes homes
 
-The local housing tells the story - Postwar New Town, 1970s and 1980s dominant. Across most of that Milton Keynes stock a casement is the right replacement; flush-sash versions suit the older streets where a lipped frame would look modern.
+Casements are the default across MK's 1970s and 1980s estates in Bletchley, Furzton, Bradwell Common and Shenley. The original windows were often large casements or fixed picture panes with a side opener, and many are now failing. A modern uPVC casement is a like-for-like replacement.
 
 ## Why Milton Keynes homeowners choose us
 
-- Fitters who know Milton Keynes's conservation rules - 9 conservation areas focused on the pre-New Town villages of Stony Stratford, Newport Pagnell and Woburn Sands.
-- Quotes matched to Milton Keynes's housing stock: founded as a New Town in 1967, MK is almost entirely postwar - Californian-style grid estates, cul-de-sacs and 1980s brick semis. Few conservation-era streets.
-- Multi-point locking as standard, not an upgrade
-- Flush-sash or standard casement priced side by side so you can compare the look
-- Trickle vents to current Building Regs, colour-matched to the frame
+- Large-format casements sized to the original estate window openings
+- Timber-frame fixing done correctly where the house is not masonry
+- Egress hinges on bedroom windows for the 450mm fire-escape rule
+- Trickle vents to Building Regs, colour-matched to the frame
+- Multi-point locking and internal beading as standard
 
 ## Areas we cover around Milton Keynes
 
-As well as central Milton Keynes, we take on jobs across Woburn Sands, Stony Stratford, Bletchley and Central Milton Keynes, and out to nearby Bedford, Northampton and Luton. Postcodes MK1, MK2, MK3 and MK4 are all covered.
+Bletchley, Furzton, Bradwell Common, Shenley, Wolverton and Newport Pagnell, plus Bedford, Buckingham, Leighton Buzzard and Bicester. Postcodes MK1 to MK9.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Milton Keynes?**
-9 conservation areas focused on the pre-New Town villages of Stony Stratford, Newport Pagnell and Woburn Sands. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can you replace a large fixed picture window with an opening casement?**
+Yes - a fixed pane can be swapped for a casement or a fixed light with a side opener, subject to keeping enough clear opening for ventilation and escape.
+
+**What is a flush casement window?**
+One where the sash closes level with the frame - a cleaner line, at roughly 10 to 15% over a standard casement.
 
 **How much are casement windows in Milton Keynes?**
-Around £378 to £972 per window fitted in Milton Keynes, based on the local 1.08x cost factor. Flush-sash profiles sit 10-15% above standard.
-
-**Outward or inward opening?**
-Almost all UK casements open outward. Inward-opening (tilt-and-turn) is available and useful on upper floors for cleaning, at a price premium.
+Around £378 to £972 per window fitted, using the local 1.08x cost factor.

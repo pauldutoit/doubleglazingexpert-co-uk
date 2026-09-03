@@ -6,34 +6,34 @@ intentSlug: "bay-windows"
 region: "East Midlands"
 indexable: false
 metaTitle: "Bay Windows in Northampton | Double Glazing Expert"
-metaDescription: "Bay Windows in Northampton: prices from £1,104 to £2,944. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Bay window replacement quotes in Northampton from vetted installers. Typical £1,104-£2,944. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Northampton bay Windows: what to expect
+## Bay window replacement in Northampton
 
-Bay windows carry the widest price range of any window type because the variables stack: 3 vs 5 sided, the corner angle, the shape, and whether Northampton's older stock needs structural support added.
+Bays in Northampton are common on the Edwardian villas of Abington, Kingsthorpe and the Billing Road area. Pre-1914 bays were often built without a full structural beam, so a steel or reinforced lintel is usually needed above the bay to meet current Building Regs.
 
 ## Why Northampton homeowners choose us
 
-- Local knowledge of Abington, Kingsley and Weston Favell and the surrounding Northampton streets
-- Fitters who know Northampton's conservation rules - around 22 conservation areas including Boot and Shoe Quarter and Abington.
 - Structural survey of the bay before any frame is ordered
-- Steel or reinforced lintel fitted where the opening needs it to meet Building Regs
+- Matched frame widths so the bay keeps its proportions
+- Steel or reinforced lintel fitted where the opening needs it
+- Lead flashing and apron repairs above the bay included where needed
 - Scaled elevation drawings to approve before manufacture
 
 ## Areas we cover around Northampton
 
-We match homeowners in Kingsley, Weston Favell, Far Cotton and Duston and the wider Northampton area, plus neighbouring Kettering, Leicester and Nottingham. That covers NN1, NN2, NN3 and NN4 and beyond.
+Abington, Kingsthorpe, Billing Road, Kingsley and Weston Favell, plus Wellingborough, Kettering, Daventry and Towcester. Postcodes NN1 to NN5.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Northampton?**
-Around 22 conservation areas including Boot and Shoe Quarter and Abington. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Does my Northampton Edwardian bay need a steel?**
+Almost certainly if it is pre-1914. A survey confirms it before any frame is ordered. Budget £600 to £1,200 for the work.
 
 **How much does a bay window cost in Northampton?**
-Typically £1,104 to £2,944 in Northampton for the glazing, using the local 0.92x factor - plus £600 to £1,200 on top if a structural steel is needed, which a survey confirms.
+Typically £1,104 to £2,944 for the glazing using the local 0.92x factor, plus the structural work if needed.
 
-**Can you keep the internal arch or reveal?**
-Usually yes. A good installer works around the existing plaster arch or square reveal; where it has to be disturbed, making-good should be in the quote.
+**Can you keep the internal window seat?**
+Usually yes - the frame is replaced around the existing seat and reveal, with making-good where they have to be disturbed.

@@ -6,34 +6,34 @@ intentSlug: "window-repair"
 region: "East of England"
 indexable: false
 metaTitle: "Double Glazing Repairs in Norwich | Double Glazing Expert"
-metaDescription: "Double Glazing Repairs in Norwich: prices from £81 to £273. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Misted units, blown seals and faulty hinges repaired in Norwich. From £81. Same-week visits, free quotes."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Double Glazing Repairs for Norwich homes
+## Double glazing repairs in Norwich
 
-When a Norwich window frame is sound but a sealed unit has misted or a mechanism has failed, a repair is a fraction of replacement cost and usually a single visit.
+Where a Norwich frame is sound but a sealed unit has misted or a mechanism has failed, a repair costs a fraction of replacement and is usually one visit. Blown seals on the 1990s and 2000s uPVC across Eaton, Hellesdon and Sprowston are the most common call.
 
 ## Why Norwich homeowners choose us
 
-- Installers who cover NR1, NR2, NR3 and NR4 and the rest of the Norwich area
-- Quotes matched to Norwich's housing stock: medieval and Georgian houses in the walled centre, Victorian terraces across Golden Triangle and Lakenham, plus interwar Eaton Park semis.
-- Written diagnosis before any work - some "misting" is room condensation, a ventilation issue
-- Call-out fees quoted up front for urgent broken-glass or lock-out jobs
-- Same-week visits for windows that will not lock or close
+- Written diagnosis first - some "misting" is room condensation, a ventilation issue
+- Made-to-measure replacement units, including tall Golden Triangle terrace sizes
+- Friction stay, gearbox and multi-point mechanism swaps done in situ
+- Replacement units guaranteed to match the original 10-year seal warranty
+- Timber sash repair specialists for the listed walled-centre stock
 
 ## Areas we cover around Norwich
 
-Trowse, Golden Triangle, Thorpe St Andrew and Eaton and the rest of Norwich are all covered, along with Great Yarmouth, Kings Lynn and Cambridge close by. Ask if your postcode isn't in NR1, NR2, NR3 and NR4 - we likely still reach it.
+Repairs across Eaton, Hellesdon, Sprowston, Golden Triangle and Thorpe St Andrew, plus Wymondham, Diss, Aylsham and North Walsham. Postcodes NR1 to NR6.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Norwich?**
-The city centre is a large conservation area - listed building density is one of the highest in England outside London. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can a misted unit be repaired without a new window?**
+Yes - it is a glass-unit swap and the frame stays in place. Around £81 to £273 per unit in Norwich using the local 0.91x factor.
 
-**How much are double glazing repairs in Norwich?**
-Most repairs in Norwich run £81 to £273 per unit or mechanism using the local 0.91x factor, usually done in a single visit.
+**Blown seal or condensation?**
+A blown seal mists permanently between the panes and can't be wiped. Room-side condensation is a ventilation problem, not a glazing fault.
 
-**Is it worth repairing old double glazing?**
-Up to a point. If more than a third of your windows have blown seals or the frames themselves are failing, replacement usually beats piecemeal repair.
+**Can you repair a listed timber sash in the city centre?**
+Often, yes - draught-proofing and slim glazing in a refurbished sash is frequently the compliant and cheaper route on a listed property.

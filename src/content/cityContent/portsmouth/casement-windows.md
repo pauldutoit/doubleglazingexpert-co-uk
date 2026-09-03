@@ -6,34 +6,34 @@ intentSlug: "casement-windows"
 region: "South East England"
 indexable: false
 metaTitle: "Casement Windows in Portsmouth | Double Glazing Expert"
-metaDescription: "Casement Windows in Portsmouth: prices from £361 to £927. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC casement window quotes in Portsmouth from FENSA fitters. From £361 per window. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Casement Windows in Portsmouth
+## Casement windows for Portsmouth homes
 
-A whole house of casements in Portsmouth (6-10 windows) is normally a one-to-two-day fit. The price driver is glass area and profile, not so much the frame colour.
+Casements are the standard replacement across the interwar and postwar stock of Cosham, Paulsgrove and Drayton, and on the rear elevations of the Southsea and Fratton terraces. A flush-sash casement suits the older island streets better than a lipped frame.
 
 ## Why Portsmouth homeowners choose us
 
-- Fitters who know Portsmouth's conservation rules - 23 conservation areas including Old Portsmouth and Southsea.
-- Installers who cover PO1, PO2, PO4 and PO5 and the rest of the Portsmouth area
-- Trickle vents to current Building Regs, colour-matched to the frame
-- Multi-point locking as standard, not an upgrade
-- Argon-filled A-rated units, warm-edge spacer, internally beaded for security
+- Flush-sash and standard casements priced side by side
+- Marine-grade friction stays and hardware for weather-facing elevations
+- Egress hinges on bedroom windows for the 450mm fire-escape rule
+- Trickle vents to Building Regs, colour-matched to the frame
+- Multi-point locking and internal beading as standard
 
 ## Areas we cover around Portsmouth
 
-As well as central Portsmouth, we take on jobs across Old Portsmouth, Milton, Cosham and Southsea, and out to nearby Southampton, Fareham and Reading. Postcodes PO1, PO2, PO4 and PO5 are all covered.
+Cosham, Paulsgrove, Drayton, Southsea, Fratton and North End, plus Fareham, Gosport, Havant and Waterlooville. Postcodes PO1 to PO6.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Portsmouth?**
-23 conservation areas including Old Portsmouth and Southsea. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**What is a flush casement window?**
+One where the sash closes level with the frame - a more traditional line for Portsmouth's Victorian streets, at roughly 10 to 15% more.
+
+**Do casement hinges last near the sea?**
+Standard ones corrode faster - ask for marine-grade friction stays on any elevation that faces the weather.
 
 **How much are casement windows in Portsmouth?**
-Around £361 to £927 per window fitted in Portsmouth, based on the local 1.03x cost factor. Flush-sash profiles sit 10-15% above standard.
-
-**Outward or inward opening?**
-Almost all UK casements open outward. Inward-opening (tilt-and-turn) is available and useful on upper floors for cleaning, at a price premium.
+Around £361 to £927 per window fitted, using the local 1.03x cost factor.

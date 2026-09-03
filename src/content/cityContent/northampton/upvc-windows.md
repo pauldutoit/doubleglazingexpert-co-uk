@@ -6,34 +6,34 @@ intentSlug: "upvc-windows"
 region: "East Midlands"
 indexable: false
 metaTitle: "uPVC Windows in Northampton | Double Glazing Expert"
-metaDescription: "uPVC Windows in Northampton: prices from £322 to £828. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC window quotes in Northampton from FENSA fitters. From £322 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Northampton uPVC Windows: what to expect
+## New uPVC windows for a Northampton home
 
-Swapping tired windows for A-rated uPVC is the cheapest way to warm up a Northampton home. Victorian shoe-worker terraces in Semilong and St James, Edwardian villas in Abington and Kingsley, plus large postwar estates on the edges. A local installer prices from the actual openings, not a catalogue.
+Northampton grew on the shoe trade, and the Victorian terraces of Semilong, St James and Kingsley were built for shoe workers - compact, red-brick, tall narrow openings. Around them sit Edwardian villas in Abington and Kingsthorpe and large postwar overspill estates. The Boot and Shoe Quarter is a conservation area.
 
 ## Why Northampton homeowners choose us
 
-- Local knowledge of Abington, Kingsley and Weston Favell and the surrounding Northampton streets
-- Quotes matched to Northampton's housing stock: victorian shoe-worker terraces in Semilong and St James, Edwardian villas in Abington and Kingsley, plus large postwar estates on the edges.
-- Trickle vents fitted to current Building Regs without wrecking the sightline
-- Frames and sealed units guaranteed separately, with cover if the installer stops trading
-- Made-to-measure uPVC sized to your original openings, not forced into stock frames
+- Made-to-measure frames for the compact shoe-worker terrace openings
+- Knowledge of the Boot and Shoe Quarter and Abington conservation areas
+- A-rated 28mm units, warm-edge spacers and trickle vents to Building Regs as standard
+- Foiled finishes to suit red-brick streets, as well as white
+- FENSA or CERTASS registered, frames and glass guaranteed separately
 
 ## Areas we cover around Northampton
 
-We match homeowners in Abington, Kingsley, Duston and Weston Favell and the wider Northampton area, plus neighbouring Kettering, Leicester and Nottingham. That covers NN1, NN2, NN3 and NN4 and beyond.
+Abington, Kingsley, Kingsthorpe, Weston Favell, Duston and Far Cotton, out to Wellingborough, Kettering, Daventry and Towcester. Postcodes NN1 to NN5.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Northampton?**
-Around 22 conservation areas including Boot and Shoe Quarter and Abington. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Do Northampton conservation areas restrict windows?**
+Around 22 conservation areas including the Boot and Shoe Quarter and Abington have controls on street-facing frames - check with the council before ordering.
 
 **How much do uPVC windows cost in Northampton?**
-Typical prices in Northampton run about £322 to £828 per window fitted, using this area's regional labour factor of 0.92x the national average. Size, glazing spec and finish move the figure.
+Typically £322 to £828 per window fitted, using the East Midlands regional factor of 0.92x the national average.
 
-**How long does a full house of uPVC windows take?**
-For a typical Northampton home of 8-10 windows, one to two days with a two-person team. Bays and structural openings add time.
+**Are shoe-worker terrace openings a standard size?**
+Rarely - they were built small and to no fixed pattern, so made-to-measure frames are the norm.

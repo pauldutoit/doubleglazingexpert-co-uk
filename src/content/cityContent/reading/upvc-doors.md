@@ -6,34 +6,34 @@ intentSlug: "upvc-doors"
 region: "South East England"
 indexable: false
 metaTitle: "uPVC Doors in Reading | Double Glazing Expert"
-metaDescription: "uPVC Doors in Reading: prices from £728 to £2,016. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC front, back and patio door quotes in Reading from vetted fitters. From £728. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Reading uPVC Doors: what to expect
+## uPVC doors for Reading homes
 
-Reading's streets are a period mix - Victorian and interwar, with recent riverside new-build. Across that stock, a uPVC front, back, French or patio door is a single-day fit - the spec that matters is the locking, not the colour.
+For a Reading terrace or semi, uPVC is the sensible choice for back, side and garden doors, and a budget option for the front. In the Newtown and east Reading HMO streets a secure, well-sealed set of doors with anti-snap cylinders is worth specifying.
 
-## Why locals choose us
+## Why Reading homeowners choose us
 
-- Local knowledge of Caversham, Tilehurst and Earley and the surrounding Reading streets
-- Quotes matched to Reading's housing stock: victorian terraces around Newtown and Katesgrove, interwar semis in Caversham and Tilehurst, plus 1990s-2000s apartments along the Thames and Kennet.
-- French and patio door options for narrow terrace returns and side passages
-- Toughened or laminated safety glass in every door side panel
-- Low or level threshold options where access matters
+- PAS 24 multi-point locking and anti-snap cylinders as standard
+- Secure door sets for shared and let properties
+- Acoustic-core door options for homes near the main line
+- Foiled colours matched to your existing windows and joinery
+- Old door and frame removed and disposed of within the quote
 
 ## Areas we cover around Reading
 
-We match homeowners in Earley, Whitley, Caversham and Woodley and the wider Reading area, plus neighbouring Slough, Basingstoke and Southampton. That covers RG1, RG2, RG4 and RG6 and beyond.
+Caversham, Tilehurst, Earley, Woodley and Newtown, out to Wokingham, Bracknell, Henley and Twyford. Postcodes RG1 to RG30.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Reading?**
-13 conservation areas including Caversham and central Reading. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Is a uPVC front door secure enough for Reading?**
+A modern uPVC door with a 5-point multi-point lock, PAS 24 certification and a TS007 3-star anti-snap cylinder meets what most insurers ask for.
 
 **How much do uPVC doors cost in Reading?**
-Roughly £728 to £2,016 fitted in Reading using the local 1.12x factor - plain panel doors at the lower end, French and sliding patio sets at the top.
+Roughly £728 to £2,016 fitted using the local 1.12x factor, with French and sliding patio sets at the top.
 
-**uPVC or composite for the front?**
-Composite doors are thicker, heavier and hold colour better, for roughly double the price. For back, side and garden doors, uPVC is the usual and sensible choice.
+**Can you fit a patio door where the back door is now?**
+Sometimes as-is, but widening for a patio set usually needs a lintel. A site check confirms it.

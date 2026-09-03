@@ -6,34 +6,34 @@ intentSlug: "upvc-windows"
 region: "South East England"
 indexable: false
 metaTitle: "uPVC Windows in Reading | Double Glazing Expert"
-metaDescription: "uPVC Windows in Reading: prices from £392 to £1,008. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC window quotes in Reading from FENSA fitters. From £392 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Reading uPVC Windows: what to expect
+## New uPVC windows for a Reading home
 
-Reading's streets are a period mix - Victorian and interwar, with recent riverside new-build. That mix is what decides a uPVC window job in Reading: opening sizes, lintel type and whether the elevation faces a protected street all change the spec.
+Reading is a busy commuter town with a dense core of Victorian terraces in Newtown, Katesgrove and east Reading - much of it rental and HMO stock near the station and the university. Around that sit the interwar semis of Caversham, Tilehurst and Woodley. Homes near the Great Western main line often want acoustic glazing.
 
-## Why locals choose us
+## Why Reading homeowners choose us
 
-- Local knowledge of Caversham, Tilehurst and Earley and the surrounding Reading streets
-- Fitters who know Reading's conservation rules - 13 conservation areas including Caversham and central Reading.
-- Flush-sash profile available where a standard lipped casement would look wrong
-- Made-to-measure uPVC sized to your original openings, not forced into stock frames
-- Frames and sealed units guaranteed separately, with cover if the installer stops trading
+- Acoustic laminated glazing options for homes near the main line and the IDR
+- Landlord-friendly quoting for the Newtown and east Reading HMO streets
+- Made-to-measure frames for tall Victorian terrace openings
+- Knowledge of the Caversham and central Reading conservation areas
+- FENSA or CERTASS registered, frames and glass guaranteed separately
 
 ## Areas we cover around Reading
 
-We match homeowners in Whitley, Woodley, Tilehurst and Earley and the wider Reading area, plus neighbouring Slough, Basingstoke and Southampton. That covers RG1, RG2, RG4 and RG6 and beyond.
+Caversham, Tilehurst, Earley, Woodley, Newtown and Whitley, out to Wokingham, Bracknell, Henley and Twyford. Postcodes RG1, RG2, RG4, RG6 and RG30.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Reading?**
-13 conservation areas including Caversham and central Reading. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Does acoustic glazing help near the Reading main line?**
+Yes - a laminated acoustic pane in a well-sealed uPVC frame noticeably cuts rail and road noise. Ask for the acoustic (dB) rating, not just the U-value.
+
+**Do the HMO streets in Reading have different rules?**
+The core rules are the same, but safe bedroom escape and ventilation matter more in a shared house - egress hinges and trickle vents should be sized accordingly.
 
 **How much do uPVC windows cost in Reading?**
-Typical prices in Reading run about £392 to £1,008 per window fitted, using this area's regional labour factor of 1.12x the national average. Size, glazing spec and finish move the figure.
-
-**How long does a full house of uPVC windows take?**
-For a typical Reading home of 8-10 windows, one to two days with a two-person team. Bays and structural openings add time.
+Typically £392 to £1,008 per window fitted, using the South East regional factor of 1.12x - among the highest in the country.

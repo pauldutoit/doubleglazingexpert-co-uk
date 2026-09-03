@@ -6,34 +6,34 @@ intentSlug: "double-glazing"
 region: "East of England"
 indexable: false
 metaTitle: "Double Glazing in Norwich | Double Glazing Expert"
-metaDescription: "Double Glazing in Norwich: prices from £2,730 to £8,190. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Whole-home double glazing quotes in Norwich from vetted installers. Typical £2,730-£8,190. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Double Glazing for Norwich homes
+## Whole-home double glazing in Norwich
 
-Doing every window in a Norwich home at once gets you one matched finish, a single set of access costs and usually a better per-unit price than replacing them piecemeal. Medieval and Georgian houses in the walled centre, Victorian terraces across Golden Triangle and Lakenham, plus interwar Eaton Park semis.
+A Golden Triangle or Thorpe Hamlet terrace is usually 8 to 12 openings including a bay; the Eaton and Cringleford semis are more uniform. Doing everything in one visit gets you a matched finish and one set of access costs.
 
 ## Why Norwich homeowners choose us
 
-- Installers who cover NR1, NR2, NR3 and NR4 and the rest of the Norwich area
-- Fitters who know Norwich's conservation rules - the city centre is a large conservation area - listed building density is one of the highest in England outside London.
-- A single matched foiled finish inside and out across the whole property
-- Access, scaffolding, parking and waste removal priced up front
-- Structural checks on older bays before any glass is ordered
+- One itemised quote per opening so you can compare fairly
+- Mixed-material projects handled where a central-Norwich elevation must stay timber
+- A single matched foiled finish across the property where uPVC is used
+- Structural check on any bay before glass is ordered
+- FENSA certificate registered in your name within 30 days
 
 ## Areas we cover around Norwich
 
-Heigham, Golden Triangle, Eaton and Thorpe St Andrew and the rest of Norwich are all covered, along with Great Yarmouth, Kings Lynn and Cambridge close by. Ask if your postcode isn't in NR1, NR2, NR3 and NR4 - we likely still reach it.
+Golden Triangle, Thorpe St Andrew, Eaton, Heigham, Hellesdon and Sprowston, out to Wymondham, Diss, Aylsham and North Walsham. Postcodes NR1 to NR6.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Norwich?**
-The city centre is a large conservation area - listed building density is one of the highest in England outside London. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can a house in the Norwich walled centre be done in uPVC?**
+Often not - a listed or conservation-area property there usually needs timber on the street elevation, making it a mixed-material job.
 
 **What does whole-home double glazing cost in Norwich?**
-A full replacement in Norwich typically lands between £2,730 and £8,190 depending on opening count, frame material and how many are bays. That reflects the area's 0.91x regional cost factor.
+Usually £2,730 to £8,190 for uPVC, using the local 0.91x cost factor. A part-timber conservation job costs more.
 
-**How long does a whole-house job take in Norwich?**
-Usually two to four days for a mid-terrace or semi, longer where scaffolding or a structural bay is involved. Ask for a day-by-day plan before work starts.
+**How long does it take?**
+Two to four days for a terrace, longer where a structural bay is involved.
