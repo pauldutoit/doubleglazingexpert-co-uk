@@ -1,0 +1,45 @@
+{
+  "siteName": "Double Glazing Expert",
+  "domain": "doubleglazingexpert.co.uk",
+  "niche": "double glazing",
+  "nicheLabel": "uPVC Windows & Double Glazing Quotes",
+  "phone": "+44 0000 000000",
+  "phoneEnabled": false,
+  "email": "contact@doubleglazingexpert.co.uk",
+  "fromEmail": "leads@doubleglazingexpert.co.uk",
+  "tagline": "Compare uPVC double glazing quotes from vetted local fitters",
+  "subTagline": "One short form, up to three quotes from FENSA-registered installers near you. No call centres, no pressure, no cost.",
+  "disclosureText": "Double Glazing Expert is an independent quote-matching service. We don't fit windows ourselves - we pass your request to vetted, independently-run installers who cover your area.",
+  "logoIcon": "window",
+  "themeColor": "#0f766e",
+  "accentColor": "#ea580c",
+  "locale": "en-GB",
+  "legalName": "Double Glazing Expert",
+  "matomoUrl": "",
+  "matomoSiteId": "",
+  "legalAddress": "",
+  "_contentNotice": "INTERNAL NOTE, not rendered: testimonials below are placeholder examples for design preview only, and the rating / stats / guarantee / vetting claims are illustrative market-reference figures, not verified facts about this business. Before this site is deployed or indexed: replace testimonials with real reviews, set a real legalAddress and legalName, wire a dedicated analytics ID (do not reuse another portfolio site's Matomo), and confirm every factual claim.",
+  "aggregateRating": { "value": 4.8, "count": 116 },
+  "stats": [
+    { "value": "2,500+", "label": "Homeowners matched" },
+    { "value": "4.8/5", "label": "Average rating" },
+    { "value": "FENSA", "label": "Registered installers" },
+    { "value": "10yr", "label": "Typical guarantee" }
+  ],
+  "howItWorks": [
+    { "title": "Describe the job", "description": "A minute of questions about your windows or doors, how many units and your postcode." },
+    { "title": "Get matched", "description": "We send your brief to vetted installers covering your area who quote for the work." },
+    { "title": "Compare and decide", "description": "Weigh up the quotes on price and reviews, then book direct. No obligation either way." }
+  ],
+  "testimonials": [
+    { "name": "Laura B.", "location": "Chelmsford", "quote": "Filled the form in one evening and had two quotes by the next afternoon. Went with the fitter who had the better reviews, not the cheapest.", "rating": 5 },
+    { "name": "Mark T.", "location": "Leeds", "quote": "Wanted the whole back of the house done in uPVC. The quotes came back close enough that I could actually compare like for like.", "rating": 5 },
+    { "name": "Anita R.", "location": "Bristol", "quote": "A misted unit in the front bay was all I needed sorted. Matched with a local repair firm rather than a full-replacement sales pitch.", "rating": 4 }
+  ],
+  "faq": [
+    { "question": "What does uPVC double glazing cost in the UK?", "answer": "As a rough guide from typical UK market rates: a standard uPVC casement window runs from about £350 to £900 fitted, sash-style windows from about £600 to £1,100, and a bay window from about £1,200 to £3,200 depending on size and spec. Regional labour rates move these figures. A free quote gives you the real number for your property." },
+    { "question": "Is it actually free to compare quotes?", "answer": "Yes, it's free for homeowners. Installers pay us a small fee when we pass them a quote request, so there's no charge to you and no reason for us to favour one firm over another." },
+    { "question": "Who are the installers?", "answer": "Independently-run local window and door firms. FENSA (or equivalent competent-person scheme) registration is one of the checks we make before a firm joins the network." },
+    { "question": "How many installers will contact me?", "answer": "Up to three, so you have something to compare. You're never obliged to accept any of the quotes." }
+  ]
+}

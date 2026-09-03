@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "upvc-windows",
+    "label": "uPVC Windows",
+    "shortLabel": "uPVC Windows",
+    "searchIntent": "someone wants new or replacement uPVC windows and is comparing installer quotes",
+    "priceFrom": "From £350",
+    "basePriceRange": [350, 900],
+    "icon": "🪟"
+  },
+  {
+    "slug": "double-glazing",
+    "label": "Double Glazing",
+    "shortLabel": "Double Glazing",
+    "searchIntent": "someone wants to replace single glazing or tired old units across the whole home and is comparing quotes",
+    "priceFrom": "From £3,000",
+    "basePriceRange": [3000, 9000],
+    "icon": "🏠"
+  },
+  {
+    "slug": "casement-windows",
+    "label": "Casement Windows",
+    "shortLabel": "Casement Windows",
+    "searchIntent": "someone wants side-hung uPVC casement windows replaced or newly fitted",
+    "priceFrom": "From £350",
+    "basePriceRange": [350, 900],
+    "icon": "🪟"
+  },
+  {
+    "slug": "bay-windows",
+    "label": "Bay Windows",
+    "shortLabel": "Bay Windows",
+    "searchIntent": "someone wants a uPVC bay window installed or replaced and is comparing quotes",
+    "priceFrom": "From £1,200",
+    "basePriceRange": [1200, 3200],
+    "icon": "🏛️"
+  },
+  {
+    "slug": "upvc-doors",
+    "label": "uPVC Doors",
+    "shortLabel": "uPVC Doors",
+    "searchIntent": "someone wants a uPVC front, back, French or patio door fitted",
+    "priceFrom": "From £650",
+    "basePriceRange": [650, 1800],
+    "icon": "🚪"
+  },
+  {
+    "slug": "window-repair",
+    "label": "Double Glazing Repairs",
+    "shortLabel": "Repairs",
+    "searchIntent": "someone has a misted unit, blown seal or faulty hinge and wants a double glazing repair, possibly urgent",
+    "priceFrom": "From £89",
+    "basePriceRange": [89, 300],
+    "icon": "🔧"
+  }
+]
