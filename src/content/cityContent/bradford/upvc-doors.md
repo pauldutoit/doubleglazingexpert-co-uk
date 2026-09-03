@@ -6,34 +6,34 @@ intentSlug: "upvc-doors"
 region: "Yorkshire and the Humber"
 indexable: false
 metaTitle: "uPVC Doors in Bradford | Double Glazing Expert"
-metaDescription: "uPVC Doors in Bradford: prices from £559 to £1,548. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC front, back and patio door quotes in Bradford from vetted fitters. From £559. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## uPVC Doors for Bradford homes
+## uPVC doors for Bradford homes
 
-uPVC is the standard for back and side doors across Bradford and a budget option for the front. Yorkshire stone back-to-back terraces (shared with Leeds), Victorian mill-owner villas around Manningham, and interwar semis across Wibsey and Idle.
+On a Bradford back-to-back the front door opens straight onto the street with no hallway buffer, so a good compression seal and a weathered threshold matter. uPVC handles that well, and a French or patio door onto a yard costs far less than aluminium.
 
 ## Why Bradford homeowners choose us
 
-- Installers who cover BD1, BD2, BD3 and BD5 and the rest of the Bradford area
-- Fitters who know Bradford's conservation rules - saltaire is a UNESCO World Heritage Site - the whole village is a conservation area with strict frame rules.
-- French and patio door options for narrow terrace returns and side passages
+- PAS 24 multi-point locking and anti-snap cylinders as standard
+- Draught-sealed thresholds for front doors that open straight onto the street
 - Foiled colours matched to your existing windows and joinery
+- Toughened or laminated safety glass in every door side panel
 - Old door and frame removed and disposed of within the quote
 
 ## Areas we cover around Bradford
 
-Idle, Heaton, Saltaire and Wibsey and the rest of Bradford are all covered, along with Leeds, Keighley and Sheffield close by. Ask if your postcode isn't in BD1, BD2, BD3 and BD5 - we likely still reach it.
+Manningham, Heaton, Idle, Wibsey and Clayton, out to Leeds, Keighley, Shipley and Bingley. Postcodes BD1 to BD9.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Bradford?**
-Saltaire is a UNESCO World Heritage Site - the whole village is a conservation area with strict frame rules. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Is a uPVC front door secure enough for Bradford?**
+A modern uPVC door with a 5-point multi-point lock, PAS 24 certification and a TS007 3-star anti-snap cylinder meets what most insurers ask for.
 
 **How much do uPVC doors cost in Bradford?**
-Roughly £559 to £1,548 fitted in Bradford using the local 0.86x factor - plain panel doors at the lower end, French and sliding patio sets at the top.
+Roughly £559 to £1,548 fitted using the local 0.86x factor, with French and sliding patio sets at the top.
 
-**Is a uPVC front door secure enough?**
-A modern uPVC door with a 5-point multi-point lock, PAS 24 certification and a TS007 3-star anti-snap cylinder meets what most insurers ask for. Composite adds mass and looks, not fundamentally more lock security.
+**Can you improve draughts on a street-facing front door?**
+Yes - a compression-seal uPVC door with a weathered threshold is a big step up from an old timber door opening straight onto the pavement.

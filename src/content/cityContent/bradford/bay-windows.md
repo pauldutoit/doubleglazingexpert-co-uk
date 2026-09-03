@@ -6,34 +6,34 @@ intentSlug: "bay-windows"
 region: "Yorkshire and the Humber"
 indexable: false
 metaTitle: "Bay Windows in Bradford | Double Glazing Expert"
-metaDescription: "Bay Windows in Bradford: prices from £1,032 to £2,752. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Bay window replacement quotes in Bradford from vetted installers. Typical £1,032-£2,752. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Bay Windows for Bradford homes
+## Bay window replacement in Bradford
 
-A Bradford bay done right transforms a room and adds resale value; done wrong it is expensive to put right. Scaled elevation drawings before manufacture are non-negotiable.
+Stone bays on the Victorian villas of Manningham, Heaton and Frizinghall are the trickiest window job in a Bradford house. Many were built with the box frames carrying load, so a steel or reinforced lintel is usually needed above the bay, and the stone reveal has to be reinstated carefully afterwards.
 
-## What you get
+## Why Bradford homeowners choose us
 
-- Installers who cover BD1, BD2, BD3 and BD5 and the rest of the Bradford area
-- Fitters who know Bradford's conservation rules - saltaire is a UNESCO World Heritage Site - the whole village is a conservation area with strict frame rules.
 - Structural survey of the bay before any frame is ordered
-- Steel or reinforced lintel fitted where the opening needs it to meet Building Regs
-- Matched frame widths across the bay so the proportions stay right
+- Matched frame widths so a stone bay keeps its proportions
+- Steel or reinforced lintel fitted where the opening needs it
+- Careful making-good of stonework and lead flashing above the bay
+- Scaled elevation drawings to approve before manufacture
 
 ## Areas we cover around Bradford
 
-Manningham, Clayton, Idle and Wibsey and the rest of Bradford are all covered, along with Leeds, Keighley and Sheffield close by. Ask if your postcode isn't in BD1, BD2, BD3 and BD5 - we likely still reach it.
+Manningham, Heaton, Frizinghall, Idle and Clayton, plus Leeds, Keighley, Shipley and Bingley. Postcodes BD1 to BD9.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Bradford?**
-Saltaire is a UNESCO World Heritage Site - the whole village is a conservation area with strict frame rules. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Does my Bradford Victorian bay need a steel?**
+Almost certainly if it is pre-1914. A survey confirms it before any frame is ordered. Budget £600 to £1,200 for the structural work.
 
 **How much does a bay window cost in Bradford?**
-Typically £1,032 to £2,752 in Bradford for the glazing, using the local 0.86x factor - plus £600 to £1,200 on top if a structural steel is needed, which a survey confirms.
+Typically £1,032 to £2,752 for the glazing using the local 0.86x factor, plus the structural work if needed.
 
-**Will a new bay match a conservation area street?**
-It can, but the profile and glazing bar pattern usually need council sign-off first. Get written pre-approval before the frames are made.
+**Will the stone reveal be reinstated?**
+It should be - the quote must cover making-good the stonework and lead flashing, not just the frame.

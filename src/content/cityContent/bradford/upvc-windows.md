@@ -6,34 +6,34 @@ intentSlug: "upvc-windows"
 region: "Yorkshire and the Humber"
 indexable: false
 metaTitle: "uPVC Windows in Bradford | Double Glazing Expert"
-metaDescription: "uPVC Windows in Bradford: prices from £301 to £774. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC window quotes in Bradford from FENSA fitters. From £301 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## uPVC Windows for Bradford homes
+## New uPVC windows for a Bradford home
 
-Swapping tired windows for A-rated uPVC is the cheapest way to warm up a Bradford home. Yorkshire stone back-to-back terraces (shared with Leeds), Victorian mill-owner villas around Manningham, and interwar semis across Wibsey and Idle. A local installer prices from the actual openings, not a catalogue.
+Bradford shares the Yorkshire stone back-to-back with Leeds - houses in Great Horton, Girlington and West Bowling that adjoin the next street at the rear, so windows face only one or two ways. Add the mill-owner villas of Manningham and the interwar semis of Wibsey and Idle, and a window job here really depends on which you have. Saltaire is a separate case entirely.
 
 ## Why Bradford homeowners choose us
 
-- Installers who cover BD1, BD2, BD3 and BD5 and the rest of the Bradford area
-- Fitters who know Bradford's conservation rules - saltaire is a UNESCO World Heritage Site - the whole village is a conservation area with strict frame rules.
-- Made-to-measure uPVC sized to your original openings, not forced into stock frames
-- FENSA or CERTASS registered, so Building Regs compliance is self-certified
-- A-rated 28mm argon-filled units with a warm-edge spacer and low-E soft coat as standard
+- Fitters who understand back-to-back layouts and single-aspect ventilation
+- Openings sized to Yorkshire stone terraces, not forced into stock frames
+- Clear guidance on Saltaire, where the whole village is protected
+- A-rated 28mm units, warm-edge spacers and trickle vents to Building Regs as standard
+- FENSA or CERTASS registered, frames and glass guaranteed separately
 
 ## Areas we cover around Bradford
 
-Idle, Manningham, Heaton and Saltaire and the rest of Bradford are all covered, along with Leeds, Keighley and Sheffield close by. Ask if your postcode isn't in BD1, BD2, BD3 and BD5 - we likely still reach it.
+Manningham, Heaton, Idle, Wibsey, Clayton and the wider district, out to Leeds, Keighley, Shipley and Bingley. Postcodes BD1 to BD3, BD5, BD7 and BD9.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Bradford?**
-Saltaire is a UNESCO World Heritage Site - the whole village is a conservation area with strict frame rules. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can I fit uPVC windows in Saltaire?**
+Saltaire is a UNESCO World Heritage Site and the whole village is a conservation area with strict rules - uPVC is very rarely permitted on the street elevation, and consent is required. A sympathetic timber or slimline option may be acceptable; check with Bradford Council first.
+
+**Do back-to-back houses have special ventilation rules?**
+They can - a single-aspect house depends heavily on trickle ventilation and extract fans, so trickle vents in the new frames are not optional.
 
 **How much do uPVC windows cost in Bradford?**
-Typical prices in Bradford run about £301 to £774 per window fitted, using this area's regional labour factor of 0.86x the national average. Size, glazing spec and finish move the figure.
-
-**White or foiled frames?**
-White uPVC is cheapest; a foiled finish adds roughly 10-20% and is worth it on streets where white would look out of place. Foiled colours are through-coloured, not painted, so they don't flake.
+Typically £301 to £774 per window fitted, using the Yorkshire regional factor of 0.86x the national average.

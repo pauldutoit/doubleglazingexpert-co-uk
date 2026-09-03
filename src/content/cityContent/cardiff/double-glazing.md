@@ -6,34 +6,34 @@ intentSlug: "double-glazing"
 region: "Wales"
 indexable: false
 metaTitle: "Double Glazing in Cardiff | Double Glazing Expert"
-metaDescription: "Double Glazing in Cardiff: prices from £2,640 to £7,920. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Whole-home double glazing quotes in Cardiff from vetted installers. Typical £2,640-£7,920. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Double Glazing in Cardiff
+## Whole-home double glazing in Cardiff
 
-Full-house double glazing in Cardiff means scaffolding, waste removal and making-good as well as the frames themselves - all of which should be in the quote, not sprung on you later. Cardiff's signature bay-fronted Victorian terraces dominate Cathays, Roath and Grangetown, with detached Edwardian villas in Cyncoed and Lisvane, and modern apartments in the Bay redevelopment.
+A Cardiff bay-fronted terrace is usually 8 to 12 openings including the two-storey front bay. That stacked bay is the biggest single item on the quote - it often needs the structure checked at both levels. Doing the whole house in one visit gets you a matched finish rather than a patchwork.
 
-## Why locals choose us
+## Why Cardiff homeowners choose us
 
-- Fitters who know Cardiff's conservation rules - around 27 conservation areas including Pontcanna, Roath Park and Cathays Park.
-- Local knowledge of Cathays, Roath and Pontcanna and the surrounding Cardiff streets
-- Structural checks on older bays before any glass is ordered
-- FENSA certificate registered in your name within 30 days - the document you need to sell
-- Making-good of plaster and external rendering included, not billed as an extra
+- One itemised quote per opening so you can compare fairly
+- Structural check of the two-storey bay at both levels before glass is ordered
+- A single matched foiled finish across the whole property
+- Access and scaffolding for terraced streets priced up front
+- FENSA certificate registered in your name within 30 days
 
 ## Areas we cover around Cardiff
 
-As well as central Cardiff, we take on jobs across Roath, Penylan, Cyncoed and Cathays, and out to nearby Barry, Caerphilly and Bridgend. Postcodes CF10, CF11, CF14 and CF23 are all covered.
+Cathays, Roath, Pontcanna, Canton, Penylan and Cyncoed, out to Penarth, Barry, Caerphilly and Newport. Postcodes CF10 to CF24.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Cardiff?**
-Around 27 conservation areas including Pontcanna, Roath Park and Cathays Park. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**My Cardiff bay runs over two floors - is that a bigger job?**
+Yes - the structure has to be checked at both levels and the bays have to line up, so it costs more and takes longer than a single-storey bay.
 
 **What does whole-home double glazing cost in Cardiff?**
-A full replacement in Cardiff typically lands between £2,640 and £7,920 depending on opening count, frame material and how many are bays. That reflects the area's 0.88x regional cost factor.
+Usually £2,640 to £7,920 depending on opening count, frame material and the bay, using the local 0.88x cost factor.
 
-**Can I do it in phases?**
-You can, but doing it in one visit means one scaffold, one matched finish and usually a lower per-window price. Phasing makes sense mainly when cash flow forces it.
+**How long does it take?**
+Two to four days for a terrace, longer where the two-storey bay needs structural work.

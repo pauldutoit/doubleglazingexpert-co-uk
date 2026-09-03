@@ -6,34 +6,34 @@ intentSlug: "window-repair"
 region: "North West England"
 indexable: false
 metaTitle: "Double Glazing Repairs in Liverpool | Double Glazing Expert"
-metaDescription: "Double Glazing Repairs in Liverpool: prices from £78 to £264. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Misted units, blown seals and faulty hinges repaired in Liverpool. From £78. Same-week visits, free quotes."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Liverpool double Glazing Repairs: what to expect
+## Double glazing repairs in Liverpool
 
-Repair beats replacement in Liverpool until repair costs approach half the price of a new window. Misted units, faulty gearboxes and worn friction stays are all fixable in situ.
+Where a Liverpool frame is sound but a sealed unit has misted or a mechanism has failed, a repair is a fraction of replacement cost and usually one visit. Blown seals on the 1990s and 2000s uPVC in West Derby, Childwall and Aigburth are the most common call, and the coastal climate speeds them up.
 
-## Why locals choose us
+## Why Liverpool homeowners choose us
 
-- Local knowledge of Woolton, Allerton and Aigburth and the surrounding Liverpool streets
-- Installers who cover L1, L2, L3 and L8 and the rest of the Liverpool area
-- Call-out fees quoted up front for urgent broken-glass or lock-out jobs
-- Same-week visits for windows that will not lock or close
-- Made-to-measure replacement sealed units for non-standard openings
+- Written diagnosis first - some "misting" is room condensation, a ventilation issue
+- Made-to-measure replacement units, including odd sizes on terrace rears
+- Friction stay, gearbox and multi-point mechanism swaps done in situ
+- Replacement units guaranteed to match the original 10-year seal warranty
+- Timber sash repair specialists for Georgian and Woolton windows
 
 ## Areas we cover around Liverpool
 
-We match homeowners in Allerton, Crosby, Waterloo and Aigburth and the wider Liverpool area, plus neighbouring Southport, Manchester and Blackpool. That covers L1, L2, L3 and L8 and beyond.
+Repairs across West Derby, Childwall, Aigburth, Wavertree and Allerton, plus Waterloo, Bootle, Huyton and St Helens. Postcodes L1 to L18.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Liverpool?**
-35 conservation areas including Canning, Rodney Street and Woolton village - Georgian glazing bars often need to be replicated. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can a misted unit be repaired without a new window?**
+Yes - it is a glass-unit swap and the frame stays in place. Around £78 to £264 per unit in Liverpool using the local 0.88x factor.
 
-**How much are double glazing repairs in Liverpool?**
-Most repairs in Liverpool run £78 to £264 per unit or mechanism using the local 0.88x factor, usually done in a single visit.
+**Blown seal or condensation?**
+A blown seal mists permanently between the panes and can't be wiped. Room-side condensation is a ventilation problem, not a glazing fault.
 
-**Blown seal or condensation - how do I tell?**
-A blown seal mists permanently between the panes and can't be wiped. Condensation on the room side of the glass is a ventilation problem, not a glazing fault.
+**Can you repair a Georgian timber sash instead of replacing it?**
+Often, yes - draught-proofing and slim glazing in a refurbished sash is frequently the compliant and cheaper route on a listed street.

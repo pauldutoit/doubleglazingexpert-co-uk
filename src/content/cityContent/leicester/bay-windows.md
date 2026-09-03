@@ -6,34 +6,34 @@ intentSlug: "bay-windows"
 region: "East Midlands"
 indexable: false
 metaTitle: "Bay Windows in Leicester | Double Glazing Expert"
-metaDescription: "Bay Windows in Leicester: prices from £1,068 to £2,848. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Bay window replacement quotes in Leicester from vetted installers. Typical £1,068-£2,848. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Bay Windows for Leicester homes
+## Bay window replacement in Leicester
 
-Bay windows carry the widest price range of any window type because the variables stack: 3 vs 5 sided, the corner angle, the shape, and whether Leicester's older stock needs structural support added.
+Bays in Leicester are common on the Clarendon Park, Stoneygate and Highfields Victorian terraces and villas. Many were built with the box frames carrying load, so a steel or reinforced lintel is usually needed above the bay to meet current Building Regs.
 
-## Why locals choose us
+## Why Leicester homeowners choose us
 
-- Installers who cover LE1, LE2, LE3 and LE4 and the rest of the Leicester area
-- Local knowledge of Clarendon Park, Knighton and Stoneygate and the surrounding Leicester streets
-- Steel or reinforced lintel fitted where the opening needs it to meet Building Regs
-- Matched frame widths across the bay so the proportions stay right
+- Structural survey of the bay before any frame is ordered
+- Matched frame widths so the bay keeps its proportions
+- Steel or reinforced lintel fitted where the opening needs it
 - Lead flashing and apron repairs above the bay included where needed
+- Scaled elevation drawings to approve before manufacture
 
 ## Areas we cover around Leicester
 
-Knighton, Oadby, Highfields and Stoneygate and the rest of Leicester are all covered, along with Loughborough, Nottingham and Derby close by. Ask if your postcode isn't in LE1, LE2, LE3 and LE4 - we likely still reach it.
+Clarendon Park, Stoneygate, Highfields, Knighton and Evington, plus Loughborough, Wigston, Hinckley and Melton Mowbray. Postcodes LE1 to LE5.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Leicester?**
-23 conservation areas including Clarendon Park and Stoneygate. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Does my Leicester Victorian bay need a steel?**
+Almost certainly if it is pre-1914 - most were built without one. A survey confirms it before any frame is ordered. Budget £600 to £1,200 for the work.
 
 **How much does a bay window cost in Leicester?**
-Typically £1,068 to £2,848 in Leicester for the glazing, using the local 0.89x factor - plus £600 to £1,200 on top if a structural steel is needed, which a survey confirms.
+Typically £1,068 to £2,848 for the glazing using the local 0.89x factor, plus the structural work if needed.
 
-**Can you keep the internal arch or reveal?**
-Usually yes. A good installer works around the existing plaster arch or square reveal; where it has to be disturbed, making-good should be in the quote.
+**Will a new bay match a Clarendon Park street?**
+It can, but the profile usually needs council sign-off first - get that in writing before manufacture.

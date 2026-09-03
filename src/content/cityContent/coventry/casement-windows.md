@@ -6,34 +6,34 @@ intentSlug: "casement-windows"
 region: "West Midlands"
 indexable: false
 metaTitle: "Casement Windows in Coventry | Double Glazing Expert"
-metaDescription: "Casement Windows in Coventry: prices from £319 to £819. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC casement window quotes in Coventry from FENSA fitters. From £319 per window. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Coventry casement Windows: what to expect
+## Casement windows for Coventry homes
 
-Casements dominate Coventry's housing for a reason - simple, well-sealed, and easy to make egress-compliant for bedrooms. The city centre was largely rebuilt in the 1950s after WWII bombing, giving Coventry an unusual mix of postwar modernist blocks alongside surviving Victorian terraces in Earlsdon and interwar semis in Chapelfields.
+Casements are the standard replacement across Coventry's interwar and postwar stock - Chapelfields, Cheylesmore, Wyken and Tile Hill - where the originals were timber casements or steel. On the Earlsdon terraces a flush-sash casement suits the older brick better than a lipped frame.
 
-## Why locals choose us
+## Why Coventry homeowners choose us
 
-- Local knowledge of Earlsdon, Chapelfields and Stivichall and the surrounding Coventry streets
-- Installers who cover CV1, CV2, CV3 and CV4 and the rest of the Coventry area
-- Flush-sash or standard casement priced side by side so you can compare the look
-- Multi-point locking as standard, not an upgrade
-- Argon-filled A-rated units, warm-edge spacer, internally beaded for security
+- Flush-sash and standard casements priced side by side
+- Replacement of old steel and metal casements with correctly sized uPVC
+- Egress hinges on bedroom windows for the 450mm fire-escape rule
+- Trickle vents to Building Regs, colour-matched to the frame
+- Multi-point locking and internal beading as standard
 
 ## Areas we cover around Coventry
 
-We match homeowners in Earlsdon, Cheylesmore, Chapelfields and Stivichall and the wider Coventry area, plus neighbouring Birmingham, Nuneaton and Rugby. That covers CV1, CV2, CV3 and CV4 and beyond.
+Chapelfields, Cheylesmore, Wyken, Earlsdon, Radford and Tile Hill, plus Nuneaton, Bedworth, Rugby and Leamington Spa. Postcodes CV1 to CV6.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Coventry?**
-Around 20 conservation areas, mostly around surviving prewar suburbs. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can you replace old steel casements with uPVC?**
+Yes - the steel frame comes out, the opening is made good and a new uPVC casement is fitted to size. Common on Coventry's postwar houses.
+
+**What is a flush casement window?**
+One where the sash closes level with the frame - a cleaner line for the older Earlsdon streets, at roughly 10 to 15% over a standard casement.
 
 **How much are casement windows in Coventry?**
-Around £319 to £819 per window fitted in Coventry, based on the local 0.91x cost factor. Flush-sash profiles sit 10-15% above standard.
-
-**Can casement windows meet fire-escape rules?**
-Yes, with the right hinge. Habitable rooms above ground floor need a clear opening of at least 450mm x 450mm and 0.33 square metres - your installer should confirm this per window.
+Around £319 to £819 per window fitted, using the local 0.91x cost factor.

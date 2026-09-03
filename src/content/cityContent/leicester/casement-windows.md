@@ -6,34 +6,34 @@ intentSlug: "casement-windows"
 region: "East Midlands"
 indexable: false
 metaTitle: "Casement Windows in Leicester | Double Glazing Expert"
-metaDescription: "Casement Windows in Leicester: prices from £312 to £801. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC casement window quotes in Leicester from FENSA fitters. From £312 per window. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Leicester casement Windows: what to expect
+## Casement windows for Leicester homes
 
-Casements dominate Leicester's housing for a reason - simple, well-sealed, and easy to make egress-compliant for bedrooms. Victorian terraces around Highfields and Clarendon Park, interwar semis in Knighton and Oadby, plus modern estates on the outer ring.
+Casements are the standard replacement across the interwar semis of Knighton, Evington and Braunstone, and on the rear elevations of the Highfields and Clarendon Park terraces. A flush-sash casement holds a cleaner line on the older red-brick streets than a standard lipped frame.
 
-## Why locals choose us
+## Why Leicester homeowners choose us
 
-- Local knowledge of Clarendon Park, Knighton and Stoneygate and the surrounding Leicester streets
-- Installers who cover LE1, LE2, LE3 and LE4 and the rest of the Leicester area
-- Flush-sash or standard casement priced side by side so you can compare the look
-- Trickle vents to current Building Regs, colour-matched to the frame
-- Egress hinges on bedroom windows to meet the 450mm fire-escape rule
+- Flush-sash and standard casements priced side by side
+- Casements for terrace rears where the front stays period
+- Egress hinges on bedroom windows for the 450mm fire-escape rule, sized for HMO use where needed
+- Trickle vents to Building Regs, colour-matched to the frame
+- Multi-point locking and internal beading as standard
 
 ## Areas we cover around Leicester
 
-We match homeowners in Oadby, Knighton, Clarendon Park and Highfields and the wider Leicester area, plus neighbouring Loughborough, Nottingham and Derby. That covers LE1, LE2, LE3 and LE4 and beyond.
+Knighton, Evington, Braunstone, Clarendon Park, Stoneygate and Aylestone, plus Loughborough, Wigston, Hinckley and Melton Mowbray. Postcodes LE1 to LE5.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Leicester?**
-23 conservation areas including Clarendon Park and Stoneygate. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**What is a flush casement window?**
+One where the sash closes level with the frame - a more traditional line for Leicester's Victorian streets, at roughly 10 to 15% more.
+
+**Can casements meet bedroom fire-escape rules?**
+Yes, with the right hinge - a clear opening of at least 450mm x 450mm and 0.33 square metres, confirmed per window and important in a shared house.
 
 **How much are casement windows in Leicester?**
-Around £312 to £801 per window fitted in Leicester, based on the local 0.89x cost factor. Flush-sash profiles sit 10-15% above standard.
-
-**Can casement windows meet fire-escape rules?**
-Yes, with the right hinge. Habitable rooms above ground floor need a clear opening of at least 450mm x 450mm and 0.33 square metres - your installer should confirm this per window.
+Around £312 to £801 per window fitted, using the local 0.89x cost factor.

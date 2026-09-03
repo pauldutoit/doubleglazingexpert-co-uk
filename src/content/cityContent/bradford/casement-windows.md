@@ -6,34 +6,34 @@ intentSlug: "casement-windows"
 region: "Yorkshire and the Humber"
 indexable: false
 metaTitle: "Casement Windows in Bradford | Double Glazing Expert"
-metaDescription: "Casement Windows in Bradford: prices from £301 to £774. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC casement window quotes in Bradford from FENSA fitters. From £301 per window. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Bradford casement Windows: what to expect
+## Casement windows for Bradford homes
 
-Casements dominate Bradford's housing for a reason - simple, well-sealed, and easy to make egress-compliant for bedrooms. Yorkshire stone back-to-back terraces (shared with Leeds), Victorian mill-owner villas around Manningham, and interwar semis across Wibsey and Idle.
+Casements are the standard replacement across the interwar semis of Wibsey, Idle and Thackley, and on the back-to-backs where the original openings are small and square. A flush-sash casement suits the Yorkshire stone streets of Heaton and Manningham better than a lipped frame.
 
-## What you get
+## Why Bradford homeowners choose us
 
-- Local knowledge of Saltaire, Manningham and Heaton and the surrounding Bradford streets
-- Installers who cover BD1, BD2, BD3 and BD5 and the rest of the Bradford area
-- Argon-filled A-rated units, warm-edge spacer, internally beaded for security
-- Trickle vents to current Building Regs, colour-matched to the frame
-- Flush-sash or standard casement priced side by side so you can compare the look
+- Flush-sash and standard casements priced side by side
+- Small-opening casements sized to back-to-back terrace windows
+- Egress hinges on bedroom windows for the 450mm fire-escape rule
+- Trickle vents to Building Regs, colour-matched to the frame
+- Multi-point locking and internal beading as standard
 
 ## Areas we cover around Bradford
 
-We match homeowners in Idle, Saltaire, Manningham and Wibsey and the wider Bradford area, plus neighbouring Leeds, Keighley and Sheffield. That covers BD1, BD2, BD3 and BD5 and beyond.
+Wibsey, Idle, Heaton, Manningham and Clayton, plus Leeds, Keighley, Shipley and Bingley. Postcodes BD1 to BD9.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Bradford?**
-Saltaire is a UNESCO World Heritage Site - the whole village is a conservation area with strict frame rules. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can a small back-to-back window meet fire-escape rules?**
+Not always from a standard casement - the clear opening has to be at least 450mm x 450mm and 0.33 square metres. Your installer should check each bedroom window and flag any that need a different opening style.
+
+**What is a flush casement window?**
+One where the sash closes level with the frame - a cleaner line for Bradford's stone streets, at roughly 10 to 15% over a standard casement.
 
 **How much are casement windows in Bradford?**
-Around £301 to £774 per window fitted in Bradford, based on the local 0.86x cost factor. Flush-sash profiles sit 10-15% above standard.
-
-**Outward or inward opening?**
-Almost all UK casements open outward. Inward-opening (tilt-and-turn) is available and useful on upper floors for cleaning, at a price premium.
+Around £301 to £774 per window fitted, using the local 0.86x cost factor.

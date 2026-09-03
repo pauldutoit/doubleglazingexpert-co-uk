@@ -6,34 +6,34 @@ intentSlug: "upvc-windows"
 region: "North West England"
 indexable: false
 metaTitle: "uPVC Windows in Liverpool | Double Glazing Expert"
-metaDescription: "uPVC Windows in Liverpool: prices from £308 to £792. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC window quotes in Liverpool from FENSA fitters. From £308 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## uPVC Windows for Liverpool homes
+## New uPVC windows for a Liverpool home
 
-Most Liverpool window jobs are made to measure - georgian townhouses around the cathedral and Rodney Street, Victorian terraces across Anfield and Toxteth, and extensive Wavertree/Aigburth interwar semis. None of that stock was built to a standard window size, so a fitter who works your streets will size and price it properly.
+Liverpool runs from the Georgian townhouses around Rodney Street and the cathedral - heavily restricted - through the Victorian terraces of Anfield, Toxteth and Kensington, to the Wavertree and Aigburth interwar semis. The Georgian streets usually need timber or a slimline sympathetic option; uPVC works well on the terrace and suburban stock.
 
 ## Why Liverpool homeowners choose us
 
-- Installers who cover L1, L2, L3 and L8 and the rest of the Liverpool area
-- Fitters who know Liverpool's conservation rules - 35 conservation areas including Canning, Rodney Street and Woolton village - Georgian glazing bars often need to be replicated.
-- Trickle vents fitted to current Building Regs without wrecking the sightline
-- Frames and sealed units guaranteed separately, with cover if the installer stops trading
-- Foiled colour options - Anthracite Grey, black, woodgrain - as well as white
+- Honest guidance on where the Georgian glazing-bar pattern has to be replicated
+- Fitters who know the Anfield and Kensington terrace openings
+- Knowledge of the 35 conservation areas, including Canning and Woolton village
+- A-rated 28mm units, warm-edge spacers and trickle vents to Building Regs as standard
+- FENSA or CERTASS registered, frames and glass guaranteed separately
 
 ## Areas we cover around Liverpool
 
-Allerton, Aigburth, Wavertree and Waterloo and the rest of Liverpool are all covered, along with Southport, Manchester and Blackpool close by. Ask if your postcode isn't in L1, L2, L3 and L8 - we likely still reach it.
+Woolton, Allerton, Aigburth, Wavertree, Mossley Hill and Crosby, out to Waterloo, Bootle, Huyton and St Helens. Postcodes L1 to L3, L8, L15, L17 and L18.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Liverpool?**
-35 conservation areas including Canning, Rodney Street and Woolton village - Georgian glazing bars often need to be replicated. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can I fit uPVC windows in the Canning or Rodney Street area?**
+Often not on the street elevation - these are strict conservation areas with many listed buildings, and the Georgian glazing-bar pattern usually has to be replicated in timber. Check with the council first.
 
 **How much do uPVC windows cost in Liverpool?**
-Typical prices in Liverpool run about £308 to £792 per window fitted, using this area's regional labour factor of 0.88x the national average. Size, glazing spec and finish move the figure.
+Typically £308 to £792 per window fitted, using the North West regional factor of 0.88x the national average.
 
-**White or foiled frames?**
-White uPVC is cheapest; a foiled finish adds roughly 10-20% and is worth it on streets where white would look out of place. Foiled colours are through-coloured, not painted, so they don't flake.
+**Do the Woolton sandstone streets have rules?**
+Woolton village is a conservation area - street-facing changes there need care and often consent.

@@ -6,34 +6,34 @@ intentSlug: "double-glazing"
 region: "East Midlands"
 indexable: false
 metaTitle: "Double Glazing in Leicester | Double Glazing Expert"
-metaDescription: "Double Glazing in Leicester: prices from £2,670 to £8,010. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Whole-home double glazing quotes in Leicester from vetted installers. Typical £2,670-£8,010. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Leicester double Glazing: what to expect
+## Whole-home double glazing in Leicester
 
-The stock here sets the job up - Late Victorian to interwar. On a whole-home job in Leicester that history matters: older bays, non-standard openings and protected elevations all push the price around.
+A Highfields or Clarendon Park terrace is usually 8 to 12 tall openings including a bay. The Knighton and Oadby semis are the more uniform, quicker jobs. Doing the whole house in one visit gets you a matched finish and one set of access costs.
 
-## Why locals choose us
+## Why Leicester homeowners choose us
 
-- Local knowledge of Clarendon Park, Knighton and Stoneygate and the surrounding Leicester streets
-- Fitters who know Leicester's conservation rules - 23 conservation areas including Clarendon Park and Stoneygate.
-- Price held for at least a week - no "sign today" pressure
-- One quote itemised opening-by-opening, so you can see what each window and door costs
-- A single matched foiled finish inside and out across the whole property
+- One itemised quote per opening so you can compare fairly
+- Landlord-friendly whole-house quoting for shared terraces
+- A single matched foiled finish across the whole property
+- Structural check on Clarendon Park and Stoneygate bay fronts before glass is ordered
+- FENSA certificate registered in your name within 30 days
 
 ## Areas we cover around Leicester
 
-We match homeowners in Knighton, Clarendon Park, Oadby and Highfields and the wider Leicester area, plus neighbouring Loughborough, Nottingham and Derby. That covers LE1, LE2, LE3 and LE4 and beyond.
+Clarendon Park, Stoneygate, Knighton, Evington, Aylestone and Oadby, out to Loughborough, Wigston, Hinckley and Melton Mowbray. Postcodes LE1 to LE5.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Leicester?**
-23 conservation areas including Clarendon Park and Stoneygate. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**How long does a whole-house job take in Leicester?**
+Two to three days for a Knighton semi, longer for a Highfields terrace with a structural bay.
 
 **What does whole-home double glazing cost in Leicester?**
-A full replacement in Leicester typically lands between £2,670 and £8,010 depending on opening count, frame material and how many are bays. That reflects the area's 0.89x regional cost factor.
+Usually £2,670 to £8,010 depending on opening count, frame material and bays, using the local 0.89x cost factor.
 
-**Should I be wary of "today only" discounts?**
-Yes. A genuine whole-home quote is itemised and holds its price for at least a week. Anything that only works if you sign on the visit is a sales tactic.
+**Should I be wary of "sign today" discounts?**
+Yes. A genuine quote is itemised and holds for at least a week.

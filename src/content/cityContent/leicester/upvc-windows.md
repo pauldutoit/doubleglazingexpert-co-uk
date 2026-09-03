@@ -6,34 +6,34 @@ intentSlug: "upvc-windows"
 region: "East Midlands"
 indexable: false
 metaTitle: "uPVC Windows in Leicester | Double Glazing Expert"
-metaDescription: "uPVC Windows in Leicester: prices from £312 to £801. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC window quotes in Leicester from FENSA fitters. From £312 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## uPVC Windows for Leicester homes
+## New uPVC windows for a Leicester home
 
-If your Leicester windows are pre-2005 or anything is single-glazed, new uPVC units usually pay for themselves in energy savings within 8-12 years. Victorian terraces around Highfields and Clarendon Park, interwar semis in Knighton and Oadby, plus modern estates on the outer ring.
+Leicester runs from the dense Victorian terraces of Highfields and Clarendon Park - many now shared houses and student lets - through the red-brick villas of Stoneygate to the interwar semis of Knighton, Evington and Oadby. The Highfields and Clarendon Park streets have tall, narrow openings rarely made to a stock size.
 
-## Why locals choose us
+## Why Leicester homeowners choose us
 
-- Installers who cover LE1, LE2, LE3 and LE4 and the rest of the Leicester area
-- Quotes matched to Leicester's housing stock: victorian terraces around Highfields and Clarendon Park, interwar semis in Knighton and Oadby, plus modern estates on the outer ring.
-- Trickle vents fitted to current Building Regs without wrecking the sightline
-- Flush-sash profile available where a standard lipped casement would look wrong
-- A-rated 28mm argon-filled units with a warm-edge spacer and low-E soft coat as standard
+- Made-to-measure frames for tall Victorian terrace openings
+- Landlord-friendly quoting for shared houses in Highfields and Clarendon Park - safe egress and ventilation done right
+- Knowledge of the Clarendon Park and Stoneygate conservation areas
+- A-rated 28mm units, warm-edge spacers and trickle vents to Building Regs as standard
+- FENSA or CERTASS registered, frames and glass guaranteed separately
 
 ## Areas we cover around Leicester
 
-Stoneygate, Knighton, Highfields and Oadby and the rest of Leicester are all covered, along with Loughborough, Nottingham and Derby close by. Ask if your postcode isn't in LE1, LE2, LE3 and LE4 - we likely still reach it.
+Clarendon Park, Stoneygate, Knighton, Evington, Aylestone and Oadby, out to Loughborough, Wigston, Hinckley and Melton Mowbray. Postcodes LE1 to LE5.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Leicester?**
-23 conservation areas including Clarendon Park and Stoneygate. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Do shared houses in Leicester have different window rules?**
+The core rules are the same, but safe escape from bedrooms and adequate ventilation matter more in an HMO - your installer should size egress hinges and trickle vents accordingly.
+
+**Do Leicester conservation areas restrict windows?**
+Clarendon Park and Stoneygate in particular have controls on street-facing frames - check with the council before ordering.
 
 **How much do uPVC windows cost in Leicester?**
-Typical prices in Leicester run about £312 to £801 per window fitted, using this area's regional labour factor of 0.89x the national average. Size, glazing spec and finish move the figure.
-
-**How long does a full house of uPVC windows take?**
-For a typical Leicester home of 8-10 windows, one to two days with a two-person team. Bays and structural openings add time.
+Typically £312 to £801 per window fitted, using the East Midlands regional factor of 0.89x the national average.

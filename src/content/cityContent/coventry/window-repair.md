@@ -6,34 +6,34 @@ intentSlug: "window-repair"
 region: "West Midlands"
 indexable: false
 metaTitle: "Double Glazing Repairs in Coventry | Double Glazing Expert"
-metaDescription: "Double Glazing Repairs in Coventry: prices from £81 to £273. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Misted units, blown seals and faulty hinges repaired in Coventry. From £81. Same-week visits, free quotes."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Coventry double Glazing Repairs: what to expect
+## Double glazing repairs in Coventry
 
-A misted double-glazed unit in Coventry is a glass swap, not a frame job - the frame stays put and a new sealed unit is made to fit it.
+Where a Coventry frame is sound but a sealed unit has misted or a mechanism has failed, a repair is a fraction of replacement cost and usually one visit. Blown seals on the 1990s and 2000s uPVC across Cheylesmore, Wyken and Tile Hill are the most common call.
 
 ## Why Coventry homeowners choose us
 
-- Local knowledge of Earlsdon, Chapelfields and Stivichall and the surrounding Coventry streets
-- Fitters who know Coventry's conservation rules - around 20 conservation areas, mostly around surviving prewar suburbs.
-- Written diagnosis before any work - some "misting" is room condensation, a ventilation issue
-- Same-week visits for windows that will not lock or close
-- Call-out fees quoted up front for urgent broken-glass or lock-out jobs
+- Written diagnosis first - some "misting" is room condensation, a ventilation issue
+- Made-to-measure replacement sealed units
+- Friction stay, gearbox and multi-point mechanism swaps done in situ
+- Replacement units guaranteed to match the original 10-year seal warranty
+- Call-out fees quoted up front for urgent jobs
 
 ## Areas we cover around Coventry
 
-We match homeowners in Cheylesmore, Chapelfields, Stivichall and Earlsdon and the wider Coventry area, plus neighbouring Birmingham, Nuneaton and Rugby. That covers CV1, CV2, CV3 and CV4 and beyond.
+Repairs across Cheylesmore, Wyken, Tile Hill, Earlsdon and Chapelfields, plus Nuneaton, Bedworth, Rugby and Leamington Spa. Postcodes CV1 to CV6.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Coventry?**
-Around 20 conservation areas, mostly around surviving prewar suburbs. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
-
-**How much are double glazing repairs in Coventry?**
-Most repairs in Coventry run £81 to £273 per unit or mechanism using the local 0.91x factor, usually done in a single visit.
-
 **Can a misted unit be repaired without a new window?**
-Yes. It is a glass-unit swap - the frame stays in place. Around an hour per unit once the replacement glass has been made to size.
+Yes - it is a glass-unit swap and the frame stays in place. Around £81 to £273 per unit in Coventry using the local 0.91x factor.
+
+**Blown seal or condensation?**
+A blown seal mists permanently between the panes and can't be wiped. Room-side condensation is a ventilation problem, not a glazing fault.
+
+**How quickly can you come out?**
+Same week for most repairs; sooner for a window that will not lock or close.

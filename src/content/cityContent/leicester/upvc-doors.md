@@ -6,34 +6,34 @@ intentSlug: "upvc-doors"
 region: "East Midlands"
 indexable: false
 metaTitle: "uPVC Doors in Leicester | Double Glazing Expert"
-metaDescription: "uPVC Doors in Leicester: prices from £579 to £1,602. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC front, back and patio door quotes in Leicester from vetted fitters. From £579. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## uPVC Doors for Leicester homes
+## uPVC doors for Leicester homes
 
-A matched pair of uPVC French doors or a sliding patio set onto a Leicester garden costs far less than the aluminium equivalent and performs well enough for most homes.
+For a Leicester terrace or semi, uPVC is the sensible choice for back, side and garden doors, and a budget option for the front. In the shared houses of Highfields and Clarendon Park a secure, well-sealed front and rear door with anti-snap cylinders is worth specifying.
 
-## What you get
+## Why Leicester homeowners choose us
 
-- Installers who cover LE1, LE2, LE3 and LE4 and the rest of the Leicester area
-- Quotes matched to Leicester's housing stock: victorian terraces around Highfields and Clarendon Park, interwar semis in Knighton and Oadby, plus modern estates on the outer ring.
-- French and patio door options for narrow terrace returns and side passages
-- Toughened or laminated safety glass in every door side panel
+- PAS 24 multi-point locking and anti-snap cylinders as standard
+- Secure front and rear door sets for shared and let properties
 - Foiled colours matched to your existing windows and joinery
+- French and patio door options for semi and terrace gardens
+- Old door and frame removed and disposed of within the quote
 
 ## Areas we cover around Leicester
 
-Knighton, Highfields, Clarendon Park and Oadby and the rest of Leicester are all covered, along with Loughborough, Nottingham and Derby close by. Ask if your postcode isn't in LE1, LE2, LE3 and LE4 - we likely still reach it.
+Clarendon Park, Stoneygate, Knighton, Evington and Aylestone, out to Loughborough, Wigston, Hinckley and Melton Mowbray. Postcodes LE1 to LE5.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Leicester?**
-23 conservation areas including Clarendon Park and Stoneygate. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Is a uPVC front door secure enough for Leicester?**
+A modern uPVC door with a 5-point multi-point lock, PAS 24 certification and a TS007 3-star anti-snap cylinder meets what most insurers ask for.
 
 **How much do uPVC doors cost in Leicester?**
-Roughly £579 to £1,602 fitted in Leicester using the local 0.89x factor - plain panel doors at the lower end, French and sliding patio sets at the top.
+Roughly £579 to £1,602 fitted using the local 0.89x factor, with French and sliding patio sets at the top.
 
-**uPVC or composite for the front?**
-Composite doors are thicker, heavier and hold colour better, for roughly double the price. For back, side and garden doors, uPVC is the usual and sensible choice.
+**Can you fit a patio door where the back door is now?**
+Sometimes as-is, but widening for a patio set usually needs a lintel. A site check confirms it.

@@ -6,34 +6,34 @@ intentSlug: "upvc-windows"
 region: "Wales"
 indexable: false
 metaTitle: "uPVC Windows in Cardiff | Double Glazing Expert"
-metaDescription: "uPVC Windows in Cardiff: prices from £308 to £792. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC window quotes in Cardiff from FENSA fitters. From £308 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Replacing uPVC windows in Cardiff
+## New uPVC windows for a Cardiff home
 
-uPVC is the default replacement frame across Cardiff - low maintenance, A-rated as standard, and far cheaper than timber or aluminium. The variables here are size, glazing spec and whether a foiled finish is needed to suit the street.
+Cardiff is a city of bay-fronted Victorian terraces - Cathays, Roath, Grangetown and Canton are street after street of them, with a two-storey bay on the front and tall sash openings behind. Cyncoed and Lisvane bring detached Edwardian villas, and the Bay has modern apartments. The terrace bays are the classic Cardiff window job.
 
 ## Why Cardiff homeowners choose us
 
-- Quotes matched to Cardiff's housing stock: cardiff's signature bay-fronted Victorian terraces dominate Cathays, Roath and Grangetown, with detached Edwardian villas in Cyncoed and Lisvane, and modern apartments in the Bay redevelopment.
-- Fitters who know Cardiff's conservation rules - around 27 conservation areas including Pontcanna, Roath Park and Cathays Park.
-- Flush-sash profile available where a standard lipped casement would look wrong
-- FENSA or CERTASS registered, so Building Regs compliance is self-certified
-- Made-to-measure uPVC sized to your original openings, not forced into stock frames
+- Fitters who know the Cathays and Roath bay-front detail inside out
+- Openings sized to tall Victorian terrace sashes, not forced into stock frames
+- Knowledge of the conservation areas around Pontcanna, Roath Park and Cathays Park
+- A-rated 28mm units, warm-edge spacers and trickle vents to Building Regs as standard
+- FENSA or CERTASS registered, frames and glass guaranteed separately
 
 ## Areas we cover around Cardiff
 
-Coverage runs across Cardiff - Cyncoed, Roath, Pontcanna and Penylan among them - and into Barry, Caerphilly and Bridgend. Postcodes from CF10, CF11, CF14 and CF23 outward.
+Cathays, Roath, Pontcanna, Canton, Penylan and Cyncoed, out to Penarth, Barry, Caerphilly and Newport. Postcodes CF10, CF11, CF14, CF23 and CF24.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Cardiff?**
-Around 27 conservation areas including Pontcanna, Roath Park and Cathays Park. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Do Cardiff conservation areas restrict windows?**
+Around 27 conservation areas including Pontcanna, Roath Park and Cathays Park have controls on street-facing frames - check with the council before ordering.
 
 **How much do uPVC windows cost in Cardiff?**
-Typical prices in Cardiff run about £308 to £792 per window fitted, using this area's regional labour factor of 0.88x the national average. Size, glazing spec and finish move the figure.
+Typically £308 to £792 per window fitted, using the Wales regional factor of 0.88x the national average.
 
-**Do I need trickle vents on replacement windows?**
-Yes - since June 2022 replacement windows in England must include background ventilation, normally trickle vents in the frame head. A quote without them is cutting a corner.
+**Can a student-let terrace still be reglazed to standard?**
+Yes, and it should be - trickle ventilation and safe egress from bedrooms matter more in a shared house, not less.

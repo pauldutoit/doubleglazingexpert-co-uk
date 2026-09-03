@@ -6,34 +6,34 @@ intentSlug: "upvc-doors"
 region: "Wales"
 indexable: false
 metaTitle: "uPVC Doors in Cardiff | Double Glazing Expert"
-metaDescription: "uPVC Doors in Cardiff: prices from £572 to £1,584. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC front, back and patio door quotes in Cardiff from vetted fitters. From £572. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Fitting a uPVC door in Cardiff
+## uPVC doors for Cardiff homes
 
-A matched pair of uPVC French doors or a sliding patio set onto a Cardiff garden costs far less than the aluminium equivalent and performs well enough for most homes.
+For a Cardiff terrace or semi, uPVC is the sensible choice for back, side and garden doors, and a budget option for the front. A uPVC French or patio door onto a small terrace garden or a Cyncoed lawn costs far less than aluminium and performs well for most homes here.
 
-## What you get
+## Why Cardiff homeowners choose us
 
-- Quotes matched to Cardiff's housing stock: cardiff's signature bay-fronted Victorian terraces dominate Cathays, Roath and Grangetown, with detached Edwardian villas in Cyncoed and Lisvane, and modern apartments in the Bay redevelopment.
-- Installers who cover CF10, CF11, CF14 and CF23 and the rest of the Cardiff area
+- PAS 24 multi-point locking and anti-snap cylinders as standard
 - Foiled colours matched to your existing windows and joinery
+- French and patio door options for terrace gardens and suburban plots
 - Toughened or laminated safety glass in every door side panel
-- PAS 24 multi-point locking and an anti-snap cylinder as standard, not an upsell
+- Old door and frame removed and disposed of within the quote
 
 ## Areas we cover around Cardiff
 
-Coverage runs across Cardiff - Penylan, Pontcanna, Cathays and Cyncoed among them - and into Barry, Caerphilly and Bridgend. Postcodes from CF10, CF11, CF14 and CF23 outward.
+Cathays, Roath, Pontcanna, Canton, Penylan and Cyncoed, out to Penarth, Barry, Caerphilly and Newport. Postcodes CF10 to CF24.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Cardiff?**
-Around 27 conservation areas including Pontcanna, Roath Park and Cathays Park. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Is a uPVC front door secure enough for Cardiff?**
+A modern uPVC door with a 5-point multi-point lock, PAS 24 certification and a TS007 3-star anti-snap cylinder meets what most insurers ask for.
 
 **How much do uPVC doors cost in Cardiff?**
-Roughly £572 to £1,584 fitted in Cardiff using the local 0.88x factor - plain panel doors at the lower end, French and sliding patio sets at the top.
+Roughly £572 to £1,584 fitted using the local 0.88x factor, with French and sliding patio sets at the top.
 
-**Can you fit French or patio doors in a standard opening?**
-Often yes, but widening for a patio set can need a lintel. A site check confirms whether the existing opening works as-is.
+**Can you fit a patio door where the back door is now?**
+Sometimes as-is, but widening for a patio set usually needs a lintel. A site check confirms it.

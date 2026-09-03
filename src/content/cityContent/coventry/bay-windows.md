@@ -6,34 +6,34 @@ intentSlug: "bay-windows"
 region: "West Midlands"
 indexable: false
 metaTitle: "Bay Windows in Coventry | Double Glazing Expert"
-metaDescription: "Bay Windows in Coventry: prices from £1,092 to £2,912. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Bay window replacement quotes in Coventry from vetted installers. Typical £1,092-£2,912. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Bay Windows for Coventry homes
+## Bay window replacement in Coventry
 
-The city centre was largely rebuilt in the 1950s after WWII bombing, giving Coventry an unusual mix of postwar modernist blocks alongside surviving Victorian terraces in Earlsdon and interwar semis in Chapelfields. Where those homes have a bay, replacing it well means matching frame widths and checking whether a steel is needed above - the structural work, not the glass, is the biggest cost variable.
+Bays in Coventry are mostly on the Earlsdon and Stoke Victorian terraces and the interwar semis of Chapelfields and Cheylesmore. The Victorian ones were often built without a full structural beam, so a steel or reinforced lintel is usually needed; the 1930s bays more often have adequate support already.
 
-## What you get
+## Why Coventry homeowners choose us
 
-- Installers who cover CV1, CV2, CV3 and CV4 and the rest of the Coventry area
-- Quotes matched to Coventry's housing stock: the city centre was largely rebuilt in the 1950s after WWII bombing, giving Coventry an unusual mix of postwar modernist blocks alongside surviving Victorian terraces in Earlsdon and interwar semis in Chapelfields.
-- Lead flashing and apron repairs above the bay included where needed
 - Structural survey of the bay before any frame is ordered
+- Matched frame widths so the bay keeps its proportions
+- Steel or reinforced lintel fitted where a Victorian bay needs it
+- Lead flashing and apron repairs above the bay included where needed
 - Scaled elevation drawings to approve before manufacture
 
 ## Areas we cover around Coventry
 
-Chapelfields, Radford, Earlsdon and Stivichall and the rest of Coventry are all covered, along with Birmingham, Nuneaton and Rugby close by. Ask if your postcode isn't in CV1, CV2, CV3 and CV4 - we likely still reach it.
+Earlsdon, Stoke, Chapelfields, Cheylesmore and Radford, plus Nuneaton, Bedworth, Rugby and Leamington Spa. Postcodes CV1 to CV6.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Coventry?**
-Around 20 conservation areas, mostly around surviving prewar suburbs. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Does my Coventry bay need a steel beam?**
+A pre-1914 Earlsdon or Stoke bay almost always does; a 1930s Chapelfields bay often does not. A survey confirms it before any frame is ordered.
 
 **How much does a bay window cost in Coventry?**
-Typically £1,092 to £2,912 in Coventry for the glazing, using the local 0.91x factor - plus £600 to £1,200 on top if a structural steel is needed, which a survey confirms.
+Typically £1,092 to £2,912 for the glazing using the local 0.91x factor, plus £600 to £1,200 if structural work is needed.
 
-**Can you keep the internal arch or reveal?**
-Usually yes. A good installer works around the existing plaster arch or square reveal; where it has to be disturbed, making-good should be in the quote.
+**Can you keep the internal window seat?**
+Usually yes - the frame is replaced around the existing seat and reveal, with making-good where they have to be disturbed.

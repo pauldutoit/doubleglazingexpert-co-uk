@@ -6,34 +6,34 @@ intentSlug: "window-repair"
 region: "East Midlands"
 indexable: false
 metaTitle: "Double Glazing Repairs in Leicester | Double Glazing Expert"
-metaDescription: "Double Glazing Repairs in Leicester: prices from £79 to £267. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Misted units, blown seals and faulty hinges repaired in Leicester. From £79. Same-week visits, free quotes."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Leicester double Glazing Repairs: what to expect
+## Double glazing repairs in Leicester
 
-Repair beats replacement in Leicester until repair costs approach half the price of a new window. Misted units, faulty gearboxes and worn friction stays are all fixable in situ.
+Where a Leicester frame is sound but a sealed unit has misted or a mechanism has failed, a repair costs a fraction of replacement and is usually one visit. Blown seals on the 1990s and 2000s uPVC across Knighton, Evington and Oadby are the most common call.
 
 ## Why Leicester homeowners choose us
 
-- Local knowledge of Clarendon Park, Knighton and Stoneygate and the surrounding Leicester streets
-- Installers who cover LE1, LE2, LE3 and LE4 and the rest of the Leicester area
+- Written diagnosis first - some "misting" is room condensation, a ventilation issue
+- Made-to-measure replacement units, including tall Victorian-terrace sizes
 - Friction stay, gearbox and multi-point mechanism swaps done in situ
-- Written diagnosis before any work - some "misting" is room condensation, a ventilation issue
-- Made-to-measure replacement sealed units for non-standard openings
+- Replacement units guaranteed to match the original 10-year seal warranty
+- Fast turnaround for landlords with a window that will not lock
 
 ## Areas we cover around Leicester
 
-We match homeowners in Oadby, Highfields, Knighton and Stoneygate and the wider Leicester area, plus neighbouring Loughborough, Nottingham and Derby. That covers LE1, LE2, LE3 and LE4 and beyond.
+Repairs across Knighton, Evington, Oadby, Clarendon Park and Stoneygate, plus Loughborough, Wigston, Hinckley and Melton Mowbray. Postcodes LE1 to LE5.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Leicester?**
-23 conservation areas including Clarendon Park and Stoneygate. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
-
-**How much are double glazing repairs in Leicester?**
-Most repairs in Leicester run £79 to £267 per unit or mechanism using the local 0.89x factor, usually done in a single visit.
-
 **Can a misted unit be repaired without a new window?**
-Yes. It is a glass-unit swap - the frame stays in place. Around an hour per unit once the replacement glass has been made to size.
+Yes - it is a glass-unit swap and the frame stays in place. Around £79 to £267 per unit in Leicester using the local 0.89x factor.
+
+**Blown seal or condensation?**
+A blown seal mists permanently between the panes and can't be wiped. Room-side condensation is a ventilation problem, not a glazing fault.
+
+**How quickly can you come out?**
+Same week for most repairs; sooner for a window that will not lock or close.

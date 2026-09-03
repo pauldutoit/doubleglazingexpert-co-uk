@@ -6,34 +6,34 @@ intentSlug: "window-repair"
 region: "Wales"
 indexable: false
 metaTitle: "Double Glazing Repairs in Cardiff | Double Glazing Expert"
-metaDescription: "Double Glazing Repairs in Cardiff: prices from £78 to £264. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Misted units, blown seals and faulty hinges repaired in Cardiff. From £78. Same-week visits, free quotes."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Repairing double glazing in Cardiff
+## Double glazing repairs in Cardiff
 
-When a Cardiff window frame is sound but a sealed unit has misted or a mechanism has failed, a repair is a fraction of replacement cost and usually a single visit.
+Where a Cardiff frame is sound but a sealed unit has misted or a mechanism has failed, a repair costs a fraction of replacement and is usually one visit. Blown seals on the 1990s and 2000s uPVC across Rhiwbina, Whitchurch and Llanishen are the most common call.
 
-## Why locals choose us
+## Why Cardiff homeowners choose us
 
-- Quotes matched to Cardiff's housing stock: cardiff's signature bay-fronted Victorian terraces dominate Cathays, Roath and Grangetown, with detached Edwardian villas in Cyncoed and Lisvane, and modern apartments in the Bay redevelopment.
-- Local knowledge of Cathays, Roath and Pontcanna and the surrounding Cardiff streets
-- Made-to-measure replacement sealed units for non-standard openings
-- Same-week visits for windows that will not lock or close
+- Written diagnosis first - some "misting" is room condensation, a ventilation issue
+- Made-to-measure replacement units, including tall Victorian-terrace sizes
 - Friction stay, gearbox and multi-point mechanism swaps done in situ
+- Replacement units guaranteed to match the original 10-year seal warranty
+- Call-out fees quoted up front for urgent jobs
 
 ## Areas we cover around Cardiff
 
-Coverage runs across Cardiff - Cathays, Roath, Cyncoed and Penylan among them - and into Barry, Caerphilly and Bridgend. Postcodes from CF10, CF11, CF14 and CF23 outward.
+Repairs across Rhiwbina, Whitchurch, Llanishen, Roath, Canton and Penylan, plus Penarth, Barry, Caerphilly and Newport. Postcodes CF10 to CF24.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Cardiff?**
-Around 27 conservation areas including Pontcanna, Roath Park and Cathays Park. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can a misted unit be repaired without a new window?**
+Yes - it is a glass-unit swap and the frame stays in place. Around £78 to £264 per unit in Cardiff using the local 0.88x factor.
 
-**How much are double glazing repairs in Cardiff?**
-Most repairs in Cardiff run £78 to £264 per unit or mechanism using the local 0.88x factor, usually done in a single visit.
+**Blown seal or condensation?**
+A blown seal mists permanently between the panes and can't be wiped. Room-side condensation is a ventilation problem, not a glazing fault.
 
-**Blown seal or condensation - how do I tell?**
-A blown seal mists permanently between the panes and can't be wiped. Condensation on the room side of the glass is a ventilation problem, not a glazing fault.
+**How quickly can you come out?**
+Same week for most repairs; sooner for a window that will not lock or close.

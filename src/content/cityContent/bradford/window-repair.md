@@ -6,34 +6,34 @@ intentSlug: "window-repair"
 region: "Yorkshire and the Humber"
 indexable: false
 metaTitle: "Double Glazing Repairs in Bradford | Double Glazing Expert"
-metaDescription: "Double Glazing Repairs in Bradford: prices from £77 to £258. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Misted units, blown seals and faulty hinges repaired in Bradford. From £77. Same-week visits, free quotes."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Bradford double Glazing Repairs: what to expect
+## Double glazing repairs in Bradford
 
-When a Bradford window frame is sound but a sealed unit has misted or a mechanism has failed, a repair is a fraction of replacement cost and usually a single visit.
+Where a Bradford frame is sound but a sealed unit has misted or a mechanism has jammed, a repair is a fraction of replacement cost and usually one visit. On a single-aspect back-to-back a blown seal is worth fixing quickly, as there is less cross-ventilation to mask a damp problem.
 
-## What you get
+## Why Bradford homeowners choose us
 
-- Local knowledge of Saltaire, Manningham and Heaton and the surrounding Bradford streets
-- Installers who cover BD1, BD2, BD3 and BD5 and the rest of the Bradford area
-- Call-out fees quoted up front for urgent broken-glass or lock-out jobs
-- Made-to-measure replacement sealed units for non-standard openings
-- Same-week visits for windows that will not lock or close
+- Written diagnosis first - some "misting" is room condensation, a ventilation issue
+- Made-to-measure replacement units for small back-to-back openings
+- Friction stay, gearbox and multi-point mechanism swaps done in situ
+- Replacement units guaranteed to match the original 10-year seal warranty
+- Call-out fees quoted up front for urgent jobs
 
 ## Areas we cover around Bradford
 
-We match homeowners in Idle, Manningham, Saltaire and Heaton and the wider Bradford area, plus neighbouring Leeds, Keighley and Sheffield. That covers BD1, BD2, BD3 and BD5 and beyond.
+Repairs across Manningham, Heaton, Idle, Wibsey and Clayton, plus Leeds, Keighley, Shipley and Bingley. Postcodes BD1 to BD9.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Bradford?**
-Saltaire is a UNESCO World Heritage Site - the whole village is a conservation area with strict frame rules. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can a misted unit be repaired without a new window?**
+Yes - it is a glass-unit swap and the frame stays put. Around £77 to £258 per unit in Bradford using the local 0.86x factor.
 
-**How much are double glazing repairs in Bradford?**
-Most repairs in Bradford run £77 to £258 per unit or mechanism using the local 0.86x factor, usually done in a single visit.
+**Blown seal or condensation?**
+A blown seal mists permanently between the panes and can't be wiped. Room-side condensation is a ventilation problem - worth checking in a single-aspect house.
 
-**Is it worth repairing old double glazing?**
-Up to a point. If more than a third of your windows have blown seals or the frames themselves are failing, replacement usually beats piecemeal repair.
+**How quickly can you come out?**
+Same week for most repairs; sooner for a window that will not lock or close.

@@ -6,34 +6,34 @@ intentSlug: "casement-windows"
 region: "Wales"
 indexable: false
 metaTitle: "Casement Windows in Cardiff | Double Glazing Expert"
-metaDescription: "Casement Windows in Cardiff: prices from £308 to £792. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC casement window quotes in Cardiff from FENSA fitters. From £308 per window. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Casement Windows in Cardiff
+## Casement windows for Cardiff homes
 
-Casement windows - hinged at the side, opening outward - are the cheapest uPVC window to replace and the fastest to fit. In Cardiff the choice usually comes down to flush-sash versus standard profile.
+Casements are the standard replacement across the interwar semis of Rhiwbina, Whitchurch and Llanishen, and on the rear elevations of the bay-fronted terraces where the front keeps its sashes. A flush-sash casement suits the older Cardiff streets better than a chunky lipped profile.
 
-## Why locals choose us
+## Why Cardiff homeowners choose us
 
-- Fitters who know Cardiff's conservation rules - around 27 conservation areas including Pontcanna, Roath Park and Cathays Park.
-- Quotes matched to Cardiff's housing stock: cardiff's signature bay-fronted Victorian terraces dominate Cathays, Roath and Grangetown, with detached Edwardian villas in Cyncoed and Lisvane, and modern apartments in the Bay redevelopment.
-- Egress hinges on bedroom windows to meet the 450mm fire-escape rule
-- Flush-sash or standard casement priced side by side so you can compare the look
-- Argon-filled A-rated units, warm-edge spacer, internally beaded for security
+- Flush-sash and standard casements priced side by side
+- Casements for terrace rears where the front bay and sashes stay period
+- Egress hinges on bedroom windows for the 450mm fire-escape rule
+- Trickle vents to Building Regs, colour-matched to the frame
+- Multi-point locking and internal beading as standard
 
 ## Areas we cover around Cardiff
 
-As well as central Cardiff, we take on jobs across Cyncoed, Cathays, Roath and Pontcanna, and out to nearby Barry, Caerphilly and Bridgend. Postcodes CF10, CF11, CF14 and CF23 are all covered.
+Rhiwbina, Whitchurch, Llanishen, Roath, Canton and Penylan, plus Penarth, Barry, Caerphilly and Newport. Postcodes CF10 to CF24.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Cardiff?**
-Around 27 conservation areas including Pontcanna, Roath Park and Cathays Park. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**What is a flush casement window?**
+One where the sash closes level with the frame rather than proud of it - a more traditional line for Cardiff's Victorian and Edwardian streets, at roughly 10 to 15% more.
+
+**Can casements meet bedroom fire-escape rules?**
+Yes, with the right hinge - a clear opening of at least 450mm x 450mm and 0.33 square metres, confirmed per window.
 
 **How much are casement windows in Cardiff?**
-Around £308 to £792 per window fitted in Cardiff, based on the local 0.88x cost factor. Flush-sash profiles sit 10-15% above standard.
-
-**Outward or inward opening?**
-Almost all UK casements open outward. Inward-opening (tilt-and-turn) is available and useful on upper floors for cleaning, at a price premium.
+Around £308 to £792 per window fitted, using the local 0.88x cost factor.

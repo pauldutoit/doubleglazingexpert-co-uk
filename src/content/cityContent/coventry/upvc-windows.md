@@ -6,34 +6,34 @@ intentSlug: "upvc-windows"
 region: "West Midlands"
 indexable: false
 metaTitle: "uPVC Windows in Coventry | Double Glazing Expert"
-metaDescription: "uPVC Windows in Coventry: prices from £319 to £819. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC window quotes in Coventry from FENSA fitters. From £319 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## uPVC Windows for Coventry homes
+## New uPVC windows for a Coventry home
 
-The stock here sets the job up - Postwar rebuild in the centre, interwar and Victorian in the suburbs. That mix is what decides a uPVC window job in Coventry: opening sizes, lintel type and whether the elevation faces a protected street all change the spec.
+Coventry has an unusual housing mix because the city centre was rebuilt after heavy WWII bombing. That left postwar and system-built stock across the inner ring, alongside surviving Victorian terraces in Earlsdon and interwar semis in Chapelfields, Stoke and Cheylesmore. The postwar houses often had metal or early aluminium windows that have already been replaced once.
 
-## What you get
+## Why Coventry homeowners choose us
 
-- Installers who cover CV1, CV2, CV3 and CV4 and the rest of the Coventry area
-- Local knowledge of Earlsdon, Chapelfields and Stivichall and the surrounding Coventry streets
-- Flush-sash profile available where a standard lipped casement would look wrong
-- Made-to-measure uPVC sized to your original openings, not forced into stock frames
-- Frames and sealed units guaranteed separately, with cover if the installer stops trading
+- Fitters who know the postwar and system-built stock and its window quirks
+- Replacement of old metal and early aluminium frames with correctly sized uPVC
+- Openings sized to surviving Earlsdon Victorian terraces
+- A-rated 28mm units, warm-edge spacers and trickle vents to Building Regs as standard
+- FENSA or CERTASS registered, frames and glass guaranteed separately
 
 ## Areas we cover around Coventry
 
-Stivichall, Radford, Cheylesmore and Chapelfields and the rest of Coventry are all covered, along with Birmingham, Nuneaton and Rugby close by. Ask if your postcode isn't in CV1, CV2, CV3 and CV4 - we likely still reach it.
+Earlsdon, Chapelfields, Stivichall, Cheylesmore, Radford and Tile Hill, out to Nuneaton, Bedworth, Rugby and Leamington Spa. Postcodes CV1 to CV6.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Coventry?**
-Around 20 conservation areas, mostly around surviving prewar suburbs. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can you replace old metal windows in a postwar Coventry house?**
+Yes - the metal frame comes out, the opening is made good and a correctly sized uPVC window is fitted. It is a common job on the city's postwar stock.
+
+**Do Coventry conservation areas restrict windows?**
+Around 20 conservation areas, mostly protecting the surviving prewar suburbs like Earlsdon - check with the council if your street is one of them.
 
 **How much do uPVC windows cost in Coventry?**
-Typical prices in Coventry run about £319 to £819 per window fitted, using this area's regional labour factor of 0.91x the national average. Size, glazing spec and finish move the figure.
-
-**How long does a full house of uPVC windows take?**
-For a typical Coventry home of 8-10 windows, one to two days with a two-person team. Bays and structural openings add time.
+Typically £319 to £819 per window fitted, using the West Midlands regional factor of 0.91x the national average.
