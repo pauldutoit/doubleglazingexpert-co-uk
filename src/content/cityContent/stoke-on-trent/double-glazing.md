@@ -6,34 +6,34 @@ intentSlug: "double-glazing"
 region: "West Midlands"
 indexable: false
 metaTitle: "Double Glazing in Stoke-on-Trent | Double Glazing Expert"
-metaDescription: "Double Glazing in Stoke-on-Trent: prices from £2,580 to £7,740. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Whole-home double glazing quotes in Stoke-on-Trent from vetted installers. Typical £2,580-£7,740. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Stoke-on-Trent double Glazing: what to expect
+## Whole-home double glazing in Stoke-on-Trent
 
-The stock here sets the job up - Late Victorian potters' cottages and terraces. On a whole-home job in Stoke-on-Trent that history matters: older bays, non-standard openings and protected elevations all push the price around.
+A pottery workers' terrace in Burslem or Longton is often a compact 6 to 9-opening job; the Penkhull and Trentham houses are larger. Doing the whole house in one visit gets you a matched finish and lets the installer set every frame square in one go.
 
-## What you get
+## Why Stoke-on-Trent homeowners choose us
 
-- Local knowledge of Hanley, Burslem and Stoke and the surrounding Stoke-on-Trent streets
-- Fitters who know Stoke-on-Trent's conservation rules - around 15 conservation areas, mostly protecting surviving pottery-era terraces.
-- Price held for at least a week - no "sign today" pressure
-- Making-good of plaster and external rendering included, not billed as an extra
-- A single matched foiled finish inside and out across the whole property
+- One itemised quote per opening so you can compare fairly
+- Every opening set square and packed properly, even on a settled terrace
+- A single matched foiled finish across the whole property
+- Structural check on any bay before glass is ordered
+- FENSA certificate registered in your name within 30 days
 
 ## Areas we cover around Stoke-on-Trent
 
-We match homeowners in Penkhull, Burslem, Hanley and Trentham and the wider Stoke-on-Trent area, plus neighbouring Stafford, Crewe and Birmingham. That covers ST1, ST2, ST3 and ST4 and beyond.
+Hanley, Burslem, Longton, Fenton, Trentham and Penkhull, out to Newcastle-under-Lyme, Stone, Kidsgrove and Biddulph. Postcodes ST1 to ST6.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Stoke-on-Trent?**
-Around 15 conservation areas, mostly protecting surviving pottery-era terraces. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**How long does a whole-house job take in Stoke-on-Trent?**
+Two to three days for a terrace, longer for a larger Penkhull or Trentham house with a bay.
 
 **What does whole-home double glazing cost in Stoke-on-Trent?**
-A full replacement in Stoke-on-Trent typically lands between £2,580 and £7,740 depending on opening count, frame material and how many are bays. That reflects the area's 0.86x regional cost factor.
+Usually £2,580 to £7,740 depending on opening count, frame material and bays, using the local 0.86x cost factor.
 
-**Should I be wary of "today only" discounts?**
-Yes. A genuine whole-home quote is itemised and holds its price for at least a week. Anything that only works if you sign on the visit is a sales tactic.
+**Should I be wary of "sign today" discounts?**
+Yes. A genuine quote is itemised and holds for at least a week.

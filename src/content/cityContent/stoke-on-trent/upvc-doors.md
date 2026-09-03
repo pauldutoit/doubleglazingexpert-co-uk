@@ -6,34 +6,34 @@ intentSlug: "upvc-doors"
 region: "West Midlands"
 indexable: false
 metaTitle: "uPVC Doors in Stoke-on-Trent | Double Glazing Expert"
-metaDescription: "uPVC Doors in Stoke-on-Trent: prices from £559 to £1,548. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC front, back and patio door quotes in Stoke-on-Trent from vetted fitters. From £559. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## uPVC Doors for Stoke-on-Trent homes
+## uPVC doors for Stoke-on-Trent homes
 
-On a Stoke-on-Trent terrace the back door is often the weak point for security and draughts. A modern uPVC door with PAS 24 multi-point locking fixes both for less than a composite.
+For a Stoke terrace or semi, uPVC is the sensible choice for back, side and garden doors, and a budget option for the front. On a pottery workers' terrace the front door often opens straight onto the street, so a good compression seal and a weathered threshold matter.
 
 ## Why Stoke-on-Trent homeowners choose us
 
-- Installers who cover ST1, ST2, ST3 and ST4 and the rest of the Stoke-on-Trent area
-- Local knowledge of Hanley, Burslem and Stoke and the surrounding Stoke-on-Trent streets
-- French and patio door options for narrow terrace returns and side passages
+- PAS 24 multi-point locking and anti-snap cylinders as standard
+- Draught-sealed thresholds for front doors that open onto the street
+- Frames fitted true even where the opening has settled
 - Foiled colours matched to your existing windows and joinery
-- PAS 24 multi-point locking and an anti-snap cylinder as standard, not an upsell
+- Old door and frame removed and disposed of within the quote
 
 ## Areas we cover around Stoke-on-Trent
 
-Longton, Burslem, Stoke and Penkhull and the rest of Stoke-on-Trent are all covered, along with Stafford, Crewe and Birmingham close by. Ask if your postcode isn't in ST1, ST2, ST3 and ST4 - we likely still reach it.
+Penkhull, Hartshill, Trentham, Blurton and Longton, out to Newcastle-under-Lyme, Stone, Kidsgrove and Biddulph. Postcodes ST1 to ST6.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Stoke-on-Trent?**
-Around 15 conservation areas, mostly protecting surviving pottery-era terraces. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Is a uPVC front door secure enough for Stoke-on-Trent?**
+A modern uPVC door with a 5-point multi-point lock, PAS 24 certification and a TS007 3-star anti-snap cylinder meets what most insurers ask for.
 
 **How much do uPVC doors cost in Stoke-on-Trent?**
-Roughly £559 to £1,548 fitted in Stoke-on-Trent using the local 0.86x factor - plain panel doors at the lower end, French and sliding patio sets at the top.
+Roughly £559 to £1,548 fitted using the local 0.86x factor, with French and sliding patio sets at the top.
 
-**uPVC or composite for the front?**
-Composite doors are thicker, heavier and hold colour better, for roughly double the price. For back, side and garden doors, uPVC is the usual and sensible choice.
+**My door frame is out of square - can it still be replaced?**
+Yes - a made-to-measure uPVC door can be fitted and packed to a slightly racked opening, common on Stoke's settled terraces.

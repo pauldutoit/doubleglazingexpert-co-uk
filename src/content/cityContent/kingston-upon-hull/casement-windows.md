@@ -5,35 +5,35 @@ intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "Yorkshire and the Humber"
 indexable: false
-metaTitle: "Casement Windows in Kingston upon Hull | Double Glazing Expert"
-metaDescription: "Casement Windows in Kingston upon Hull: prices from £294 to £756. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaTitle: "Casement Windows in Hull | Double Glazing Expert"
+metaDescription: "uPVC casement window quotes in Hull from FENSA fitters. From £294 per window. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Kingston upon Hull casement Windows: what to expect
+## Casement windows for Hull homes
 
-The stock here sets the job up - Victorian and Edwardian, with substantial postwar rebuild after WWII bombing. Across most of that Kingston upon Hull stock a casement is the right replacement; flush-sash versions suit the older streets where a lipped frame would look modern.
+Casements are the standard replacement across the interwar semis of Bilton Grange, Anlaby Park and Sutton, and on the rear elevations of the Newland and Avenues terraces. A flush-sash casement holds a cleaner line on the older brick streets than a lipped frame.
 
-## Why Kingston upon Hull homeowners choose us
+## Why Hull homeowners choose us
 
-- Local knowledge of The Avenues, Newland and Cottingham and the surrounding Kingston upon Hull streets
-- Quotes matched to Kingston upon Hull's housing stock: terraced streets off the Avenues in west Hull, interwar Bilton Grange semis, and postwar estates in Bransholme.
-- Argon-filled A-rated units, warm-edge spacer, internally beaded for security
-- Trickle vents to current Building Regs, colour-matched to the frame
-- Multi-point locking as standard, not an upgrade
+- Flush-sash and standard casements priced side by side
+- Casements for terrace rears where the front stays period
+- Egress hinges on bedroom windows for the 450mm fire-escape rule
+- Trickle vents sized for damp-prone low-lying property
+- Multi-point locking and internal beading as standard
 
-## Areas we cover around Kingston upon Hull
+## Areas we cover around Hull
 
-We match homeowners in Newland, Anlaby, The Avenues and Cottingham and the wider Kingston upon Hull area, plus neighbouring Beverley, Bridlington and Leeds. That covers HU1, HU2, HU3 and HU5 and beyond.
+Bilton Grange, Anlaby Park, Sutton, Newland, Cottingham and Hessle, plus Beverley, Willerby, Hedon and Brough. Postcodes HU1 to HU8.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Kingston upon Hull?**
-27 conservation areas including the Avenues and the Old Town. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
-
-**How much are casement windows in Kingston upon Hull?**
-Around £294 to £756 per window fitted in Kingston upon Hull, based on the local 0.84x cost factor. Flush-sash profiles sit 10-15% above standard.
-
 **What is a flush casement window?**
-One where the opening sash closes level with the outer frame instead of sitting proud of it - a cleaner, more traditional line that suits older Kingston upon Hull streets, for about 10-15% more than a standard casement.
+One where the sash closes level with the frame - a more traditional line for Hull's Victorian streets, at roughly 10 to 15% more.
+
+**Can casements meet bedroom fire-escape rules?**
+Yes, with the right hinge - a clear opening of at least 450mm x 450mm and 0.33 square metres, confirmed per window.
+
+**How much are casement windows in Hull?**
+Around £294 to £756 per window fitted, using the local 0.84x cost factor.

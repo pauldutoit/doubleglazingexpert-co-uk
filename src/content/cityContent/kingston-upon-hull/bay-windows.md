@@ -5,35 +5,35 @@ intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "Yorkshire and the Humber"
 indexable: false
-metaTitle: "Bay Windows in Kingston upon Hull | Double Glazing Expert"
-metaDescription: "Bay Windows in Kingston upon Hull: prices from £1,008 to £2,688. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaTitle: "Bay Windows in Hull | Double Glazing Expert"
+metaDescription: "Bay window replacement quotes in Hull from vetted installers. Typical £1,008-£2,688. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Bay Windows for Kingston upon Hull homes
+## Bay window replacement in Hull
 
-The bay window is typically the largest and trickiest glazing job in a Kingston upon Hull home - three to five interconnected units on what is often a load-bearing wall. The stock here sets the job up - Victorian and Edwardian, with substantial postwar rebuild after WWII bombing.
+Bays in Hull are common on the Avenues villas and the larger Newland and Pearson Park terraces. Many Victorian bays were built with the box frames carrying load, so a steel or reinforced lintel is usually needed above the bay to meet current Building Regs.
 
-## Why locals choose us
+## Why Hull homeowners choose us
 
-- Installers who cover HU1, HU2, HU3 and HU5 and the rest of the Kingston upon Hull area
-- Quotes matched to Kingston upon Hull's housing stock: terraced streets off the Avenues in west Hull, interwar Bilton Grange semis, and postwar estates in Bransholme.
 - Structural survey of the bay before any frame is ordered
-- At least one opening pane sized for fire escape on bedroom bays
+- Matched frame widths so the bay keeps its proportions
+- Steel or reinforced lintel fitted where the opening needs it
+- Lead flashing and apron repairs above the bay included where needed
 - Scaled elevation drawings to approve before manufacture
 
-## Areas we cover around Kingston upon Hull
+## Areas we cover around Hull
 
-The Avenues, Newland, Anlaby and Hessle and the rest of Kingston upon Hull are all covered, along with Beverley, Bridlington and Leeds close by. Ask if your postcode isn't in HU1, HU2, HU3 and HU5 - we likely still reach it.
+The Avenues, Newland, Pearson Park, Cottingham and Hessle, plus Beverley, Willerby, Hedon and Brough. Postcodes HU1 to HU8.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Kingston upon Hull?**
-27 conservation areas including the Avenues and the Old Town. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Does my Hull Victorian bay need a steel?**
+Almost certainly if it is pre-1914. A survey confirms it before any frame is ordered. Budget £600 to £1,200 for the work.
 
-**How much does a bay window cost in Kingston upon Hull?**
-Typically £1,008 to £2,688 in Kingston upon Hull for the glazing, using the local 0.84x factor - plus £600 to £1,200 on top if a structural steel is needed, which a survey confirms.
+**How much does a bay window cost in Hull?**
+Typically £1,008 to £2,688 for the glazing using the local 0.84x factor, plus the structural work if needed.
 
-**Will a new bay match a conservation area street?**
-It can, but the profile and glazing bar pattern usually need council sign-off first. Get written pre-approval before the frames are made.
+**Will a new bay match an Avenues street?**
+It can, but the profile usually needs council sign-off first - get that in writing before manufacture.

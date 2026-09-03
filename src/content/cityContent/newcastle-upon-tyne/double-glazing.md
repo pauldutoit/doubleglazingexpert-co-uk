@@ -6,34 +6,34 @@ intentSlug: "double-glazing"
 region: "North East England"
 indexable: false
 metaTitle: "Double Glazing in Newcastle upon Tyne | Double Glazing Expert"
-metaDescription: "Double Glazing in Newcastle upon Tyne: prices from £2,550 to £7,650. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Whole-home double glazing quotes in Newcastle from vetted installers. Typical £2,550-£7,650. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Newcastle upon Tyne double Glazing: what to expect
+## Whole-home double glazing in Newcastle
 
-Full-house double glazing in Newcastle upon Tyne means scaffolding, waste removal and making-good as well as the frames themselves - all of which should be in the quote, not sprung on you later. Tyneside flats (paired ground and first-floor entrances) in Heaton and Byker, Georgian terraces around Grainger Town, plus 1930s Gosforth semis.
+A whole Tyneside flat is often just 4 to 7 openings - one floor of a terrace - so a full-flat job is smaller and cheaper than a whole house elsewhere. A Gosforth or Fenham semi is the more usual 9 to 12-opening job. Doing everything in one visit gets you a matched finish.
 
-## Why locals choose us
+## Why Newcastle homeowners choose us
 
-- Local knowledge of Jesmond, Gosforth and Heaton and the surrounding Newcastle upon Tyne streets
-- Installers who cover NE1, NE2, NE3 and NE4 and the rest of the Newcastle upon Tyne area
-- Structural checks on older bays before any glass is ordered
-- FENSA certificate registered in your name within 30 days - the document you need to sell
-- Making-good of plaster and external rendering included, not billed as an extra
+- One itemised quote per opening so you can compare fairly
+- Whole-flat quoting for a single floor of a Tyneside terrace
+- A single matched foiled finish across the property
+- Structural check on any bay before glass is ordered
+- FENSA certificate registered in your name within 30 days
 
-## Areas we cover around Newcastle upon Tyne
+## Areas we cover around Newcastle
 
-We match homeowners in Gosforth, Byker, Jesmond and Fenham and the wider Newcastle upon Tyne area, plus neighbouring Sunderland, Durham and Middlesbrough. That covers NE1, NE2, NE3 and NE4 and beyond.
+Jesmond, Gosforth, Heaton, Sandyford, Fenham and Byker, out to Gateshead, Whitley Bay, North Shields and Wallsend. Postcodes NE1 to NE7.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Newcastle upon Tyne?**
-18 conservation areas including Grainger Town and Jesmond, both with tight frame rules. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Is a whole-flat job smaller than a whole house?**
+Usually, yes - a Tyneside flat is one floor of a terrace, often 4 to 7 openings, so the job and the price are smaller than a full house.
 
-**What does whole-home double glazing cost in Newcastle upon Tyne?**
-A full replacement in Newcastle upon Tyne typically lands between £2,550 and £7,650 depending on opening count, frame material and how many are bays. That reflects the area's 0.85x regional cost factor.
+**What does whole-home double glazing cost in Newcastle?**
+Usually £2,550 to £7,650 for a house, using the local 0.85x cost factor; a single flat is less.
 
-**How long does a whole-house job take in Newcastle upon Tyne?**
-Usually two to four days for a mid-terrace or semi, longer where scaffolding or a structural bay is involved. Ask for a day-by-day plan before work starts.
+**How long does it take?**
+One to two days for a flat, two to four for a house with a structural bay.

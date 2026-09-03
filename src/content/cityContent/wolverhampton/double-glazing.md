@@ -6,34 +6,34 @@ intentSlug: "double-glazing"
 region: "West Midlands"
 indexable: false
 metaTitle: "Double Glazing in Wolverhampton | Double Glazing Expert"
-metaDescription: "Double Glazing in Wolverhampton: prices from £2,700 to £8,100. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Whole-home double glazing quotes in Wolverhampton from vetted installers. Typical £2,700-£8,100. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Wolverhampton double Glazing: what to expect
+## Whole-home double glazing in Wolverhampton
 
-Replacing all the single glazing or tired old units in one go is the biggest glazing decision most Wolverhampton homeowners make - and quotes for the same house can vary by thousands. Itemised pricing is the only way to compare fairly.
+An interwar semi in Penn or Wednesfield is a straightforward 9 to 12-opening job with uniform sizes. The Whitmore Reans and Blakenhall terraces are the more involved work, with taller openings and often a bay. Doing everything in one visit gets you a matched finish.
 
-## Why locals choose us
+## Why Wolverhampton homeowners choose us
 
-- Local knowledge of Tettenhall, Compton and Penn and the surrounding Wolverhampton streets
-- Quotes matched to Wolverhampton's housing stock: red-brick Victorian terraces around Whitmore Reans and Blakenhall, interwar semis in Tettenhall and Merry Hill, plus a strong interwar municipal housing stock.
-- One quote itemised opening-by-opening, so you can see what each window and door costs
-- FENSA certificate registered in your name within 30 days - the document you need to sell
-- Price held for at least a week - no "sign today" pressure
+- One itemised quote per opening so you can compare fairly
+- Predictable pricing on the standard-pattern interwar estates
+- A single matched foiled finish across the whole property
+- Structural check on any bay before glass is ordered
+- FENSA certificate registered in your name within 30 days
 
 ## Areas we cover around Wolverhampton
 
-We match homeowners in Compton, Penn, Wednesfield and Bilston and the wider Wolverhampton area, plus neighbouring Birmingham, Walsall and Dudley. That covers WV1, WV2, WV3 and WV4 and beyond.
+Tettenhall, Compton, Penn, Wednesfield, Bilston and Whitmore Reans, out to Walsall, Dudley, Cannock and Telford. Postcodes WV1 to WV6.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Wolverhampton?**
-Around 20 conservation areas including Tettenhall Wood and Chapel Ash. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**How long does a whole-house job take in Wolverhampton?**
+Two to three days for an interwar semi, longer for a Whitmore Reans terrace with a structural bay.
 
 **What does whole-home double glazing cost in Wolverhampton?**
-A full replacement in Wolverhampton typically lands between £2,700 and £8,100 depending on opening count, frame material and how many are bays. That reflects the area's 0.9x regional cost factor.
+Usually £2,700 to £8,100 depending on opening count, frame material and bays, using the local 0.90x cost factor.
 
-**How long does a whole-house job take in Wolverhampton?**
-Usually two to four days for a mid-terrace or semi, longer where scaffolding or a structural bay is involved. Ask for a day-by-day plan before work starts.
+**Should I be wary of "sign today" discounts?**
+Yes. A genuine quote is itemised and holds for at least a week.

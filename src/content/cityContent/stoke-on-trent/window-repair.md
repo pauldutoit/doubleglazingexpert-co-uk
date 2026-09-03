@@ -6,34 +6,34 @@ intentSlug: "window-repair"
 region: "West Midlands"
 indexable: false
 metaTitle: "Double Glazing Repairs in Stoke-on-Trent | Double Glazing Expert"
-metaDescription: "Double Glazing Repairs in Stoke-on-Trent: prices from £77 to £258. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Misted units, blown seals and faulty hinges repaired in Stoke-on-Trent. From £77. Same-week visits, free quotes."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Stoke-on-Trent double Glazing Repairs: what to expect
+## Double glazing repairs in Stoke-on-Trent
 
-Repair beats replacement in Stoke-on-Trent until repair costs approach half the price of a new window. Misted units, faulty gearboxes and worn friction stays are all fixable in situ.
+Where a Stoke frame is sound but a sealed unit has misted or a mechanism has failed, a repair costs a fraction of replacement and is usually one visit. Alongside blown seals, doors and windows that have dropped or stopped closing flush are common where an opening has settled over time.
 
-## Why locals choose us
+## Why Stoke-on-Trent homeowners choose us
 
-- Local knowledge of Hanley, Burslem and Stoke and the surrounding Stoke-on-Trent streets
-- Installers who cover ST1, ST2, ST3 and ST4 and the rest of the Stoke-on-Trent area
-- Friction stay, gearbox and multi-point mechanism swaps done in situ
-- Made-to-measure replacement sealed units for non-standard openings
-- Same-week visits for windows that will not lock or close
+- Written diagnosis first - some "misting" is room condensation, a ventilation issue
+- Made-to-measure replacement units for small pottery-cottage openings
+- Realignment and packing of frames that have dropped in a settled opening
+- Replacement units guaranteed to match the original 10-year seal warranty
+- Call-out fees quoted up front for urgent jobs
 
 ## Areas we cover around Stoke-on-Trent
 
-We match homeowners in Penkhull, Burslem, Hanley and Stoke and the wider Stoke-on-Trent area, plus neighbouring Stafford, Crewe and Birmingham. That covers ST1, ST2, ST3 and ST4 and beyond.
+Repairs across Penkhull, Hartshill, Trentham, Blurton and Longton, plus Newcastle-under-Lyme, Stone, Kidsgrove and Biddulph. Postcodes ST1 to ST6.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Stoke-on-Trent?**
-Around 15 conservation areas, mostly protecting surviving pottery-era terraces. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can a misted unit be repaired without a new window?**
+Yes - it is a glass-unit swap and the frame stays in place. Around £77 to £258 per unit in Stoke-on-Trent using the local 0.86x factor.
 
-**How much are double glazing repairs in Stoke-on-Trent?**
-Most repairs in Stoke-on-Trent run £77 to £258 per unit or mechanism using the local 0.86x factor, usually done in a single visit.
+**My window will not close flush any more - is that repairable?**
+Often, yes - it may just need the hinges adjusted or the frame re-packed where the opening has settled, rather than a new window.
 
-**Blown seal or condensation - how do I tell?**
-A blown seal mists permanently between the panes and can't be wiped. Condensation on the room side of the glass is a ventilation problem, not a glazing fault.
+**How quickly can you come out?**
+Same week for most repairs; sooner for a window that will not lock or close.

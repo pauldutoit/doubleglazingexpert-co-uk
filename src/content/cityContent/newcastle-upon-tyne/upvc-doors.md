@@ -6,34 +6,34 @@ intentSlug: "upvc-doors"
 region: "North East England"
 indexable: false
 metaTitle: "uPVC Doors in Newcastle upon Tyne | Double Glazing Expert"
-metaDescription: "uPVC Doors in Newcastle upon Tyne: prices from £553 to £1,530. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC front, back and patio door quotes in Newcastle from vetted fitters. From £553. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## uPVC Doors for Newcastle upon Tyne homes
+## uPVC doors for Newcastle homes
 
-A matched pair of uPVC French doors or a sliding patio set onto a Newcastle upon Tyne garden costs far less than the aluminium equivalent and performs well enough for most homes.
+The Tyneside flat has a pair of front doors on the street - one for the upper flat's stair, one for the lower flat - and each is the responsibility of that flat. A modern uPVC door with a good compression seal is a real gain against North East winters. For semis, uPVC handles back and garden doors well.
 
-## What you get
+## Why Newcastle homeowners choose us
 
-- Installers who cover NE1, NE2, NE3 and NE4 and the rest of the Newcastle upon Tyne area
-- Fitters who know Newcastle upon Tyne's conservation rules - 18 conservation areas including Grainger Town and Jesmond, both with tight frame rules.
-- French and patio door options for narrow terrace returns and side passages
-- PAS 24 multi-point locking and an anti-snap cylinder as standard, not an upsell
-- Toughened or laminated safety glass in every door side panel
+- PAS 24 multi-point locking and anti-snap cylinders as standard
+- Weather-sealed doors for exposed North East sites
+- Clear on which of the two Tyneside-flat front doors is yours
+- Foiled colours matched to your existing windows and joinery
+- Old door and frame removed and disposed of within the quote
 
-## Areas we cover around Newcastle upon Tyne
+## Areas we cover around Newcastle
 
-Fenham, Gosforth, Byker and Jesmond and the rest of Newcastle upon Tyne are all covered, along with Sunderland, Durham and Middlesbrough close by. Ask if your postcode isn't in NE1, NE2, NE3 and NE4 - we likely still reach it.
+Jesmond, Gosforth, Heaton, Fenham and Byker, out to Gateshead, Whitley Bay, North Shields and Wallsend. Postcodes NE1 to NE7.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Newcastle upon Tyne?**
-18 conservation areas including Grainger Town and Jesmond, both with tight frame rules. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Which front door is mine on a Tyneside flat?**
+The one opening onto your flat's stair. The two doors sit side by side but each belongs to a separate flat, so you only replace your own.
 
-**How much do uPVC doors cost in Newcastle upon Tyne?**
-Roughly £553 to £1,530 fitted in Newcastle upon Tyne using the local 0.85x factor - plain panel doors at the lower end, French and sliding patio sets at the top.
+**Is a uPVC front door secure enough for Newcastle?**
+A modern uPVC door with a 5-point multi-point lock, PAS 24 certification and a TS007 3-star anti-snap cylinder meets what most insurers ask for.
 
-**uPVC or composite for the front?**
-Composite doors are thicker, heavier and hold colour better, for roughly double the price. For back, side and garden doors, uPVC is the usual and sensible choice.
+**How much do uPVC doors cost in Newcastle?**
+Roughly £553 to £1,530 fitted using the local 0.85x factor, with French and sliding patio sets at the top.

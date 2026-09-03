@@ -6,34 +6,34 @@ intentSlug: "double-glazing"
 region: "East Midlands"
 indexable: false
 metaTitle: "Double Glazing in Nottingham | Double Glazing Expert"
-metaDescription: "Double Glazing in Nottingham: prices from £2,670 to £8,010. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Whole-home double glazing quotes in Nottingham from vetted installers. Typical £2,670-£8,010. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## A whole-home double glazing job in Nottingham
+## Whole-home double glazing in Nottingham
 
-Doing every window in a Nottingham home at once gets you one matched finish, a single set of access costs and usually a better per-unit price than replacing them piecemeal. The Park Estate is a rare private Victorian villa enclave, surrounded by red-brick terraces in Sneinton and Radford, and interwar semis in West Bridgford and Wollaton.
+A Sneinton or Forest Fields terrace is usually 8 to 12 openings including a bay; the West Bridgford and Wollaton semis are the more uniform jobs. Doing the whole house in one visit gets you a matched finish and a single set of access costs.
 
-## What you get
+## Why Nottingham homeowners choose us
 
-- Quotes matched to Nottingham's housing stock: the Park Estate is a rare private Victorian villa enclave, surrounded by red-brick terraces in Sneinton and Radford, and interwar semis in West Bridgford and Wollaton.
-- Local knowledge of The Park, West Bridgford and Wollaton and the surrounding Nottingham streets
-- Access, scaffolding, parking and waste removal priced up front
-- A single matched foiled finish inside and out across the whole property
-- Structural checks on older bays before any glass is ordered
+- One itemised quote per opening so you can compare fairly
+- Access and scaffolding for terraced streets priced up front
+- A single matched foiled finish across the whole property
+- Structural check on any bay before glass is ordered
+- FENSA certificate registered in your name within 30 days
 
 ## Areas we cover around Nottingham
 
-Coverage runs across Nottingham - Wollaton, Beeston, The Park and Sherwood among them - and into Derby, Mansfield and Leicester. Postcodes from NG1, NG2, NG3 and NG7 outward.
+West Bridgford, Wollaton, Sherwood, Mapperley, Beeston and Sneinton, out to Arnold, Carlton, Hucknall and Ilkeston. Postcodes NG1 to NG8.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Nottingham?**
-27 conservation areas including The Park and Lace Market. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**How long does a whole-house job take in Nottingham?**
+Two to three days for a West Bridgford semi, longer for a Sneinton terrace with a structural bay.
 
 **What does whole-home double glazing cost in Nottingham?**
-A full replacement in Nottingham typically lands between £2,670 and £8,010 depending on opening count, frame material and how many are bays. That reflects the area's 0.89x regional cost factor.
+Usually £2,670 to £8,010 depending on opening count, frame material and bays, using the local 0.89x cost factor.
 
-**Can I do it in phases?**
-You can, but doing it in one visit means one scaffold, one matched finish and usually a lower per-window price. Phasing makes sense mainly when cash flow forces it.
+**Should I be wary of "sign today" discounts?**
+Yes. A genuine quote is itemised and holds for at least a week.

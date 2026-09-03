@@ -6,34 +6,34 @@ intentSlug: "upvc-windows"
 region: "North East England"
 indexable: false
 metaTitle: "uPVC Windows in Newcastle upon Tyne | Double Glazing Expert"
-metaDescription: "uPVC Windows in Newcastle upon Tyne: prices from £298 to £765. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC window quotes in Newcastle from FENSA fitters. From £298 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## uPVC Windows for Newcastle upon Tyne homes
+## New uPVC windows for a Newcastle home
 
-Most Newcastle upon Tyne window jobs are made to measure - tyneside flats (paired ground and first-floor entrances) in Heaton and Byker, Georgian terraces around Grainger Town, plus 1930s Gosforth semis. None of that stock was built to a standard window size, so a fitter who works your streets will size and price it properly.
+Newcastle has a housing type you mostly see in the North East - the Tyneside flat, a two-storey terrace split into an upper and lower flat with a pair of front doors side by side. Heaton, Byker and Sandyford are full of them, and each flat owns its own windows. Add the Georgian terraces of Grainger Town and the 1930s Gosforth semis and the picture is varied.
 
-## Why locals choose us
+## Why Newcastle homeowners choose us
 
-- Installers who cover NE1, NE2, NE3 and NE4 and the rest of the Newcastle upon Tyne area
-- Fitters who know Newcastle upon Tyne's conservation rules - 18 conservation areas including Grainger Town and Jesmond, both with tight frame rules.
-- Made-to-measure uPVC sized to your original openings, not forced into stock frames
-- A-rated 28mm argon-filled units with a warm-edge spacer and low-E soft coat as standard
-- Flush-sash profile available where a standard lipped casement would look wrong
+- Fitters who understand Tyneside flat layouts and split ownership of a terrace
+- Openings sized to the tall sash windows of Heaton and Sandyford flats
+- Knowledge of the 18 conservation areas, including Grainger Town and Jesmond
+- A-rated 28mm units, warm-edge spacers and trickle vents to Building Regs as standard
+- FENSA or CERTASS registered, frames and glass guaranteed separately
 
-## Areas we cover around Newcastle upon Tyne
+## Areas we cover around Newcastle
 
-Gosforth, Fenham, Byker and Heaton and the rest of Newcastle upon Tyne are all covered, along with Sunderland, Durham and Middlesbrough close by. Ask if your postcode isn't in NE1, NE2, NE3 and NE4 - we likely still reach it.
+Jesmond, Gosforth, Heaton, Sandyford, Fenham and Byker, out to Gateshead, Whitley Bay, North Shields and Wallsend. Postcodes NE1 to NE4, NE6 and NE7.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Newcastle upon Tyne?**
-18 conservation areas including Grainger Town and Jesmond, both with tight frame rules. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Who pays for windows in a Tyneside flat?**
+Each flat owns and pays for its own windows - the upper flat its upstairs windows, the lower flat its downstairs. There is usually no shared budget, so you only quote for your own.
 
-**How much do uPVC windows cost in Newcastle upon Tyne?**
-Typical prices in Newcastle upon Tyne run about £298 to £765 per window fitted, using this area's regional labour factor of 0.85x the national average. Size, glazing spec and finish move the figure.
+**Do Newcastle conservation areas restrict windows?**
+Grainger Town and Jesmond in particular have tight controls on street-facing frames - check with the council before ordering.
 
-**Do I need trickle vents on replacement windows?**
-Yes - since June 2022 replacement windows in England must include background ventilation, normally trickle vents in the frame head. A quote without them is cutting a corner.
+**How much do uPVC windows cost in Newcastle?**
+Typically £298 to £765 per window fitted, using the North East regional factor of 0.85x the national average.

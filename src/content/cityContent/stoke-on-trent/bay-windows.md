@@ -6,34 +6,34 @@ intentSlug: "bay-windows"
 region: "West Midlands"
 indexable: false
 metaTitle: "Bay Windows in Stoke-on-Trent | Double Glazing Expert"
-metaDescription: "Bay Windows in Stoke-on-Trent: prices from £1,032 to £2,752. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Bay window replacement quotes in Stoke-on-Trent from vetted installers. Typical £1,032-£2,752. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Bay Windows for Stoke-on-Trent homes
+## Bay window replacement in Stoke-on-Trent
 
-A Stoke-on-Trent bay done right transforms a room and adds resale value; done wrong it is expensive to put right. Scaled elevation drawings before manufacture are non-negotiable.
+Bays in Stoke are mostly on the Edwardian villas of Penkhull, Hartshill and Basford and the larger interwar semis. Pre-1914 bays were often built without a full structural beam, so a steel or reinforced lintel is usually needed - and any historic settlement in the wall has to be assessed at the same time.
 
 ## Why Stoke-on-Trent homeowners choose us
 
-- Installers who cover ST1, ST2, ST3 and ST4 and the rest of the Stoke-on-Trent area
-- Quotes matched to Stoke-on-Trent's housing stock: federated from six former Potteries towns, so the housing stock is fragmented: pottery workers' terraces in Burslem and Longton, Edwardian villas in Penkhull, and interwar estates in Trentham.
-- Steel or reinforced lintel fitted where the opening needs it to meet Building Regs
-- Structural survey of the bay before any frame is ordered
-- At least one opening pane sized for fire escape on bedroom bays
+- Structural survey of the bay - including any settlement in the surrounding wall - before any frame is ordered
+- Matched frame widths so the bay keeps its proportions
+- Steel or reinforced lintel fitted where the opening needs it
+- Lead flashing and apron repairs above the bay included where needed
+- Scaled elevation drawings to approve before manufacture
 
 ## Areas we cover around Stoke-on-Trent
 
-Longton, Stoke, Hanley and Trentham and the rest of Stoke-on-Trent are all covered, along with Stafford, Crewe and Birmingham close by. Ask if your postcode isn't in ST1, ST2, ST3 and ST4 - we likely still reach it.
+Penkhull, Hartshill, Basford, Trentham and Longton, plus Newcastle-under-Lyme, Stone, Kidsgrove and Biddulph. Postcodes ST1 to ST6.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Stoke-on-Trent?**
-Around 15 conservation areas, mostly protecting surviving pottery-era terraces. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Does my Stoke bay need a steel?**
+A pre-1914 Edwardian bay almost always does. The survey also checks for any historic settlement in the wall around the opening. Budget £600 to £1,200 for the structural work.
 
 **How much does a bay window cost in Stoke-on-Trent?**
-Typically £1,032 to £2,752 in Stoke-on-Trent for the glazing, using the local 0.86x factor - plus £600 to £1,200 on top if a structural steel is needed, which a survey confirms.
+Typically £1,032 to £2,752 for the glazing using the local 0.86x factor, plus the structural work if needed.
 
-**Can you keep the internal arch or reveal?**
-Usually yes. A good installer works around the existing plaster arch or square reveal; where it has to be disturbed, making-good should be in the quote.
+**Can you keep the internal window seat?**
+Usually yes - the frame is replaced around the existing seat and reveal, with making-good where they have to be disturbed.

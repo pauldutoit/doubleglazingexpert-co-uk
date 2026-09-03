@@ -6,34 +6,34 @@ intentSlug: "upvc-windows"
 region: "West Midlands"
 indexable: false
 metaTitle: "uPVC Windows in Stoke-on-Trent | Double Glazing Expert"
-metaDescription: "uPVC Windows in Stoke-on-Trent: prices from £301 to £774. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC window quotes in Stoke-on-Trent from FENSA fitters. From £301 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## uPVC Windows for Stoke-on-Trent homes
+## New uPVC windows for a Stoke-on-Trent home
 
-If your Stoke-on-Trent windows are pre-2005 or anything is single-glazed, new uPVC units usually pay for themselves in energy savings within 8-12 years. Federated from six former Potteries towns, so the housing stock is fragmented: pottery workers' terraces in Burslem and Longton, Edwardian villas in Penkhull, and interwar estates in Trentham.
+Stoke-on-Trent is six towns federated into one city, so the housing stock is fragmented - pottery workers' two-up-two-down terraces in Burslem, Longton and Fenton, Edwardian villas in Penkhull and Hartshill, and interwar estates in Trentham and Blurton. Some inner areas have a history of mining subsidence, which can leave older frames racked out of square.
 
 ## Why Stoke-on-Trent homeowners choose us
 
-- Installers who cover ST1, ST2, ST3 and ST4 and the rest of the Stoke-on-Trent area
-- Quotes matched to Stoke-on-Trent's housing stock: federated from six former Potteries towns, so the housing stock is fragmented: pottery workers' terraces in Burslem and Longton, Edwardian villas in Penkhull, and interwar estates in Trentham.
-- Made-to-measure uPVC sized to your original openings, not forced into stock frames
-- Foiled colour options - Anthracite Grey, black, woodgrain - as well as white
-- A-rated 28mm argon-filled units with a warm-edge spacer and low-E soft coat as standard
+- Fitters who allow for out-of-square openings on settled or historically undermined terraces
+- Openings sized to the small windows of pottery workers' cottages
+- Knowledge of the conservation areas protecting surviving pottery-era streets
+- A-rated 28mm units, warm-edge spacers and trickle vents to Building Regs as standard
+- FENSA or CERTASS registered, frames and glass guaranteed separately
 
 ## Areas we cover around Stoke-on-Trent
 
-Burslem, Trentham, Longton and Penkhull and the rest of Stoke-on-Trent are all covered, along with Stafford, Crewe and Birmingham close by. Ask if your postcode isn't in ST1, ST2, ST3 and ST4 - we likely still reach it.
+Hanley, Burslem, Longton, Fenton, Trentham and Penkhull, out to Newcastle-under-Lyme, Stone, Kidsgrove and Biddulph. Postcodes ST1 to ST4 and ST6.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Stoke-on-Trent?**
-Around 15 conservation areas, mostly protecting surviving pottery-era terraces. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**My terrace window openings are not square - is that a problem?**
+Not for a good installer. Historic settlement and mining subsidence have left many Stoke terraces slightly racked, and a made-to-measure uPVC frame can be packed and sealed to fit an out-of-square opening.
+
+**Do Stoke conservation areas restrict windows?**
+Around 15 conservation areas, mostly protecting pottery-era terraces - check the council portal if your street is one.
 
 **How much do uPVC windows cost in Stoke-on-Trent?**
-Typical prices in Stoke-on-Trent run about £301 to £774 per window fitted, using this area's regional labour factor of 0.86x the national average. Size, glazing spec and finish move the figure.
-
-**White or foiled frames?**
-White uPVC is cheapest; a foiled finish adds roughly 10-20% and is worth it on streets where white would look out of place. Foiled colours are through-coloured, not painted, so they don't flake.
+Typically £301 to £774 per window fitted, using the West Midlands regional factor of 0.86x the national average.

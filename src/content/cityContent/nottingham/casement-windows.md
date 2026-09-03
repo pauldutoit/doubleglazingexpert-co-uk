@@ -6,34 +6,34 @@ intentSlug: "casement-windows"
 region: "East Midlands"
 indexable: false
 metaTitle: "Casement Windows in Nottingham | Double Glazing Expert"
-metaDescription: "Casement Windows in Nottingham: prices from £312 to £801. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC casement window quotes in Nottingham from FENSA fitters. From £312 per window. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Fitting casement windows in Nottingham
+## Casement windows for Nottingham homes
 
-It pays to know the local era - Victorian to Edwardian, with strong interwar suburban belts. Across most of that Nottingham stock a casement is the right replacement; flush-sash versions suit the older streets where a lipped frame would look modern.
+Casements are the standard replacement across the interwar semis of Wollaton, Sherwood and Bilborough, and on the rear elevations of the Sneinton and Radford terraces. A flush-sash casement holds a cleaner line on the older red-brick streets than a lipped frame.
 
-## Why locals choose us
+## Why Nottingham homeowners choose us
 
-- Quotes matched to Nottingham's housing stock: the Park Estate is a rare private Victorian villa enclave, surrounded by red-brick terraces in Sneinton and Radford, and interwar semis in West Bridgford and Wollaton.
-- Installers who cover NG1, NG2, NG3 and NG7 and the rest of the Nottingham area
-- Multi-point locking as standard, not an upgrade
-- Trickle vents to current Building Regs, colour-matched to the frame
-- Argon-filled A-rated units, warm-edge spacer, internally beaded for security
+- Flush-sash and standard casements priced side by side
+- Casements for terrace rears where the front stays period
+- Egress hinges on bedroom windows for the 450mm fire-escape rule
+- Trickle vents to Building Regs, colour-matched to the frame
+- Multi-point locking and internal beading as standard
 
 ## Areas we cover around Nottingham
 
-Coverage runs across Nottingham - The Park, Wollaton, Beeston and Sherwood among them - and into Derby, Mansfield and Leicester. Postcodes from NG1, NG2, NG3 and NG7 outward.
+Wollaton, Sherwood, Bilborough, West Bridgford, Mapperley and Beeston, plus Arnold, Carlton, Hucknall and Ilkeston. Postcodes NG1 to NG8.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Nottingham?**
-27 conservation areas including The Park and Lace Market. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**What is a flush casement window?**
+One where the sash closes level with the frame - a more traditional line for Nottingham's Victorian streets, at roughly 10 to 15% more.
+
+**Can casements meet bedroom fire-escape rules?**
+Yes, with the right hinge - a clear opening of at least 450mm x 450mm and 0.33 square metres, confirmed per window.
 
 **How much are casement windows in Nottingham?**
-Around £312 to £801 per window fitted in Nottingham, based on the local 0.89x cost factor. Flush-sash profiles sit 10-15% above standard.
-
-**Outward or inward opening?**
-Almost all UK casements open outward. Inward-opening (tilt-and-turn) is available and useful on upper floors for cleaning, at a price premium.
+Around £312 to £801 per window fitted, using the local 0.89x cost factor.

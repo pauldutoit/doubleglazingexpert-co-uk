@@ -6,34 +6,34 @@ intentSlug: "bay-windows"
 region: "North East England"
 indexable: false
 metaTitle: "Bay Windows in Newcastle upon Tyne | Double Glazing Expert"
-metaDescription: "Bay Windows in Newcastle upon Tyne: prices from £1,020 to £2,720. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Bay window replacement quotes in Newcastle from vetted installers. Typical £1,020-£2,720. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Bay Windows for Newcastle upon Tyne homes
+## Bay window replacement in Newcastle
 
-Tyneside flats (paired ground and first-floor entrances) in Heaton and Byker, Georgian terraces around Grainger Town, plus 1930s Gosforth semis. Where those homes have a bay, replacing it well means matching frame widths and checking whether a steel is needed above - the structural work, not the glass, is the biggest cost variable.
+Bays in Newcastle are common on the larger Jesmond and Gosforth villas and on the upper storey of some Tyneside flats. Victorian bays were often built without a full structural beam, so a steel or reinforced lintel is usually needed to meet current Building Regs.
 
-## What you get
+## Why Newcastle homeowners choose us
 
-- Installers who cover NE1, NE2, NE3 and NE4 and the rest of the Newcastle upon Tyne area
-- Quotes matched to Newcastle upon Tyne's housing stock: tyneside flats (paired ground and first-floor entrances) in Heaton and Byker, Georgian terraces around Grainger Town, plus 1930s Gosforth semis.
-- Steel or reinforced lintel fitted where the opening needs it to meet Building Regs
-- Scaled elevation drawings to approve before manufacture
+- Structural survey of the bay before any frame is ordered
+- Matched frame widths so the bay keeps its proportions
+- Steel or reinforced lintel fitted where the opening needs it
 - Lead flashing and apron repairs above the bay included where needed
+- Scaled elevation drawings to approve before manufacture
 
-## Areas we cover around Newcastle upon Tyne
+## Areas we cover around Newcastle
 
-Fenham, Heaton, Jesmond and Gosforth and the rest of Newcastle upon Tyne are all covered, along with Sunderland, Durham and Middlesbrough close by. Ask if your postcode isn't in NE1, NE2, NE3 and NE4 - we likely still reach it.
+Jesmond, Gosforth, Heaton, Sandyford and Fenham, plus Gateshead, Whitley Bay, North Shields and Wallsend. Postcodes NE1 to NE7.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Newcastle upon Tyne?**
-18 conservation areas including Grainger Town and Jesmond, both with tight frame rules. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Does my Newcastle Victorian bay need a steel?**
+Almost certainly if it is pre-1914. A survey confirms it before any frame is ordered. Budget £600 to £1,200 for the work.
 
-**How much does a bay window cost in Newcastle upon Tyne?**
-Typically £1,020 to £2,720 in Newcastle upon Tyne for the glazing, using the local 0.85x factor - plus £600 to £1,200 on top if a structural steel is needed, which a survey confirms.
+**A bay on the upper flat of a Tyneside terrace - whose job is that?**
+The upper flat's - each flat owns its own windows, including a bay on its floor.
 
-**Does my Newcastle upon Tyne bay need a steel beam?**
-If it dates from the 1930s or earlier, almost certainly - many were built without one. A structural survey confirms it before any frame is ordered.
+**How much does a bay window cost in Newcastle?**
+Typically £1,020 to £2,720 for the glazing using the local 0.85x factor, plus the structural work if needed.

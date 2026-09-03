@@ -6,34 +6,34 @@ intentSlug: "window-repair"
 region: "South West England"
 indexable: false
 metaTitle: "Double Glazing Repairs in Plymouth | Double Glazing Expert"
-metaDescription: "Double Glazing Repairs in Plymouth: prices from £80 to £270. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "Misted units, blown seals and faulty hinges repaired in Plymouth. From £80. Same-week visits, free quotes."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Double Glazing Repairs for Plymouth homes
+## Double glazing repairs in Plymouth
 
-Plymouth's streets are a period mix - Postwar centre, Victorian around the Barbican and Devonport. A lot of Plymouth's double glazing is now 15-25 years old, which is exactly when sealed units start to fail and friction hinges wear out.
+Where a Plymouth frame is sound but a sealed unit has misted or a mechanism has failed, a repair costs a fraction of replacement and is usually one visit. The salt-laden coastal air is hard on hardware, so worn friction stays and stiff gearboxes are common calls alongside blown seals.
 
-## What you get
+## Why Plymouth homeowners choose us
 
-- Installers who cover PL1, PL2, PL3 and PL4 and the rest of the Plymouth area
-- Local knowledge of Plymstock, Peverell and Mannamead and the surrounding Plymouth streets
-- Friction stay, gearbox and multi-point mechanism swaps done in situ
-- Same-week visits for windows that will not lock or close
-- Written diagnosis before any work - some "misting" is room condensation, a ventilation issue
+- Written diagnosis first - some "misting" is room condensation, a ventilation issue
+- Made-to-measure replacement sealed units
+- Friction stay, gearbox and multi-point mechanism swaps, with marine-grade parts where exposed
+- Replacement units guaranteed to match the original 10-year seal warranty
+- Call-out fees quoted up front for urgent jobs
 
 ## Areas we cover around Plymouth
 
-Mutley, Stoke, Plymstock and Peverell and the rest of Plymouth are all covered, along with Torquay, Exeter and Bristol close by. Ask if your postcode isn't in PL1, PL2, PL3 and PL4 - we likely still reach it.
+Repairs across Peverell, Mannamead, Mutley, Plymstock and Stoke, plus Saltash, Ivybridge, Tavistock and Torpoint. Postcodes PL1 to PL6.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Plymouth?**
-23 conservation areas including the Barbican and Stonehouse. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Can a misted unit be repaired without a new window?**
+Yes - it is a glass-unit swap and the frame stays in place. Around £80 to £270 per unit in Plymouth using the local 0.90x factor.
 
-**How much are double glazing repairs in Plymouth?**
-Most repairs in Plymouth run £80 to £270 per unit or mechanism using the local 0.9x factor, usually done in a single visit.
+**Why do my window hinges keep seizing?**
+On a coastal elevation, salt corrosion is the usual cause - a marine-grade friction stay lasts far longer than a standard one.
 
-**Blown seal or condensation - how do I tell?**
-A blown seal mists permanently between the panes and can't be wiped. Condensation on the room side of the glass is a ventilation problem, not a glazing fault.
+**How quickly can you come out?**
+Same week for most repairs; sooner for a window that will not lock or close.
