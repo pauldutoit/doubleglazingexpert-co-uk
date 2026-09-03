@@ -3,6 +3,9 @@
 // initials monogram when unset or unrecognised, so this stays niche-agnostic
 // for future sites that don't pick one.
 export const ICONS: Record<string, string> = {
+  // Two overlapping panes = an insulated (double-glazed) unit, with a glint.
+  // Bespoke to this site so the badge/favicon don't match the shared template.
+  'glazing-unit': '<rect x="5" y="5" width="21" height="21" rx="2.5"/><rect x="12" y="12" width="21" height="21" rx="2.5"/><line x1="17.5" y1="25.5" x2="25.5" y2="17.5"/>',
   window: '<rect x="4" y="4" width="28" height="28" rx="3"/><line x1="18" y1="4" x2="18" y2="32"/><line x1="4" y1="18" x2="32" y2="18"/>',
   wrench: '<path d="M23 7a6.5 6.5 0 0 0-8.4 8.4L6 24.9V29h4.1l9.5-8.6A6.5 6.5 0 0 0 28 12l-4.3 4.3-3-3L25 9z"/>',
   house: '<path d="M5 17 18 5l13 12"/><path d="M8 15v15h20V15"/><line x1="15" y1="30" x2="15" y2="21"/><line x1="21" y1="30" x2="21" y2="21"/>',

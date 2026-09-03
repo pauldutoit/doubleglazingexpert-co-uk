@@ -5,7 +5,7 @@ import { ICONS, getInitials } from '../lib/logoIcon';
 export const GET: APIRoute = async () => {
   const iconPaths = (siteConfig as any).logoIcon && ICONS[(siteConfig as any).logoIcon];
   const inner = iconPaths
-    ? `<g transform="translate(14,14)" fill="none" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">${iconPaths}</g>`
+    ? `<g transform="translate(13,13)" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">${iconPaths}</g>`
     : `<text x="32" y="33" text-anchor="middle" dominant-baseline="central" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-weight="800" letter-spacing="-1" font-size="24" fill="#ffffff">${getInitials(siteConfig.siteName)}</text>`;
 
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
@@ -15,7 +15,7 @@ export const GET: APIRoute = async () => {
       <stop offset="1" stop-color="${siteConfig.accentColor}" />
     </linearGradient>
   </defs>
-  <circle cx="32" cy="32" r="30" fill="url(#g)" />
+  <rect x="3" y="3" width="58" height="58" rx="16" fill="url(#g)" />
   ${inner}
 </svg>`;
   return new Response(svg, { headers: { 'Content-Type': 'image/svg+xml' } });
