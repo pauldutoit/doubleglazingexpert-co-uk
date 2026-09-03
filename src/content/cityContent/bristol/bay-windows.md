@@ -4,7 +4,7 @@ citySlug: "bristol"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "South West England"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Bristol | Double Glazing Expert"
 metaDescription: "Bay window replacement quotes in Bristol from vetted installers. Typical £1,176-£3,136. Free, no-obligation."
 generatedAt: "2026-09-03"

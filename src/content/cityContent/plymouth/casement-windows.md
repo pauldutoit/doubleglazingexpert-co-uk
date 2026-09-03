@@ -4,7 +4,7 @@ citySlug: "plymouth"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "South West England"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Plymouth | Double Glazing Expert"
 metaDescription: "uPVC casement window quotes in Plymouth from FENSA fitters. From £315 per window. Free, no-obligation."
 generatedAt: "2026-09-03"

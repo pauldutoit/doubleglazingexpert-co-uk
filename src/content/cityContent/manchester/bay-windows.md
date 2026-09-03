@@ -4,7 +4,7 @@ citySlug: "manchester"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "North West England"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Manchester | Double Glazing Expert"
 metaDescription: "Bay window replacement quotes in Manchester from vetted installers. Typical £1,080-£2,880. Free, no-obligation."
 generatedAt: "2026-09-03"

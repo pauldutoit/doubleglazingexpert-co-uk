@@ -4,7 +4,7 @@ citySlug: "nottingham"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Nottingham | Double Glazing Expert"
 metaDescription: "Bay window replacement quotes in Nottingham from vetted installers. Typical £1,068-£2,848. Free, no-obligation."
 generatedAt: "2026-09-03"

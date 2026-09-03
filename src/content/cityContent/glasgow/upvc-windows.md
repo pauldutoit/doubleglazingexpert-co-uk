@@ -4,7 +4,7 @@ citySlug: "glasgow"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "Scotland"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Glasgow | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Glasgow from registered fitters. From £308 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

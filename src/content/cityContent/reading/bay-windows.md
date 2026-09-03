@@ -4,7 +4,7 @@ citySlug: "reading"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Reading | Double Glazing Expert"
 metaDescription: "Bay window replacement quotes in Reading from vetted installers. Typical £1,344-£3,584. Free, no-obligation."
 generatedAt: "2026-09-03"

@@ -4,7 +4,7 @@ citySlug: "nottingham"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Nottingham | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Nottingham from FENSA fitters. From £312 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

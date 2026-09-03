@@ -4,7 +4,7 @@ citySlug: "southampton"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Southampton | Double Glazing Expert"
 metaDescription: "uPVC casement window quotes in Southampton from FENSA fitters. From £368 per window. Free, no-obligation."
 generatedAt: "2026-09-03"

@@ -4,7 +4,7 @@ citySlug: "london"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "London"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in London | Double Glazing Expert"
 metaDescription: "Bay Windows in London: prices from £1,500 to £4,000. Free, no-obligation quotes from vetted local installers, no cold calls."
 generatedAt: "2026-09-03"

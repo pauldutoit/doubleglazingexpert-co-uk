@@ -4,7 +4,7 @@ citySlug: "coventry"
 intent: "Double Glazing Repairs"
 intentSlug: "window-repair"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing Repairs in Coventry | Double Glazing Expert"
 metaDescription: "Misted units, blown seals and faulty hinges repaired in Coventry. From £81. Same-week visits, free quotes."
 generatedAt: "2026-09-03"

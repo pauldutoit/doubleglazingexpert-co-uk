@@ -4,7 +4,7 @@ citySlug: "wolverhampton"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Wolverhampton | Double Glazing Expert"
 metaDescription: "uPVC casement window quotes in Wolverhampton from FENSA fitters. From £315 per window. Free, no-obligation."
 generatedAt: "2026-09-03"

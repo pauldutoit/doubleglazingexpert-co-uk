@@ -4,7 +4,7 @@ citySlug: "luton"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "East of England"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Luton | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Luton from FENSA fitters. From £371 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

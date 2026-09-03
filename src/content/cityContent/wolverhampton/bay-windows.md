@@ -4,7 +4,7 @@ citySlug: "wolverhampton"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Wolverhampton | Double Glazing Expert"
 metaDescription: "Bay window replacement quotes in Wolverhampton from vetted installers. Typical £1,080-£2,880. Free, no-obligation."
 generatedAt: "2026-09-03"

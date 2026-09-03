@@ -4,7 +4,7 @@ citySlug: "newcastle-upon-tyne"
 intent: "Double Glazing Repairs"
 intentSlug: "window-repair"
 region: "North East England"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing Repairs in Newcastle upon Tyne | Double Glazing Expert"
 metaDescription: "Misted units, blown seals and faulty hinges repaired in Newcastle. From £76. Same-week visits, free quotes."
 generatedAt: "2026-09-03"

@@ -4,7 +4,7 @@ citySlug: "stoke-on-trent"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Stoke-on-Trent | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Stoke-on-Trent from vetted installers. Typical £2,580-£7,740. Free, no-obligation."
 generatedAt: "2026-09-03"

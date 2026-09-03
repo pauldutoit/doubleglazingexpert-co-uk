@@ -4,7 +4,7 @@ citySlug: "edinburgh"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "Scotland"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Edinburgh | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Edinburgh from registered fitters. From £333 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

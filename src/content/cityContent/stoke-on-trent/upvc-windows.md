@@ -4,7 +4,7 @@ citySlug: "stoke-on-trent"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Stoke-on-Trent | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Stoke-on-Trent from FENSA fitters. From £301 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

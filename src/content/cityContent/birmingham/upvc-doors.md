@@ -4,7 +4,7 @@ citySlug: "birmingham"
 intent: "uPVC Doors"
 intentSlug: "upvc-doors"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "uPVC Doors in Birmingham | Double Glazing Expert"
 metaDescription: "uPVC front, back and patio door quotes in Birmingham from vetted fitters. From £598. Free, no-obligation."
 generatedAt: "2026-09-03"

@@ -4,7 +4,7 @@ citySlug: "sheffield"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Sheffield | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Sheffield from vetted installers. Typical £2,610-£7,830. Free, no-obligation."
 generatedAt: "2026-09-03"

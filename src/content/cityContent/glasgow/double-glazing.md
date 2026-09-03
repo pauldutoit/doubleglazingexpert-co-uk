@@ -4,7 +4,7 @@ citySlug: "glasgow"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "Scotland"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Glasgow | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Glasgow from vetted installers. Typical £2,640-£7,920. Free, no-obligation."
 generatedAt: "2026-09-03"

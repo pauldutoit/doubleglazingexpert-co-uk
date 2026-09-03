@@ -4,7 +4,7 @@ citySlug: "reading"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Reading | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Reading from FENSA fitters. From £392 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

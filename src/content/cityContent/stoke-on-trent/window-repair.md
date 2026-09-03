@@ -4,7 +4,7 @@ citySlug: "stoke-on-trent"
 intent: "Double Glazing Repairs"
 intentSlug: "window-repair"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing Repairs in Stoke-on-Trent | Double Glazing Expert"
 metaDescription: "Misted units, blown seals and faulty hinges repaired in Stoke-on-Trent. From £77. Same-week visits, free quotes."
 generatedAt: "2026-09-03"

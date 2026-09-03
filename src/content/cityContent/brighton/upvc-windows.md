@@ -4,7 +4,7 @@ citySlug: "brighton"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Brighton | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Brighton & Hove from installers. From £385 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

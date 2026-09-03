@@ -4,7 +4,7 @@ citySlug: "leeds"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Leeds | Double Glazing Expert"
 metaDescription: "Bay window replacement quotes in Leeds from vetted installers. Typical £1,056-£2,816. Free, no-obligation."
 generatedAt: "2026-09-03"

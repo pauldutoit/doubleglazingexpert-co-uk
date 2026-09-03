@@ -4,7 +4,7 @@ citySlug: "portsmouth"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Portsmouth | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Portsmouth from vetted installers. Typical £3,090-£9,270. Free, no-obligation."
 generatedAt: "2026-09-03"

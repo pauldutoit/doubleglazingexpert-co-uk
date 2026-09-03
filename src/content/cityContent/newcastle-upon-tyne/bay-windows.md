@@ -4,7 +4,7 @@ citySlug: "newcastle-upon-tyne"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "North East England"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Newcastle upon Tyne | Double Glazing Expert"
 metaDescription: "Bay window replacement quotes in Newcastle from vetted installers. Typical £1,020-£2,720. Free, no-obligation."
 generatedAt: "2026-09-03"

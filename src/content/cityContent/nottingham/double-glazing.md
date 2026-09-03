@@ -4,7 +4,7 @@ citySlug: "nottingham"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Nottingham | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Nottingham from vetted installers. Typical £2,670-£8,010. Free, no-obligation."
 generatedAt: "2026-09-03"

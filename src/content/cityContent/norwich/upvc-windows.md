@@ -4,7 +4,7 @@ citySlug: "norwich"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "East of England"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Norwich | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Norwich from FENSA fitters. From £319 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

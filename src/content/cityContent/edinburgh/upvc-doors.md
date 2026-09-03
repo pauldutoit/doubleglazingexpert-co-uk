@@ -4,7 +4,7 @@ citySlug: "edinburgh"
 intent: "uPVC Doors"
 intentSlug: "upvc-doors"
 region: "Scotland"
-indexable: false
+indexable: true
 metaTitle: "uPVC Doors in Edinburgh | Double Glazing Expert"
 metaDescription: "uPVC front, back and patio door quotes in Edinburgh from vetted fitters. From £618. Free, no-obligation."
 generatedAt: "2026-09-03"

@@ -4,7 +4,7 @@ citySlug: "london"
 intent: "uPVC Doors"
 intentSlug: "upvc-doors"
 region: "London"
-indexable: false
+indexable: true
 metaTitle: "uPVC Doors in London | Double Glazing Expert"
 metaDescription: "uPVC Doors in London: prices from £813 to £2,250. Free, no-obligation quotes from vetted local installers, no cold calls."
 generatedAt: "2026-09-03"

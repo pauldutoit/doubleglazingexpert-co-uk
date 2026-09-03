@@ -4,7 +4,7 @@ citySlug: "plymouth"
 intent: "Double Glazing Repairs"
 intentSlug: "window-repair"
 region: "South West England"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing Repairs in Plymouth | Double Glazing Expert"
 metaDescription: "Misted units, blown seals and faulty hinges repaired in Plymouth. From £80. Same-week visits, free quotes."
 generatedAt: "2026-09-03"

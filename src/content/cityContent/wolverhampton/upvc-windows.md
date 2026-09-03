@@ -4,7 +4,7 @@ citySlug: "wolverhampton"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Wolverhampton | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Wolverhampton from FENSA fitters. From £315 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

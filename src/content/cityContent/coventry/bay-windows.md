@@ -4,7 +4,7 @@ citySlug: "coventry"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Coventry | Double Glazing Expert"
 metaDescription: "Bay window replacement quotes in Coventry from vetted installers. Typical £1,092-£2,912. Free, no-obligation."
 generatedAt: "2026-09-03"

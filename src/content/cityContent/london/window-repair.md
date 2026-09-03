@@ -4,7 +4,7 @@ citySlug: "london"
 intent: "Double Glazing Repairs"
 intentSlug: "window-repair"
 region: "London"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing Repairs in London | Double Glazing Expert"
 metaDescription: "Double Glazing Repairs in London: prices from £111 to £375. Free, no-obligation quotes from vetted local installers, no cold calls."
 generatedAt: "2026-09-03"

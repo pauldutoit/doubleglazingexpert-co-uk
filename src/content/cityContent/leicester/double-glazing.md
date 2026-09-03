@@ -4,7 +4,7 @@ citySlug: "leicester"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Leicester | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Leicester from vetted installers. Typical £2,670-£8,010. Free, no-obligation."
 generatedAt: "2026-09-03"

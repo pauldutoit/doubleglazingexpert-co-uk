@@ -4,7 +4,7 @@ citySlug: "sheffield"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Sheffield | Double Glazing Expert"
 metaDescription: "uPVC casement window quotes in Sheffield from FENSA fitters. From £305 per window. Free, no-obligation."
 generatedAt: "2026-09-03"

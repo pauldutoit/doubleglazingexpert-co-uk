@@ -4,7 +4,7 @@ citySlug: "bradford"
 intent: "uPVC Doors"
 intentSlug: "upvc-doors"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "uPVC Doors in Bradford | Double Glazing Expert"
 metaDescription: "uPVC front, back and patio door quotes in Bradford from vetted fitters. From £559. Free, no-obligation."
 generatedAt: "2026-09-03"

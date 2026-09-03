@@ -4,7 +4,7 @@ citySlug: "southampton"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Southampton | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Southampton from FENSA fitters. From £368 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

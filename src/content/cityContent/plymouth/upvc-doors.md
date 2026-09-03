@@ -4,7 +4,7 @@ citySlug: "plymouth"
 intent: "uPVC Doors"
 intentSlug: "upvc-doors"
 region: "South West England"
-indexable: false
+indexable: true
 metaTitle: "uPVC Doors in Plymouth | Double Glazing Expert"
 metaDescription: "uPVC front, back and patio door quotes in Plymouth from vetted fitters. From £585. Free, no-obligation."
 generatedAt: "2026-09-03"

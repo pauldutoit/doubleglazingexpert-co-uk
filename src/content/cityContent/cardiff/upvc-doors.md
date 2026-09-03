@@ -4,7 +4,7 @@ citySlug: "cardiff"
 intent: "uPVC Doors"
 intentSlug: "upvc-doors"
 region: "Wales"
-indexable: false
+indexable: true
 metaTitle: "uPVC Doors in Cardiff | Double Glazing Expert"
 metaDescription: "uPVC front, back and patio door quotes in Cardiff from vetted fitters. From £572. Free, no-obligation."
 generatedAt: "2026-09-03"

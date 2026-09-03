@@ -4,7 +4,7 @@ citySlug: "brighton"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Brighton | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Brighton & Hove from vetted installers. Typical £3,300-£9,900. Free, no-obligation."
 generatedAt: "2026-09-03"

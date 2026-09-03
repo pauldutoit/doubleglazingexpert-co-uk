@@ -4,7 +4,7 @@ citySlug: "brighton"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Brighton | Double Glazing Expert"
 metaDescription: "uPVC casement window quotes in Brighton & Hove from installers. From £385 per window. Free, no-obligation."
 generatedAt: "2026-09-03"

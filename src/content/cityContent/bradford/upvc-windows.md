@@ -4,7 +4,7 @@ citySlug: "bradford"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Bradford | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Bradford from FENSA fitters. From £301 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

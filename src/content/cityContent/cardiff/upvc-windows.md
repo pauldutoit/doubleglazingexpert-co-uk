@@ -4,7 +4,7 @@ citySlug: "cardiff"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "Wales"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Cardiff | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Cardiff from FENSA fitters. From £308 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

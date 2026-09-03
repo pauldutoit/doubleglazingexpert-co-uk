@@ -4,7 +4,7 @@ citySlug: "portsmouth"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Portsmouth | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Portsmouth from FENSA fitters. From £361 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

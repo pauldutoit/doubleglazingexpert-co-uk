@@ -4,7 +4,7 @@ citySlug: "nottingham"
 intent: "Double Glazing Repairs"
 intentSlug: "window-repair"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing Repairs in Nottingham | Double Glazing Expert"
 metaDescription: "Misted units, blown seals and faulty hinges repaired in Nottingham. From £79. Same-week visits, free quotes."
 generatedAt: "2026-09-03"

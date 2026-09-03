@@ -4,7 +4,7 @@ citySlug: "reading"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Reading | Double Glazing Expert"
 metaDescription: "uPVC casement window quotes in Reading from FENSA fitters. From £392 per window. Free, no-obligation."
 generatedAt: "2026-09-03"

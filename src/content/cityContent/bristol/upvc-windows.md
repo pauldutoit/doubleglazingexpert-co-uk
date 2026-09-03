@@ -4,7 +4,7 @@ citySlug: "bristol"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "South West England"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Bristol | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Bristol from FENSA fitters. From £343 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

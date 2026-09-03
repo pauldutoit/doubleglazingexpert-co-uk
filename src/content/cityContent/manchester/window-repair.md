@@ -4,7 +4,7 @@ citySlug: "manchester"
 intent: "Double Glazing Repairs"
 intentSlug: "window-repair"
 region: "North West England"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing Repairs in Manchester | Double Glazing Expert"
 metaDescription: "Misted units, blown seals and faulty hinges repaired in Manchester. From £80. Same-week visits, free quotes."
 generatedAt: "2026-09-03"

@@ -4,7 +4,7 @@ citySlug: "nottingham"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Nottingham | Double Glazing Expert"
 metaDescription: "uPVC casement window quotes in Nottingham from FENSA fitters. From £312 per window. Free, no-obligation."
 generatedAt: "2026-09-03"

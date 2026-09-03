@@ -4,7 +4,7 @@ citySlug: "newcastle-upon-tyne"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "North East England"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Newcastle upon Tyne | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Newcastle from FENSA fitters. From £298 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

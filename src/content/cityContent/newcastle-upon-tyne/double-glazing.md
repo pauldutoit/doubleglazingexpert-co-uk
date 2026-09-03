@@ -4,7 +4,7 @@ citySlug: "newcastle-upon-tyne"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "North East England"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Newcastle upon Tyne | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Newcastle from vetted installers. Typical £2,550-£7,650. Free, no-obligation."
 generatedAt: "2026-09-03"

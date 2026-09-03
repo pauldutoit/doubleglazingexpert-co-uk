@@ -4,7 +4,7 @@ citySlug: "leeds"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Leeds | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Leeds from FENSA fitters. From £308 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

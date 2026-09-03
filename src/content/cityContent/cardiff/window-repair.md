@@ -4,7 +4,7 @@ citySlug: "cardiff"
 intent: "Double Glazing Repairs"
 intentSlug: "window-repair"
 region: "Wales"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing Repairs in Cardiff | Double Glazing Expert"
 metaDescription: "Misted units, blown seals and faulty hinges repaired in Cardiff. From £78. Same-week visits, free quotes."
 generatedAt: "2026-09-03"

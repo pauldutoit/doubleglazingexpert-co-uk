@@ -4,7 +4,7 @@ citySlug: "liverpool"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "North West England"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Liverpool | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Liverpool from vetted installers. Typical £2,640-£7,920. Free, no-obligation."
 generatedAt: "2026-09-03"

@@ -4,7 +4,7 @@ citySlug: "liverpool"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "North West England"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Liverpool | Double Glazing Expert"
 metaDescription: "Bay window replacement quotes in Liverpool from vetted installers. Typical £1,056-£2,816. Free, no-obligation."
 generatedAt: "2026-09-03"

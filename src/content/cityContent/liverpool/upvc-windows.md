@@ -4,7 +4,7 @@ citySlug: "liverpool"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "North West England"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Liverpool | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Liverpool from FENSA fitters. From £308 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

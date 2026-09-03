@@ -4,7 +4,7 @@ citySlug: "southampton"
 intent: "uPVC Doors"
 intentSlug: "upvc-doors"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "uPVC Doors in Southampton | Double Glazing Expert"
 metaDescription: "uPVC front, back and patio door quotes in Southampton from vetted fitters. From £683. Free, no-obligation."
 generatedAt: "2026-09-03"

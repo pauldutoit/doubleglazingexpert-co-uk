@@ -4,7 +4,7 @@ citySlug: "luton"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "East of England"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Luton | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Luton from vetted installers. Typical £3,180-£9,540. Free, no-obligation."
 generatedAt: "2026-09-03"

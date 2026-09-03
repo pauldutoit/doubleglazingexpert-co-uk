@@ -4,7 +4,7 @@ citySlug: "bristol"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "South West England"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Bristol | Double Glazing Expert"
 metaDescription: "uPVC casement window quotes in Bristol from FENSA fitters. From £343 per window. Free, no-obligation."
 generatedAt: "2026-09-03"

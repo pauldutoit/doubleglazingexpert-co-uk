@@ -4,7 +4,7 @@ citySlug: "birmingham"
 intent: "Double Glazing Repairs"
 intentSlug: "window-repair"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing Repairs in Birmingham | Double Glazing Expert"
 metaDescription: "Misted units, blown seals and faulty hinges repaired in Birmingham. From £82. Same-week visits, free quotes."
 generatedAt: "2026-09-03"

@@ -4,7 +4,7 @@ citySlug: "southampton"
 intent: "Double Glazing Repairs"
 intentSlug: "window-repair"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing Repairs in Southampton | Double Glazing Expert"
 metaDescription: "Misted units, blown seals and faulty hinges repaired in Southampton. From £93. Same-week visits, free quotes."
 generatedAt: "2026-09-03"

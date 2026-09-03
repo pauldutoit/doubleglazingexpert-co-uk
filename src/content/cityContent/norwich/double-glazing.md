@@ -4,7 +4,7 @@ citySlug: "norwich"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "East of England"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Norwich | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Norwich from vetted installers. Typical £2,730-£8,190. Free, no-obligation."
 generatedAt: "2026-09-03"

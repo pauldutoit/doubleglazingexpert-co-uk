@@ -4,7 +4,7 @@ citySlug: "sheffield"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Sheffield | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Sheffield from FENSA fitters. From £305 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

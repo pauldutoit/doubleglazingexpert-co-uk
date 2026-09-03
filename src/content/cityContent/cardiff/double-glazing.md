@@ -4,7 +4,7 @@ citySlug: "cardiff"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "Wales"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Cardiff | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Cardiff from vetted installers. Typical £2,640-£7,920. Free, no-obligation."
 generatedAt: "2026-09-03"

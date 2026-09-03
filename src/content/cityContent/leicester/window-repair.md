@@ -4,7 +4,7 @@ citySlug: "leicester"
 intent: "Double Glazing Repairs"
 intentSlug: "window-repair"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing Repairs in Leicester | Double Glazing Expert"
 metaDescription: "Misted units, blown seals and faulty hinges repaired in Leicester. From £79. Same-week visits, free quotes."
 generatedAt: "2026-09-03"

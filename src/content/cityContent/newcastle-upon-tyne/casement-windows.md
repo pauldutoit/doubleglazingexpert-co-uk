@@ -4,7 +4,7 @@ citySlug: "newcastle-upon-tyne"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "North East England"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Newcastle upon Tyne | Double Glazing Expert"
 metaDescription: "uPVC casement window quotes in Newcastle from FENSA fitters. From £298 per window. Free, no-obligation."
 generatedAt: "2026-09-03"

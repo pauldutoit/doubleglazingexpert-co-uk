@@ -4,7 +4,7 @@ citySlug: "birmingham"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Birmingham | Double Glazing Expert"
 metaDescription: "uPVC casement window quotes in Birmingham from FENSA fitters. From £322 per window. Free, no-obligation."
 generatedAt: "2026-09-03"

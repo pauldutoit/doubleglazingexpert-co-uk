@@ -4,7 +4,7 @@ citySlug: "kingston-upon-hull"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Hull | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Hull from FENSA fitters. From £294 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

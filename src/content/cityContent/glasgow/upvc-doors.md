@@ -4,7 +4,7 @@ citySlug: "glasgow"
 intent: "uPVC Doors"
 intentSlug: "upvc-doors"
 region: "Scotland"
-indexable: false
+indexable: true
 metaTitle: "uPVC Doors in Glasgow | Double Glazing Expert"
 metaDescription: "uPVC front, back and patio door quotes in Glasgow from vetted fitters. From £572. Free, no-obligation."
 generatedAt: "2026-09-03"

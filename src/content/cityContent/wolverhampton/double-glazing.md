@@ -4,7 +4,7 @@ citySlug: "wolverhampton"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Wolverhampton | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Wolverhampton from vetted installers. Typical £2,700-£8,100. Free, no-obligation."
 generatedAt: "2026-09-03"

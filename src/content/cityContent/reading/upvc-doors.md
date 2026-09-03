@@ -4,7 +4,7 @@ citySlug: "reading"
 intent: "uPVC Doors"
 intentSlug: "upvc-doors"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "uPVC Doors in Reading | Double Glazing Expert"
 metaDescription: "uPVC front, back and patio door quotes in Reading from vetted fitters. From £728. Free, no-obligation."
 generatedAt: "2026-09-03"

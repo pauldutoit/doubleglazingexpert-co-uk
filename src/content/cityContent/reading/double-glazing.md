@@ -4,7 +4,7 @@ citySlug: "reading"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Reading | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Reading from vetted installers. Typical £3,360-£10,080. Free, no-obligation."
 generatedAt: "2026-09-03"

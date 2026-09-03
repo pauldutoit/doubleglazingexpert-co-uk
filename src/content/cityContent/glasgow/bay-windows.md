@@ -4,7 +4,7 @@ citySlug: "glasgow"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "Scotland"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Glasgow | Double Glazing Expert"
 metaDescription: "Bay window replacement quotes in Glasgow from vetted installers. Typical £1,056-£2,816. Free, no-obligation."
 generatedAt: "2026-09-03"

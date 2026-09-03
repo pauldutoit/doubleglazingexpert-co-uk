@@ -4,7 +4,7 @@ citySlug: "portsmouth"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Portsmouth | Double Glazing Expert"
 metaDescription: "Bay window replacement quotes in Portsmouth from vetted installers. Typical £1,236-£3,296. Free, no-obligation."
 generatedAt: "2026-09-03"

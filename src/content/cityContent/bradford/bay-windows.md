@@ -4,7 +4,7 @@ citySlug: "bradford"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Bradford | Double Glazing Expert"
 metaDescription: "Bay window replacement quotes in Bradford from vetted installers. Typical £1,032-£2,752. Free, no-obligation."
 generatedAt: "2026-09-03"

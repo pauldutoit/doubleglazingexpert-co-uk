@@ -4,7 +4,7 @@ citySlug: "birmingham"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Birmingham | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Birmingham from vetted installers. Typical £2,760-£8,280. Free, no-obligation."
 generatedAt: "2026-09-03"

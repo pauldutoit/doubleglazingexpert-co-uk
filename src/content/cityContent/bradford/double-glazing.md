@@ -4,7 +4,7 @@ citySlug: "bradford"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Bradford | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Bradford from vetted installers. Typical £2,580-£7,740. Free, no-obligation."
 generatedAt: "2026-09-03"

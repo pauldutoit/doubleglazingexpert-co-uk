@@ -4,7 +4,7 @@ citySlug: "kingston-upon-hull"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Hull | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Hull from vetted installers. Typical £2,520-£7,560. Free, no-obligation."
 generatedAt: "2026-09-03"

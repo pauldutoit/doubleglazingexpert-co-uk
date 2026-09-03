@@ -4,7 +4,7 @@ citySlug: "birmingham"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Birmingham | Double Glazing Expert"
 metaDescription: "Bay window replacement quotes in Birmingham from vetted installers. Typical £1,104-£2,944. Free, no-obligation."
 generatedAt: "2026-09-03"

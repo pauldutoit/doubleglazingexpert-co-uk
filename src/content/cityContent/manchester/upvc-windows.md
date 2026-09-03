@@ -4,7 +4,7 @@ citySlug: "manchester"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "North West England"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Manchester | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Manchester from FENSA fitters. From £315 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

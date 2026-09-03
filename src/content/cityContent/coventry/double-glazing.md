@@ -4,7 +4,7 @@ citySlug: "coventry"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Coventry | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Coventry from vetted installers. Typical £2,730-£8,190. Free, no-obligation."
 generatedAt: "2026-09-03"

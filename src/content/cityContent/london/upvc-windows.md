@@ -4,7 +4,7 @@ citySlug: "london"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "London"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in London | Double Glazing Expert"
 metaDescription: "uPVC Windows in London: prices from £438 to £1,125. Free, no-obligation quotes from vetted local installers, no cold calls."
 generatedAt: "2026-09-03"

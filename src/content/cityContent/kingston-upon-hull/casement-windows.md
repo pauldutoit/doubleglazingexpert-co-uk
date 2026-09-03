@@ -4,7 +4,7 @@ citySlug: "kingston-upon-hull"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Hull | Double Glazing Expert"
 metaDescription: "uPVC casement window quotes in Hull from FENSA fitters. From £294 per window. Free, no-obligation."
 generatedAt: "2026-09-03"

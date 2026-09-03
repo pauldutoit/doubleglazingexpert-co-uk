@@ -4,7 +4,7 @@ citySlug: "newcastle-upon-tyne"
 intent: "uPVC Doors"
 intentSlug: "upvc-doors"
 region: "North East England"
-indexable: false
+indexable: true
 metaTitle: "uPVC Doors in Newcastle upon Tyne | Double Glazing Expert"
 metaDescription: "uPVC front, back and patio door quotes in Newcastle from vetted fitters. From £553. Free, no-obligation."
 generatedAt: "2026-09-03"

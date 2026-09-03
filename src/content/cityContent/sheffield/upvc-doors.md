@@ -4,7 +4,7 @@ citySlug: "sheffield"
 intent: "uPVC Doors"
 intentSlug: "upvc-doors"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "uPVC Doors in Sheffield | Double Glazing Expert"
 metaDescription: "uPVC front, back and patio door quotes in Sheffield from vetted fitters. From £566. Free, no-obligation."
 generatedAt: "2026-09-03"

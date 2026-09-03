@@ -4,7 +4,7 @@ citySlug: "bristol"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "South West England"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Bristol | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Bristol from vetted installers. Typical £2,940-£8,820. Free, no-obligation."
 generatedAt: "2026-09-03"

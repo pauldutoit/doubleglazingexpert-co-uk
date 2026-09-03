@@ -4,7 +4,7 @@ citySlug: "bristol"
 intent: "uPVC Doors"
 intentSlug: "upvc-doors"
 region: "South West England"
-indexable: false
+indexable: true
 metaTitle: "uPVC Doors in Bristol | Double Glazing Expert"
 metaDescription: "uPVC front, back and patio door quotes in Bristol from vetted fitters. From £637. Free, no-obligation."
 generatedAt: "2026-09-03"

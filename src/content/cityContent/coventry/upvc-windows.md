@@ -4,7 +4,7 @@ citySlug: "coventry"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Coventry | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Coventry from FENSA fitters. From £319 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

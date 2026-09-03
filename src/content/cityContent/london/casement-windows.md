@@ -4,7 +4,7 @@ citySlug: "london"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "London"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in London | Double Glazing Expert"
 metaDescription: "Casement Windows in London: prices from £438 to £1,125. Free, no-obligation quotes from vetted local installers, no cold calls."
 generatedAt: "2026-09-03"

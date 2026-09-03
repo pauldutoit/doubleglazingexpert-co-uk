@@ -4,7 +4,7 @@ citySlug: "norwich"
 intent: "Double Glazing Repairs"
 intentSlug: "window-repair"
 region: "East of England"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing Repairs in Norwich | Double Glazing Expert"
 metaDescription: "Misted units, blown seals and faulty hinges repaired in Norwich. From £81. Same-week visits, free quotes."
 generatedAt: "2026-09-03"

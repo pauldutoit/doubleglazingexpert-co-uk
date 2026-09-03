@@ -4,7 +4,7 @@ citySlug: "coventry"
 intent: "uPVC Doors"
 intentSlug: "upvc-doors"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "uPVC Doors in Coventry | Double Glazing Expert"
 metaDescription: "uPVC front, back and patio door quotes in Coventry from vetted fitters. From £592. Free, no-obligation."
 generatedAt: "2026-09-03"

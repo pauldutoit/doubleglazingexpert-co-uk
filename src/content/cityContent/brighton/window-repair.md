@@ -4,7 +4,7 @@ citySlug: "brighton"
 intent: "Double Glazing Repairs"
 intentSlug: "window-repair"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing Repairs in Brighton | Double Glazing Expert"
 metaDescription: "Misted units, blown seals and faulty hinges repaired in Brighton & Hove. From £98. Same-week visits, free quotes."
 generatedAt: "2026-09-03"

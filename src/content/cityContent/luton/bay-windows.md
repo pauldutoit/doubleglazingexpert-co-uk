@@ -4,7 +4,7 @@ citySlug: "luton"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "East of England"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Luton | Double Glazing Expert"
 metaDescription: "Bay window replacement quotes in Luton from vetted installers. Typical £1,272-£3,392. Free, no-obligation."
 generatedAt: "2026-09-03"

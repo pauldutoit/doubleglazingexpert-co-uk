@@ -4,7 +4,7 @@ citySlug: "norwich"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "East of England"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Norwich | Double Glazing Expert"
 metaDescription: "Bay window replacement quotes in Norwich from vetted installers. Typical £1,092-£2,912. Free, no-obligation."
 generatedAt: "2026-09-03"

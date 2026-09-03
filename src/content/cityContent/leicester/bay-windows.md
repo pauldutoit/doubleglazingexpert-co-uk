@@ -4,7 +4,7 @@ citySlug: "leicester"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Leicester | Double Glazing Expert"
 metaDescription: "Bay window replacement quotes in Leicester from vetted installers. Typical £1,068-£2,848. Free, no-obligation."
 generatedAt: "2026-09-03"

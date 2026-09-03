@@ -4,7 +4,7 @@ citySlug: "stoke-on-trent"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Stoke-on-Trent | Double Glazing Expert"
 metaDescription: "Bay window replacement quotes in Stoke-on-Trent from vetted installers. Typical £1,032-£2,752. Free, no-obligation."
 generatedAt: "2026-09-03"
