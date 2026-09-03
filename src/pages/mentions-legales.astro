@@ -3,9 +3,19 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import siteConfig from '../data/site.config.json';
 ---
 <BaseLayout title={`Legal notice | ${siteConfig.siteName}`} description="Legal notice">
-  <h1>Legal notice</h1>
-  <p>{siteConfig.legalName}</p>
-  {siteConfig.legalAddress && <p>{siteConfig.legalAddress}</p>}
-  <p>Contact: <a href={`mailto:${siteConfig.email}`}>{siteConfig.email}</a>{siteConfig.phoneEnabled !== false && <Fragment> - {siteConfig.phone}</Fragment>}</p>
-  <p>{siteConfig.disclosureText}</p>
+  <div class="container" style="padding-top: 1.5rem; max-width: 720px;">
+    <h1>Legal notice</h1>
+    <p>{siteConfig.legalName}</p>
+    {siteConfig.legalAddress && <p>{siteConfig.legalAddress}</p>}
+    <p>{siteConfig.disclosureText}</p>
+
+    <h2>Contact</h2>
+    <p>
+      There is no public email address or phone line for this site. All enquiries
+      go through the <a href="/quote">quote form</a>. Form submissions are protected
+      by Cloudflare Turnstile and delivered to us by email through Resend, our
+      transactional email provider. Your details are used only to respond to your
+      enquiry.
+    </p>
+  </div>
 </BaseLayout>

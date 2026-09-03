@@ -28,7 +28,6 @@ const localBusinessSchema = {
   '@type': 'LocalBusiness',
   name: siteConfig.siteName,
   ...(siteConfig.phoneEnabled !== false && { telephone: siteConfig.phone }),
-  email: siteConfig.email,
   ...(siteConfig.legalAddress && { address: { '@type': 'PostalAddress', streetAddress: siteConfig.legalAddress } }),
   url: siteOrigin,
   ...(siteConfig.aggregateRating && {
