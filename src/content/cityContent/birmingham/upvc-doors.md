@@ -6,34 +6,34 @@ intentSlug: "upvc-doors"
 region: "West Midlands"
 indexable: false
 metaTitle: "uPVC Doors in Birmingham | Double Glazing Expert"
-metaDescription: "uPVC Doors in Birmingham: prices from £598 to £1,656. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC front, back and patio door quotes in Birmingham from vetted fitters. From £598. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Birmingham uPVC Doors: what to expect
+## uPVC doors for Birmingham homes
 
-Foiled uPVC doors - Anthracite Grey especially - close most of the appearance gap with composite in Birmingham for roughly half the price.
+On a Birmingham semi the side and back doors take the weather and are usually the first to go stiff or draughty; the front is where homeowners weigh uPVC against a composite. French or patio doors onto the garden are far cheaper in uPVC than aluminium and perform well enough for the vast majority of Birmingham homes.
 
-## What you get
+## Why Birmingham homeowners choose us
 
-- Local knowledge of Edgbaston, Moseley and Harborne and the surrounding Birmingham streets
-- Quotes matched to Birmingham's housing stock: red-brick Victorian back-to-backs and terraces in inner wards, extensive 1930s semis in outer suburbs, and Brutalist 1960s tower blocks across the city centre.
-- French and patio door options for narrow terrace returns and side passages
-- Foiled colours matched to your existing windows and joinery
+- PAS 24 multi-point locking and an anti-snap cylinder as standard, not an upsell
+- Foiled colours - Anthracite Grey especially - matched to your existing windows
+- French and patio door options for narrow semi side returns
 - Toughened or laminated safety glass in every door side panel
+- Old door and frame removed and taken away within the quote
 
 ## Areas we cover around Birmingham
 
-We match homeowners in Digbeth, Moseley, Edgbaston and Harborne and the wider Birmingham area, plus neighbouring Wolverhampton, Coventry and Solihull. That covers B1, B2, B3 and B4 and beyond.
+Moseley, Harborne, Kings Heath, Edgbaston, Bournville and the wider city, out to Sutton Coldfield, Solihull, Walsall and Dudley. Postcodes B1 to B29.
 
 ## Frequently asked questions
 
-**Are there planning restrictions on windows in Birmingham?**
-Around 30 conservation areas across the city, including Bournville and Edgbaston - listed building consent is common in central and inner suburbs. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Is a uPVC front door secure enough for Birmingham?**
+A modern uPVC door with a 5-point multi-point lock, PAS 24 certification and a TS007 3-star anti-snap cylinder meets what most insurers ask for. Composite adds mass and appearance, not fundamentally more lock security.
 
 **How much do uPVC doors cost in Birmingham?**
-Roughly £598 to £1,656 fitted in Birmingham using the local 0.92x factor - plain panel doors at the lower end, French and sliding patio sets at the top.
+Roughly £598 to £1,656 fitted using the local 0.92x factor - plain panel doors at the lower end, French and sliding patio sets at the top.
 
-**Is a uPVC front door secure enough?**
-A modern uPVC door with a 5-point multi-point lock, PAS 24 certification and a TS007 3-star anti-snap cylinder meets what most insurers ask for. Composite adds mass and looks, not fundamentally more lock security.
+**Can you fit a patio door where the back door is now?**
+Sometimes as-is, but widening the opening for a patio set usually needs a lintel. A site check confirms it.

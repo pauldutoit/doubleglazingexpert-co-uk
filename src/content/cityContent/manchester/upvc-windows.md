@@ -6,34 +6,34 @@ intentSlug: "upvc-windows"
 region: "North West England"
 indexable: false
 metaTitle: "uPVC Windows in Manchester | Double Glazing Expert"
-metaDescription: "uPVC Windows in Manchester: prices from £315 to £810. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC window quotes in Manchester from FENSA fitters. From £315 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Manchester uPVC Windows: what to expect
+## Replacing uPVC windows in Manchester
 
-Most Manchester window jobs are made to measure - two-up-two-down terraces in inner districts (Hulme, Rusholme, Chorlton), Victorian merchants' villas in Didsbury and Whalley Range, and a wave of modern city-centre apartments post-2000. None of that stock was built to a standard window size, so a fitter who works your streets will size and price it properly.
+Inner Manchester is two-up-two-down terrace country - Rusholme, Levenshulme, Gorton - with tall narrow openings that are almost never a stock size. Didsbury and Whalley Range bring Victorian merchants' villas with big bay fronts, and the city centre has a wall of post-2000 apartments where window changes usually go through a managing agent. A local fitter will know which of those you are before quoting.
 
 ## Why Manchester homeowners choose us
 
-- Local knowledge of Didsbury, Chorlton and Withington and the surrounding Manchester streets
-- Installers who cover M1, M2, M3 and M4 and the rest of the Manchester area
-- Flush-sash profile available where a standard lipped casement would look wrong
-- Made-to-measure uPVC sized to your original openings, not forced into stock frames
-- Trickle vents fitted to current Building Regs without wrecking the sightline
+- Made-to-measure frames for narrow terrace openings, not forced into stock sizes
+- Knowledge of the Didsbury Village and Victoria Park conservation rules
+- Managing-agent paperwork handled for city-centre and converted-mill apartments
+- A-rated 28mm units, warm-edge spacers, trickle vents to Building Regs as standard
+- FENSA or CERTASS registered, frames and glass guaranteed separately
 
 ## Areas we cover around Manchester
 
-We match homeowners in Chorlton, Withington, Levenshulme and Didsbury and the wider Manchester area, plus neighbouring Salford, Stockport and Bolton. That covers M1, M2, M3 and M4 and beyond.
+Didsbury, Chorlton, Withington, Levenshulme and the wider city, out to Salford, Stockport, Bolton and Oldham. Postcodes M1 to M4 through to M20, M21 and M22.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Manchester?**
-Around 39 conservation areas including Didsbury Village and Victoria Park - sash restoration is common in listed streets. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Do Manchester conservation areas restrict window changes?**
+In several, yes - there are around 39, including Didsbury Village and Victoria Park, and sash restoration is common in the listed streets. Check with the council before ordering.
 
 **How much do uPVC windows cost in Manchester?**
-Typical prices in Manchester run about £315 to £810 per window fitted, using this area's regional labour factor of 0.9x the national average. Size, glazing spec and finish move the figure.
+Typically £315 to £810 per window fitted, using the North West regional factor of 0.90x the national average.
 
-**How long does a full house of uPVC windows take?**
-For a typical Manchester home of 8-10 windows, one to two days with a two-person team. Bays and structural openings add time.
+**Can you replace windows in a converted-mill apartment?**
+Usually, but the freeholder or managing agent has to approve anything visible from outside first. A good installer tells you what they need to see.

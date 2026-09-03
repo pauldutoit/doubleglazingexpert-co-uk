@@ -6,34 +6,34 @@ intentSlug: "casement-windows"
 region: "North West England"
 indexable: false
 metaTitle: "Casement Windows in Manchester | Double Glazing Expert"
-metaDescription: "Casement Windows in Manchester: prices from £315 to £810. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC casement window quotes in Manchester from FENSA fitters. From £315 per window. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Casement Windows for Manchester homes
+## Casement windows for Manchester homes
 
-A whole house of casements in Manchester (6-10 windows) is normally a one-to-two-day fit. The price driver is glass area and profile, not so much the frame colour.
+The casement is the default replacement across Manchester's interwar semis in Burnage, Chorltonville and Prestwich. On the inner terraces, a flush-sash casement keeps a cleaner line against the older brick than a standard lipped frame, and it is worth specifying where the street-facing look matters.
 
-## What you get
+## Why Manchester homeowners choose us
 
-- Installers who cover M1, M2, M3 and M4 and the rest of the Manchester area
-- Fitters who know Manchester's conservation rules - around 39 conservation areas including Didsbury Village and Victoria Park - sash restoration is common in listed streets.
-- Argon-filled A-rated units, warm-edge spacer, internally beaded for security
-- Trickle vents to current Building Regs, colour-matched to the frame
-- Multi-point locking as standard, not an upgrade
+- Flush-sash and standard casements priced side by side
+- Egress hinges on bedroom windows for the 450mm fire-escape rule
+- Argon-filled A-rated units, warm-edge spacer, internal beading
+- Trickle vents to Building Regs, colour-matched to the frame
+- Foiled finishes for terrace streets where white uPVC looks wrong
 
 ## Areas we cover around Manchester
 
-Levenshulme, Didsbury, Northern Quarter and Withington and the rest of Manchester are all covered, along with Salford, Stockport and Bolton close by. Ask if your postcode isn't in M1, M2, M3 and M4 - we likely still reach it.
+Burnage, Chorlton, Withington, Levenshulme and Didsbury, plus Salford, Stockport, Bolton and Oldham. Postcodes M1 to M22.
 
 ## Frequently asked questions
 
-**Do I need conservation area consent in Manchester?**
-Around 39 conservation areas including Didsbury Village and Victoria Park - sash restoration is common in listed streets. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**What is a flush casement window?**
+One where the opening sash closes flush with the frame instead of standing proud of it - a more traditional line for Manchester's Victorian and Edwardian streets, at roughly 10 to 15% more.
+
+**Can casements meet bedroom fire-escape rules?**
+Yes, with the right hinge - a clear opening of at least 450mm x 450mm and 0.33 square metres, confirmed per window.
 
 **How much are casement windows in Manchester?**
-Around £315 to £810 per window fitted in Manchester, based on the local 0.9x cost factor. Flush-sash profiles sit 10-15% above standard.
-
-**Can casement windows meet fire-escape rules?**
-Yes, with the right hinge. Habitable rooms above ground floor need a clear opening of at least 450mm x 450mm and 0.33 square metres - your installer should confirm this per window.
+Around £315 to £810 per window fitted, using the local 0.90x cost factor.

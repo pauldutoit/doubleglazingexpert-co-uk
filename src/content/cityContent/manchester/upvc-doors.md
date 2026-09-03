@@ -6,34 +6,34 @@ intentSlug: "upvc-doors"
 region: "North West England"
 indexable: false
 metaTitle: "uPVC Doors in Manchester | Double Glazing Expert"
-metaDescription: "uPVC Doors in Manchester: prices from £585 to £1,620. Free, no-obligation quotes from vetted local installers, no cold calls."
+metaDescription: "uPVC front, back and patio door quotes in Manchester from vetted fitters. From £585. Free, no-obligation."
 generatedAt: "2026-09-03"
 generatedBy: "manual"
 ---
 
-## Manchester uPVC Doors: what to expect
+## uPVC doors for Manchester homes
 
-uPVC is the standard for back and side doors across Manchester and a budget option for the front. Two-up-two-down terraces in inner districts (Hulme, Rusholme, Chorlton), Victorian merchants' villas in Didsbury and Whalley Range, and a wave of modern city-centre apartments post-2000.
+On a Manchester terrace the back door opening onto a yard or alley is the security weak point and the first to swell in the wet. A modern uPVC door with PAS 24 multi-point locking fixes both, and a uPVC French or patio door onto a small garden costs far less than aluminium while performing well enough for most homes here.
 
-## Why locals choose us
+## Why Manchester homeowners choose us
 
-- Local knowledge of Didsbury, Chorlton and Withington and the surrounding Manchester streets
-- Quotes matched to Manchester's housing stock: two-up-two-down terraces in inner districts (Hulme, Rusholme, Chorlton), Victorian merchants' villas in Didsbury and Whalley Range, and a wave of modern city-centre apartments post-2000.
-- Old door and frame removed and disposed of within the quote
-- Low or level threshold options where access matters
+- PAS 24 multi-point locking and anti-snap cylinders as standard
 - Foiled colours matched to your existing windows and joinery
+- French and patio door options for narrow terrace yards and returns
+- Toughened or laminated safety glass in every door side panel
+- Old door and frame removed and disposed of within the quote
 
 ## Areas we cover around Manchester
 
-We match homeowners in Chorlton, Ancoats, Northern Quarter and Didsbury and the wider Manchester area, plus neighbouring Salford, Stockport and Bolton. That covers M1, M2, M3 and M4 and beyond.
+Chorlton, Didsbury, Withington, Levenshulme and Whalley Range, out to Salford, Stockport, Bolton and Oldham. Postcodes M1 to M22.
 
 ## Frequently asked questions
 
-**Will a window change need council approval in Manchester?**
-Around 39 conservation areas including Didsbury Village and Victoria Park - sash restoration is common in listed streets. Check your local planning portal before ordering - retrofitting a non-compliant frame is expensive.
+**Is a uPVC front door secure enough for Manchester?**
+A modern uPVC door with a 5-point multi-point lock, PAS 24 certification and a TS007 3-star anti-snap cylinder meets what most insurers require. Composite adds mass, not fundamentally more lock security.
 
 **How much do uPVC doors cost in Manchester?**
-Roughly £585 to £1,620 fitted in Manchester using the local 0.9x factor - plain panel doors at the lower end, French and sliding patio sets at the top.
+Roughly £585 to £1,620 fitted using the local 0.90x factor, with French and sliding patio sets at the top of that range.
 
-**uPVC or composite for the front?**
-Composite doors are thicker, heavier and hold colour better, for roughly double the price. For back, side and garden doors, uPVC is the usual and sensible choice.
+**Can you fit a secure back door onto an alley?**
+Yes - and it is worth the anti-snap cylinder and hinge bolts on an alley-facing door in particular.
