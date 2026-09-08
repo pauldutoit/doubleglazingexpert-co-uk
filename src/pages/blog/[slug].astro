@@ -1,0 +1,112 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import siteConfig from '../../data/site.config.json';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog', ({ data }) => !data.draft);
+  return posts.map((post) => ({ params: { slug: post.id }, props: { post, posts } }));
+}
+
+const { post, posts } = Astro.props;
+const { Content } = await render(post);
+const d = post.data;
+const origin = `https://${siteConfig.domain}`;
+
+const fmt = (x) =>
+  x.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+
+const others = posts
+  .filter((p) => p.id !== post.id && !p.data.draft)
+  .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf())
+  .slice(0, 5);
+
+const articleLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: d.title,
+  description: d.description,
+  datePublished: d.publishDate.toISOString(),
+  dateModified: (d.updatedDate ?? d.publishDate).toISOString(),
+  author: { '@type': 'Organization', name: d.author },
+  publisher: { '@type': 'Organization', name: siteConfig.siteName },
+  mainEntityOfPage: `${origin}/blog/${post.id}/`,
+};
+
+const faqLd = d.faq.length
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: d.faq.map((f) => ({
+        '@type': 'Question',
+        name: f.q,
+        acceptedAnswer: { '@type': 'Answer', text: f.a },
+      })),
+    }
+  : null;
+---
+
+<BaseLayout
+  title={`${d.title} | ${siteConfig.siteName}`}
+  description={d.description}
+  indexable={d.indexable}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(articleLd)} slot="head" />
+  {faqLd && <script type="application/ld+json" set:html={JSON.stringify(faqLd)} slot="head" />}
+
+  <section class="hero">
+    <div class="container">
+      <div class="breadcrumb"><a href="/">Home</a> / <a href="/blog/">Guides</a> / {d.title}</div>
+      <h1>{d.title}</h1>
+      <p class="post-byline">
+        By {d.author} &middot;
+        <time datetime={d.publishDate.toISOString()}>{fmt(d.publishDate)}</time>
+        {d.updatedDate && <span> &middot; updated {fmt(d.updatedDate)}</span>}
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container blog-layout">
+      <article class="prose">
+        <Content />
+        {d.faq.length > 0 && (
+          <section class="post-faq">
+            <h2>Questions</h2>
+            {d.faq.map((f) => (
+              <details>
+                <summary>{f.q}</summary>
+                <div set:html={f.a} />
+              </details>
+            ))}
+          </section>
+        )}
+      </article>
+
+      <aside class="blog-aside">
+        <div class="cta-card">
+          <h3>Compare quotes</h3>
+          <p>One short form, up to three quotes from vetted local installers. No cost, no pressure.</p>
+          <a href="/quote" class="btn btn-accent btn-block">Get a free quote</a>
+        </div>
+        {others.length > 0 && (
+          <div class="aside-links">
+            <h4>More guides</h4>
+            <ul>
+              {others.map((p) => (
+                <li><a href={`/blog/${p.id}/`}>{p.data.title}</a></li>
+              ))}
+            </ul>
+          </div>
+        )}
+      </aside>
+    </div>
+  </section>
+
+  <div class="cta-banner">
+    <div class="container">
+      <strong>Ready to compare double glazing quotes?</strong>
+      <a href="/quote" class="btn btn-accent">Get a free quote</a>
+    </div>
+  </div>
+</BaseLayout>

@@ -17,4 +17,21 @@ const cityContent = defineCollection({
   }),
 });
 
-export const collections = { cityContent };
+// Editorial blog. Hand-written topical-authority / link content, not
+// programmatic. One markdown file per post in src/content/blog/.
+const blog = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/blog' }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    publishDate: z.coerce.date(),
+    updatedDate: z.coerce.date().optional(),
+    author: z.string().default('The Double Glazing Expert team'),
+    tags: z.array(z.string()).default([]),
+    draft: z.boolean().default(false),
+    indexable: z.boolean().default(true),
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
+  }),
+});
+
+export const collections = { cityContent, blog };
