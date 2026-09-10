@@ -11,7 +11,7 @@ import {
   siblingInstallers,
   displayName,
   incorporatedYear,
-  INDEXABLE_INSTALLER_CITIES,
+  isIndexableCompany,
 } from '../../../lib/installers';
 
 export async function getStaticPaths() {
@@ -33,7 +33,14 @@ const city: string = cityMeta.name;
 const citySlug: string = cityMeta.slug;
 const name = displayName(record.name);
 const companySlug = companyPageSlug(citySlug, record);
-const indexable = INDEXABLE_INSTALLER_CITIES.has(citySlug);
+const indexable = isIndexableCompany(citySlug, companySlug);
+
+// Local price band for double glazing, from the city cost factor.
+const pf: number = cityMeta.pf ?? 1;
+const dgRange = (intents.find((i) => i.slug === 'double-glazing') as any)?.basePriceRange ?? [3000, 9000];
+const priceLo = Math.round((dgRange[0] * pf) / 100) * 100;
+const priceHi = Math.round((dgRange[1] * pf) / 100) * 100;
+const gbp = (n: number) => `£${n.toLocaleString('en-GB')}`;
 
 type CityEnrichment = {
   postcodes?: string[];
@@ -127,11 +134,18 @@ const breadcrumbSchema = {
 
         <section class="section" style="padding-top: 0;">
           <div class="section-title"><h2>Before you contact a {city} installer</h2></div>
+          <p>
+            A full double glazing job in {city} typically lands between {gbp(priceLo)} and {gbp(priceHi)}
+            {pf !== 1 && <> (local cost factor {pf}&times;)</>}, depending on opening count and spec.
+            {enrichment.conservationNote && <> {enrichment.conservationNote}</>}
+          </p>
           <ul>
             <li>Check the company is current and not in liquidation on the Companies House register.</li>
             <li>Confirm FENSA or CERTASS registration on the relevant scheme's own "find an installer" search - membership is per-company and can lapse.</li>
             <li>Get the quote in writing, itemised per window or door, and check the guarantee is insurance-backed.</li>
-            <li>Ask for two recent installations nearby you can look at.</li>
+            {enrichment.notableAreas?.length
+              ? <li>Ask for two recent installs you can look at - around {enrichment.notableAreas.slice(0, 3).join(', ')} or your own street.</li>
+              : <li>Ask for two recent installations nearby you can look at.</li>}
           </ul>
           <p>
             Our <a href="/blog/how-to-compare-double-glazing-quotes/">guide to comparing double glazing quotes</a>{' '}

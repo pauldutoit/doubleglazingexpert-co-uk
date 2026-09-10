@@ -37,11 +37,29 @@ export const MIN_INSTALLERS = 1;
 // generated per city.
 export const TOP_N = 5;
 
-// Indexation allowlist - same philosophy as the cityContent gate. When a city
-// slug is added here, its category page AND its TOP_N company pages all become
-// indexable together (and enter the sitemap). Add slugs one at a time, only
-// once the list has been eyeballed.
-export const INDEXABLE_INSTALLER_CITIES = new Set<string>([]);
+// Indexation allowlist - same philosophy as the cityContent gate. A city slug
+// here makes its *category* page indexable (and puts it in the sitemap). Add
+// slugs one at a time, only once the list + localised copy have been eyeballed.
+// Seeded with the site's top-30 cities (cities.json order).
+export const INDEXABLE_INSTALLER_CITIES = new Set<string>([
+  'london', 'birmingham', 'manchester', 'leeds', 'glasgow', 'liverpool', 'bristol',
+  'sheffield', 'edinburgh', 'leicester', 'coventry', 'bradford', 'nottingham',
+  'kingston-upon-hull', 'stoke-on-trent', 'wolverhampton', 'plymouth', 'southampton',
+  'reading', 'derby', 'newcastle-upon-tyne', 'sunderland', 'aberdeen', 'portsmouth',
+  'york', 'oxford', 'cambridge', 'swansea', 'cardiff', 'norwich',
+]);
+
+// Within an indexable city, only the first N company pages are indexable; the
+// rest stay noindex,follow (crawlable support pages). Keeps the thin-content
+// surface small.
+export const INDEXABLE_COMPANY_RANK = 3;
+
+/** Is this specific company page indexable (city opened AND rank <= N)? */
+export function isIndexableCompany(citySlug: string, companySlug: string): boolean {
+  if (!INDEXABLE_INSTALLER_CITIES.has(citySlug)) return false;
+  return getTopInstallers(citySlug, INDEXABLE_COMPANY_RANK)
+    .some((r) => companyPageSlug(citySlug, r) === companySlug);
+}
 
 const files = import.meta.glob<InstallerRecord[]>('../data/installers/*.json', {
   eager: true,

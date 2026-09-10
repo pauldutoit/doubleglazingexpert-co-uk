@@ -2,10 +2,10 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import siteConfig from '../data/site.config.json';
 import cities from '../data/cities.json';
+import intents from '../data/intents.json';
 import cityEnrichment from '../data/cityEnrichment.json';
 import {
   getListing,
-  hasInstallerPage,
   incorporatedYear,
   companyPageSlug,
   displayName,
@@ -25,8 +25,20 @@ const region: string = cityMeta.region;
 const { rows: installers, ownCount, nearbyUsed } = getListing(cityMeta);
 const indexable = INDEXABLE_INSTALLER_CITIES.has(citySlug);
 
-type CityEnrichment = { postcodes?: string[]; notableAreas?: string[] };
+type CityEnrichment = {
+  postcodes?: string[];
+  notableAreas?: string[];
+  houseTypes?: string;
+  conservationNote?: string;
+  dominantEra?: string;
+};
 const enrichment: CityEnrichment = (cityEnrichment as Record<string, CityEnrichment>)[citySlug] ?? {};
+
+const pf: number = cityMeta.pf ?? 1;
+const dgRange = (intents.find((i) => i.slug === 'double-glazing') as any)?.basePriceRange ?? [3000, 9000];
+const priceLo = Math.round((dgRange[0] * pf) / 100) * 100;
+const priceHi = Math.round((dgRange[1] * pf) / 100) * 100;
+const gbp = (n: number) => `£${n.toLocaleString('en-GB')}`;
 
 const pageUrl = `https://${siteConfig.domain}/double-glazing-installers-${citySlug}/`;
 const hubUrl = `https://${siteConfig.domain}/double-glazing-${citySlug}/`;
@@ -144,9 +156,18 @@ const itemListSchema = installers.length
         <section class="section" style="padding-top: 0;">
           <div class="section-title"><h2>How to choose between them</h2></div>
           <p>
-            For a whole-home double glazing job in {city}, get three written, itemised quotes,
-            confirm FENSA or CERTASS registration, check the guarantee is insurance-backed, and
-            ask for two recent local addresses you can drive past. Our{' '}
+            A whole-home job in {city} typically runs {gbp(priceLo)} to {gbp(priceHi)}
+            {pf !== 1 && <> (local cost factor {pf}&times;)</>}, so the spread between three
+            quotes on the same brief is worth chasing.
+            {enrichment.houseTypes && <> {enrichment.houseTypes}</>}
+          </p>
+          {enrichment.conservationNote && (
+            <p><strong>Heritage note:</strong> {enrichment.conservationNote}</p>
+          )}
+          <p>
+            Whichever company you approach: get three written, itemised quotes, confirm FENSA
+            or CERTASS registration on the scheme's own register, check the guarantee is
+            insurance-backed, and ask for two recent local installs you can look at. Our{' '}
             <a href="/blog/how-to-compare-double-glazing-quotes/">guide to comparing double glazing quotes</a>{' '}
             walks through it.
           </p>

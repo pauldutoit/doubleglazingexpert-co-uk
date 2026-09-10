@@ -4,9 +4,10 @@ import siteConfig from '../data/site.config.json';
 import intents from '../data/intents.json';
 import cities from '../data/cities.json';
 import {
-  getListing,
+  getTopInstallers,
   companyPageSlug,
   INDEXABLE_INSTALLER_CITIES,
+  INDEXABLE_COMPANY_RANK,
 } from '../lib/installers';
 
 export const GET: APIRoute = async () => {
@@ -22,10 +23,10 @@ export const GET: APIRoute = async () => {
   const openCities = cities.filter((c) => INDEXABLE_INSTALLER_CITIES.has(c.slug));
   const installerUrls = openCities.flatMap((c) => [
     `/double-glazing-installers-${c.slug}/`,
-    // Only companies actually registered in this city have a page under it.
-    ...getListing(c).rows
-      .filter((r) => !r.fromNearby)
-      .map((r) => `/installers/${c.slug}/${companyPageSlug(c.slug, r)}/`),
+    // Only the first INDEXABLE_COMPANY_RANK company pages are indexed.
+    ...getTopInstallers(c.slug, INDEXABLE_COMPANY_RANK).map(
+      (r) => `/installers/${c.slug}/${companyPageSlug(c.slug, r)}/`,
+    ),
   ]);
 
   const staticUrls = [
