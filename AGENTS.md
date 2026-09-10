@@ -20,6 +20,19 @@ npm run preview     # serve dist/
 - `src/data/cities.json` + `cityEnrichment.json` — 123 UK cities + local context. Geo data only, shared with other portfolio sites.
 - `src/content/cityContent/{citySlug}/{intentSlug}.md` — unique per-city×service body. **Currently empty.** Generate with `ANTHROPIC_API_KEY=... npm run generate:content` (idempotent, `--force` to rebuild).
 - `functions/api/lead.js` — Cloudflare Pages Function: honeypot + Turnstile + rate limit + Resend email.
+- `src/data/installers/{citySlug}.json` + `_index.json` — installer directory data, one file per
+  city. Regenerate with `php scripts/fetch-installers.php --csv <BasicCompanyDataAsOneFile.csv>`
+  (downloads the Companies House bulk export if no `--csv`; ~3 min parse; `--sample=leeds` to
+  dry-run one city). Source: SIC 43342 "Glazing", active companies, dormant + long-overdue filers
+  dropped, registered-office post town matched to a city (`$POST_TOWN_ALIAS` for Hull / Burton).
+  `src/data/serviceSic.json` maps each service intent to SIC codes (all 6 -> 43342 today).
+  `src/lib/installers.ts` ranks/filters and exposes `getListing()` (own companies topped up from
+  neighbours; London boroughs fall back to central London). Pages:
+  `double-glazing-installers-[citySlug].astro` (category listing, one per city) and
+  `installers/[citySlug]/[companySlug].astro` (top-5 companies per city). PUBLIC register data,
+  NOT a vetted list — pages say so and keep the quote form primary. Gated exactly like
+  cityContent: `INDEXABLE_INSTALLER_CITIES` in `installers.ts` is the allowlist (empty = all
+  noindex, none in sitemap); open a city and its category + 5 company pages go in together.
 
 ## Indexation gate (do not bypass)
 

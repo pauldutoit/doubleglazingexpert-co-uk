@@ -1,0 +1,53 @@
+[
+    {
+        "company_number": "08993458",
+        "name": "Alan Hill Window Systems Limited",
+        "address": "UNIT 1 CAERPHILLY BUSINESS PARK, VAN ROAD",
+        "postcode": "CF83 3ED",
+        "postcode_area": "CF83",
+        "town": "Caerphilly",
+        "county": "Caerphilly",
+        "region": "Wales",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "11\/04\/2014",
+        "company_type": "Ltd",
+        "size": "Small",
+        "last_accounts": "2026",
+        "slug": "alan-hill-window-systems-limited"
+    },
+    {
+        "company_number": "11558104",
+        "name": "Open View Glazing Ltd",
+        "address": "15 YNYS BERY CLOSE",
+        "postcode": "CF83 2AZ",
+        "postcode_area": "CF83",
+        "town": "Caerphilly",
+        "county": "Caerphilly",
+        "region": "Wales",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "07\/09\/2018",
+        "company_type": "Ltd",
+        "size": "Micro",
+        "last_accounts": "2025",
+        "slug": "open-view-glazing-ltd"
+    },
+    {
+        "company_number": "13831037",
+        "name": "W2 Window Systems Limited",
+        "address": "BEDWAS ROAD, BEDWAS",
+        "postcode": "CF83 8DZ",
+        "postcode_area": "CF83",
+        "town": "Caerphilly",
+        "county": "Caerphilly",
+        "region": "Wales",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "05\/01\/2022",
+        "company_type": "Ltd",
+        "size": "Small",
+        "last_accounts": "2026",
+        "slug": "w2-window-systems-limited"
+    }
+]

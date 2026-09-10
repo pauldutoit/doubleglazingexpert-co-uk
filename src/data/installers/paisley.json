@@ -1,0 +1,53 @@
+[
+    {
+        "company_number": "SC198785",
+        "name": "Glass-tec (scotland) Ltd.",
+        "address": "13 GREENHILL ROAD",
+        "postcode": "PA3 1RN",
+        "postcode_area": "PA3",
+        "town": "Paisley",
+        "county": "Renfrewshire",
+        "region": "Scotland",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "10\/08\/1999",
+        "company_type": "Ltd",
+        "size": "Micro",
+        "last_accounts": "2025",
+        "slug": "glass-tec-scotland-ltd"
+    },
+    {
+        "company_number": "SC320448",
+        "name": "Optix Glazing Ltd",
+        "address": "4 GLEN STREET",
+        "postcode": "PA3 2JB",
+        "postcode_area": "PA3",
+        "town": "Paisley",
+        "county": "Renfrewshire",
+        "region": "Scotland",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "04\/04\/2007",
+        "company_type": "Ltd",
+        "size": "Micro",
+        "last_accounts": "2025",
+        "slug": "optix-glazing-ltd"
+    },
+    {
+        "company_number": "SC646360",
+        "name": "Eterno Ltd",
+        "address": "9 GLASGOW ROAD",
+        "postcode": "PA1 3QS",
+        "postcode_area": "PA1",
+        "town": "Paisley",
+        "county": "Renfrewshire",
+        "region": "Scotland",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "06\/11\/2019",
+        "company_type": "Ltd",
+        "size": "Micro",
+        "last_accounts": "2025",
+        "slug": "eterno-ltd"
+    }
+]

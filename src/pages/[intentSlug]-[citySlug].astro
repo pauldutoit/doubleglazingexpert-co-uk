@@ -6,6 +6,7 @@ import cities from '../data/cities.json';
 import intents from '../data/intents.json';
 import cityEnrichment from '../data/cityEnrichment.json';
 import intentEnrichment from '../data/intentEnrichment.json';
+import { cityHasInstallersForService, getTopInstallers, companyPageSlug, displayName, installerCount } from '../lib/installers';
 
 export async function getStaticPaths() {
   const entries = await getCollection('cityContent');
@@ -232,6 +233,19 @@ const faqSchema = faqs.length
             ))}
           </ul>
         </section>
+
+        {cityHasInstallersForService(citySlug, intentSlug) && (
+          <section class="section" style="padding-top: 0;">
+            <div class="section-title"><h2>Local installers in {city}</h2></div>
+            <p>Glazing companies with a registered office in {city}, from the public Companies House register - a factual list, not a recommendation:</p>
+            <ul class="pill-list">
+              {getTopInstallers(citySlug, 3).map((r) => (
+                <li><a class="pill" href={`/installers/${citySlug}/${companyPageSlug(citySlug, r)}/`}>{displayName(r.name)}</a></li>
+              ))}
+              <li><a class="pill" href={`/double-glazing-installers-${citySlug}/`}>All {installerCount(citySlug)} installers in {city} &rarr;</a></li>
+            </ul>
+          </section>
+        )}
 
         <section class="section" style="padding-top: 0;">
           <div class="section-title"><h2>{intent} in nearby areas</h2></div>

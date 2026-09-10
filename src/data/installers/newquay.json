@@ -1,0 +1,53 @@
+[
+    {
+        "company_number": "05316012",
+        "name": "Higman Windows Limited",
+        "address": "THE WORKSHOP, WESTWAYS LANE",
+        "postcode": "TR8 4QB",
+        "postcode_area": "TR8",
+        "town": "Newquay",
+        "county": "Cornwall",
+        "region": "South West England",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "17\/12\/2004",
+        "company_type": "Ltd",
+        "size": "Micro",
+        "last_accounts": "2025",
+        "slug": "higman-windows-limited"
+    },
+    {
+        "company_number": "09209330",
+        "name": "Quay Windows Ltd",
+        "address": "BRYNDON HOUSE, 5\/7 BERRY ROAD",
+        "postcode": "TR7 1AD",
+        "postcode_area": "TR7",
+        "town": "Newquay",
+        "county": "Cornwall",
+        "region": "South West England",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "09\/09\/2014",
+        "company_type": "Ltd",
+        "size": "Small",
+        "last_accounts": "2026",
+        "slug": "quay-windows-ltd"
+    },
+    {
+        "company_number": "16801249",
+        "name": "Cornwall Door And Window Repair Ltd",
+        "address": "6 GANNEL VIEW CLOSE, LANE",
+        "postcode": "TR8 4NH",
+        "postcode_area": "TR8",
+        "town": "Newquay",
+        "county": "Cornwall",
+        "region": "South West England",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "21\/10\/2025",
+        "company_type": "Ltd",
+        "size": "",
+        "last_accounts": "",
+        "slug": "cornwall-door-and-window-repair-ltd"
+    }
+]

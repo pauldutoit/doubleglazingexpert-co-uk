@@ -1,0 +1,53 @@
+[
+    {
+        "company_number": "07586390",
+        "name": "Econoglaze Windows Limited",
+        "address": "UNIT 2, W16 & W17, HAWKER BUSINESS PARK , MELTON ROAD, BURTON-ON-THE-WOLDS",
+        "postcode": "LE12 5TQ",
+        "postcode_area": "LE12",
+        "town": "Loughborough",
+        "county": "Leicestershire",
+        "region": "East Midlands",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "31\/03\/2011",
+        "company_type": "Ltd",
+        "size": "Micro",
+        "last_accounts": "2025",
+        "slug": "econoglaze-windows-limited"
+    },
+    {
+        "company_number": "08110334",
+        "name": "Charnwood Windows Limited",
+        "address": "32 QUORN CLOSE",
+        "postcode": "LE11 2AW",
+        "postcode_area": "LE11",
+        "town": "Loughborough",
+        "county": "Leicestershire",
+        "region": "East Midlands",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "19\/06\/2012",
+        "company_type": "Ltd",
+        "size": "Small",
+        "last_accounts": "2025",
+        "slug": "charnwood-windows-limited"
+    },
+    {
+        "company_number": "11720273",
+        "name": "Primefit Glazing Limited",
+        "address": "26 OAK BUSINESS CENTRE, RATCLIFFE ROAD SILEBY",
+        "postcode": "LE12 7PU",
+        "postcode_area": "LE12",
+        "town": "Loughborough",
+        "county": "Leicestershire",
+        "region": "East Midlands",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "10\/12\/2018",
+        "company_type": "Ltd",
+        "size": "Small",
+        "last_accounts": "2025",
+        "slug": "primefit-glazing-limited"
+    }
+]

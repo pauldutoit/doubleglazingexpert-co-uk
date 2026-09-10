@@ -1,0 +1,244 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import siteConfig from '../data/site.config.json';
+import cities from '../data/cities.json';
+import cityEnrichment from '../data/cityEnrichment.json';
+import {
+  getListing,
+  hasInstallerPage,
+  incorporatedYear,
+  companyPageSlug,
+  displayName,
+  INDEXABLE_INSTALLER_CITIES,
+} from '../lib/installers';
+
+export async function getStaticPaths() {
+  // Every city gets a category page - short ones are topped up from neighbours.
+  return cities.map((c) => ({ params: { citySlug: c.slug }, props: { cityMeta: c } }));
+}
+
+const { cityMeta } = Astro.props as any;
+const city: string = cityMeta.name;
+const citySlug: string = cityMeta.slug;
+const region: string = cityMeta.region;
+
+const { rows: installers, ownCount, nearbyUsed } = getListing(cityMeta);
+const indexable = INDEXABLE_INSTALLER_CITIES.has(citySlug);
+
+type CityEnrichment = { postcodes?: string[]; notableAreas?: string[] };
+const enrichment: CityEnrichment = (cityEnrichment as Record<string, CityEnrichment>)[citySlug] ?? {};
+
+const pageUrl = `https://${siteConfig.domain}/double-glazing-installers-${citySlug}/`;
+const hubUrl = `https://${siteConfig.domain}/double-glazing-${citySlug}/`;
+
+const metaTitle = `Double glazing installers in ${city} - company register | ${siteConfig.siteName}`;
+const metaDescription = `Glazing companies with a registered office in ${city}, taken from the public Companies House register. Not a recommendation - compare vetted, no-obligation quotes with one short form.`;
+
+const nearbyCities = ((cityMeta.nearby ?? []) as string[])
+  .map((slug) => cities.find((c) => c.slug === slug))
+  .filter((c): c is { slug: string; name: string } => Boolean(c));
+
+const telHref = `tel:${siteConfig.phone.replace(/\s+/g, '')}`;
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: `https://${siteConfig.domain}/` },
+    { '@type': 'ListItem', position: 2, name: 'Double Glazing', item: `https://${siteConfig.domain}/services/double-glazing/` },
+    { '@type': 'ListItem', position: 3, name: `${city} double glazing`, item: hubUrl },
+    { '@type': 'ListItem', position: 4, name: 'Installers', item: pageUrl },
+  ],
+};
+
+// ItemList only - these are third parties. No LocalBusiness / Review / rating
+// markup: we hold no verified facts about them beyond the register entry.
+const itemListSchema = installers.length
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'ItemList',
+      name: `Glazing companies near ${city}`,
+      itemListOrder: 'https://schema.org/ItemListUnordered',
+      numberOfItems: installers.length,
+      itemListElement: installers.map((r, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: displayName(r.name),
+        url: `https://${siteConfig.domain}/installers/${r.homeCitySlug}/${companyPageSlug(r.homeCitySlug, r)}/`,
+      })),
+    }
+  : null;
+---
+
+<BaseLayout title={metaTitle} description={metaDescription} indexable={indexable}>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+  {itemListSchema && <script slot="head" type="application/ld+json" set:html={JSON.stringify(itemListSchema)} />}
+
+  <div class="container city-page" style="padding-top: 1.5rem;">
+    <nav class="breadcrumb" aria-label="breadcrumb">
+      <a href="/">Home</a> / <a href="/services/double-glazing/">Double Glazing</a> /
+      <a href={`/double-glazing-${citySlug}/`}>{city}</a> / Installers
+    </nav>
+
+    <div class="city-grid">
+      <div class="city-main">
+        <h1>Double glazing installers in {city}</h1>
+
+        <p class="lede">
+          {ownCount > 0 ? (
+            <>
+              {ownCount} {ownCount === 1 ? 'company has' : 'companies have'} a registered office
+              in {city} under the glazing trade (SIC code 43342).
+              {installers.length > ownCount && ' The list is topped up with nearby firms.'}
+            </>
+          ) : installers.length > 0 ? (
+            <>No glazing company has a registered office in {city} itself. The nearest on the
+            register — in {nearbyUsed.join(', ')} — are listed below.</>
+          ) : (
+            <>We don't yet have registered glazing companies for {city} or its neighbours. Use
+            the form for vetted quotes.</>
+          )}
+        </p>
+
+        {installers.length > 0 && (
+          <>
+            <p class="installer-table-hint">
+              Extract from the public Companies House register (glazing trade, SIC 43342) - not a
+              recommendation or a vetted panel. Select a company for its full register entry and
+              local context.
+            </p>
+            <table class="price-table installer-table">
+              <thead>
+                <tr><th>Company</th><th>Area</th><th>Registered</th><th>Accounts filed</th><th><span class="sr-only">Details</span></th></tr>
+              </thead>
+              <tbody>
+                {installers.map((r) => {
+                  const href = `/installers/${r.homeCitySlug}/${companyPageSlug(r.homeCitySlug, r)}/`;
+                  return (
+                    <tr>
+                      <td>
+                        <a href={href}>{displayName(r.name)}</a>
+                        <span class="company-sub">
+                          {[r.company_type, r.size].filter(Boolean).join(' · ')}
+                          {(r.company_type || r.size) && ' · '}no. {r.company_number}
+                          {r.fromNearby && <> · {r.homeCity}</>}
+                        </span>
+                      </td>
+                      <td>{r.postcode_area}</td>
+                      <td>{incorporatedYear(r.incorporated)}</td>
+                      <td>{r.last_accounts || '—'}</td>
+                      <td class="installer-row-cta"><a href={href}>View details &rarr;</a></td>
+                    </tr>
+                  );
+                })}
+              </tbody>
+            </table>
+            <p class="register-source">
+              Source: Companies House free company data - SIC 43342, active companies, with
+              dormant and long-overdue filers removed. Company status and details can change;
+              check the register for the current position.
+            </p>
+          </>
+        )}
+
+        <section class="section" style="padding-top: 0;">
+          <div class="section-title"><h2>How to choose between them</h2></div>
+          <p>
+            For a whole-home double glazing job in {city}, get three written, itemised quotes,
+            confirm FENSA or CERTASS registration, check the guarantee is insurance-backed, and
+            ask for two recent local addresses you can drive past. Our{' '}
+            <a href="/blog/how-to-compare-double-glazing-quotes/">guide to comparing double glazing quotes</a>{' '}
+            walks through it.
+          </p>
+        </section>
+
+        <div class="cta-banner">
+          <h2>Want vetted quotes instead of a phone book?</h2>
+          <a class="btn btn-accent" href={`/quote?city=${citySlug}&intent=double-glazing`}>Get up to 3 free quotes</a>
+        </div>
+
+        <section class="section" style="padding-top: 0;">
+          <div class="section-title"><h2>Double glazing in {city}</h2></div>
+          <ul class="pill-list">
+            <li><a class="pill" href={`/double-glazing-${citySlug}/`}>Double glazing prices in {city}</a></li>
+            <li><a class="pill" href={`/upvc-windows-${citySlug}/`}>uPVC windows in {city}</a></li>
+            <li><a class="pill" href={`/window-repair-${citySlug}/`}>Double glazing repairs in {city}</a></li>
+            <li><a class="pill" href={`/upvc-doors-${citySlug}/`}>uPVC doors in {city}</a></li>
+          </ul>
+        </section>
+
+        {nearbyCities.length > 0 && (
+          <section class="section" style="padding-top: 0;">
+            <div class="section-title"><h2>Installers in nearby areas</h2></div>
+            <ul class="pill-list">
+              {nearbyCities.map((c) => (
+                <li><a class="pill" href={`/double-glazing-installers-${c.slug}/`}>Double glazing installers in {c.name}</a></li>
+              ))}
+            </ul>
+          </section>
+        )}
+      </div>
+
+      <aside class="city-sidebar" aria-label="Get a quote">
+        <div class="quote-sticky card">
+          <h2>Free double glazing quote in {city}</h2>
+          <p class="quote-sticky-sub">Compare vetted installers. 60 seconds, no cold calls.</p>
+          <ul class="quote-sticky-trust">
+            <li>&#10003; FENSA-registered installers</li>
+            <li>&#10003; Up to 3 quotes to compare</li>
+            <li>&#10003; 10-year typical guarantee</li>
+          </ul>
+          <a class="btn btn-accent btn-block" href={`/quote?city=${citySlug}&intent=double-glazing`}>Start my free quote &rarr;</a>
+          {siteConfig.phoneEnabled !== false && (
+            <p class="quote-sticky-alt">or call <a href={telHref}>{siteConfig.phone}</a></p>
+          )}
+        </div>
+      </aside>
+    </div>
+  </div>
+</BaseLayout>
+
+<script is:inline>
+  // Progressive enhancement: make each listing row navigate to its company
+  // page. Links inside the row still work on their own with JS disabled, and a
+  // plain click that selected text is ignored.
+  document.querySelectorAll('.installer-table tbody tr').forEach((row) => {
+    const link = row.querySelector('a[href]');
+    if (!link) return;
+    row.addEventListener('click', (e) => {
+      if (e.target.closest('a')) return;
+      if (window.getSelection && String(window.getSelection())) return;
+      window.location.href = link.getAttribute('href');
+    });
+  });
+</script>
+
+<style>
+  .installer-table-hint { font-size: 0.85rem; color: var(--color-muted); margin: 0 0 0.75rem; max-width: 60ch; }
+  .installer-table { margin-bottom: 0.75rem; }
+  .installer-table td { vertical-align: middle; }
+  .installer-table tbody tr { cursor: pointer; transition: background 0.12s ease; }
+  .installer-table tbody tr:hover { background: var(--color-surface-alt); }
+  .installer-table td:nth-child(2), .installer-table td:nth-child(3), .installer-table td:nth-child(4) {
+    font-variant-numeric: tabular-nums; white-space: nowrap;
+  }
+  .installer-table td:first-child a { font-weight: 600; }
+  .company-sub {
+    display: block;
+    font-size: 0.78rem;
+    color: var(--color-muted);
+    font-weight: 400;
+    margin-top: 0.15rem;
+  }
+  .installer-row-cta { text-align: right; white-space: nowrap; }
+  .installer-row-cta a { font-weight: 600; font-size: 0.85rem; }
+  .sr-only {
+    position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+    overflow: hidden; clip: rect(0, 0, 0, 0); border: 0;
+  }
+  .register-source {
+    font-size: 0.8rem;
+    color: var(--color-muted);
+    margin: 0.5rem 0 0;
+  }
+</style>

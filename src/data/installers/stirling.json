@@ -1,0 +1,36 @@
+[
+    {
+        "company_number": "SC418571",
+        "name": "Glassal Ltd",
+        "address": "35 ABBEY ROAD",
+        "postcode": "FK8 1LJ",
+        "postcode_area": "FK8",
+        "town": "Stirling",
+        "county": "Stirling",
+        "region": "Scotland",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "05\/03\/2012",
+        "company_type": "Ltd",
+        "size": "Small",
+        "last_accounts": "2026",
+        "slug": "glassal-ltd"
+    },
+    {
+        "company_number": "SC533157",
+        "name": "Glass Worx Limited",
+        "address": "THE COW SHED UNIT 4, BLOCK 4, MANOR FARM BUSINESS PARK, MANOR LOAN",
+        "postcode": "FK9 5QD",
+        "postcode_area": "FK9",
+        "town": "Stirling",
+        "county": "Stirling",
+        "region": "Scotland",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "20\/04\/2016",
+        "company_type": "Ltd",
+        "size": "Micro",
+        "last_accounts": "2025",
+        "slug": "glass-worx-limited"
+    }
+]

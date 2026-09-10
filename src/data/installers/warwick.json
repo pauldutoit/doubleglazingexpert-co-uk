@@ -1,0 +1,53 @@
+[
+    {
+        "company_number": "08969069",
+        "name": "Eew Conservatories Limited",
+        "address": "20 CORDELIA GREEN, HEATHCOTE",
+        "postcode": "CV34 6XE",
+        "postcode_area": "CV34",
+        "town": "Warwick",
+        "county": "Warwickshire",
+        "region": "West Midlands",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "31\/03\/2014",
+        "company_type": "Ltd",
+        "size": "Micro",
+        "last_accounts": "2025",
+        "slug": "eew-conservatories-limited"
+    },
+    {
+        "company_number": "11109846",
+        "name": "Matt Mcintyre Glass & Glazing Ltd.",
+        "address": "WARWICK BUSINESS CENTRE, HAWKES DRIVE, H HAWKES DRIVE, HEATHCOTE INDUSTRIAL ESTATE",
+        "postcode": "CV34 6LX",
+        "postcode_area": "CV34",
+        "town": "Warwick",
+        "county": "Warwickshire",
+        "region": "West Midlands",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "13\/12\/2017",
+        "company_type": "Ltd",
+        "size": "Small",
+        "last_accounts": "2024",
+        "slug": "matt-mcintyre-glass-glazing-ltd"
+    },
+    {
+        "company_number": "16500965",
+        "name": "Ibj Ltd",
+        "address": "58 CHURCH STREET",
+        "postcode": "CV35 8EW",
+        "postcode_area": "CV35",
+        "town": "Warwick",
+        "county": "Warwickshire",
+        "region": "West Midlands",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "06\/06\/2025",
+        "company_type": "Ltd",
+        "size": "",
+        "last_accounts": "",
+        "slug": "ibj-ltd"
+    }
+]

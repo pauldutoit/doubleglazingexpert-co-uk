@@ -1,0 +1,233 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import siteConfig from '../../../data/site.config.json';
+import cities from '../../../data/cities.json';
+import intents from '../../../data/intents.json';
+import cityEnrichment from '../../../data/cityEnrichment.json';
+import {
+  getTopInstallers,
+  hasInstallerPage,
+  companyPageSlug,
+  siblingInstallers,
+  displayName,
+  incorporatedYear,
+  INDEXABLE_INSTALLER_CITIES,
+} from '../../../lib/installers';
+
+export async function getStaticPaths() {
+  const paths = [];
+  for (const cityMeta of cities) {
+    if (!hasInstallerPage(cityMeta.slug)) continue;
+    for (const record of getTopInstallers(cityMeta.slug)) {
+      paths.push({
+        params: { citySlug: cityMeta.slug, companySlug: companyPageSlug(cityMeta.slug, record) },
+        props: { record, cityMeta },
+      });
+    }
+  }
+  return paths;
+}
+
+const { record, cityMeta } = Astro.props as any;
+const city: string = cityMeta.name;
+const citySlug: string = cityMeta.slug;
+const name = displayName(record.name);
+const companySlug = companyPageSlug(citySlug, record);
+const indexable = INDEXABLE_INSTALLER_CITIES.has(citySlug);
+
+type CityEnrichment = {
+  postcodes?: string[];
+  houseTypes?: string;
+  notableAreas?: string[];
+  conservationNote?: string;
+  dominantEra?: string;
+};
+const enrichment: CityEnrichment = (cityEnrichment as Record<string, CityEnrichment>)[citySlug] ?? {};
+
+const pageUrl = `https://${siteConfig.domain}/installers/${citySlug}/${companySlug}/`;
+const categoryUrl = `https://${siteConfig.domain}/double-glazing-installers-${citySlug}/`;
+
+const metaTitle = `${name}, ${city} - company register entry | ${siteConfig.siteName}`;
+const metaDescription = `${name} is on the Companies House register (no. ${record.company_number}) under the glazing trade, registered office in ${city}. Public record only - not a review or recommendation. Compare vetted quotes with one form.`;
+
+const facts: { label: string; value: string }[] = [
+  { label: 'Company number', value: record.company_number },
+  { label: 'Incorporated', value: incorporatedYear(record.incorporated) },
+  record.company_type ? { label: 'Company type', value: record.company_type } : null,
+  record.size ? { label: 'Size (by accounts)', value: record.size } : null,
+  record.last_accounts ? { label: 'Last accounts filed', value: record.last_accounts } : null,
+  { label: 'SIC', value: `${record.sic} - ${record.sic_label}` },
+  { label: 'Registered office', value: `${record.address}, ${record.postcode}` },
+].filter(Boolean) as { label: string; value: string }[];
+
+const siblings = siblingInstallers(citySlug, companySlug);
+
+const nearbySlugs: string[] = (cityMeta.nearby ?? []).filter((s: string) => hasInstallerPage(s));
+const nearbyCities = nearbySlugs
+  .map((slug: string) => cities.find((c) => c.slug === slug))
+  .filter(Boolean) as { slug: string; name: string }[];
+
+const telHref = `tel:${siteConfig.phone.replace(/\s+/g, '')}`;
+
+const cityHubUrl = `https://${siteConfig.domain}/double-glazing-${citySlug}/`;
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: `https://${siteConfig.domain}/` },
+    { '@type': 'ListItem', position: 2, name: 'Double Glazing', item: `https://${siteConfig.domain}/services/double-glazing/` },
+    { '@type': 'ListItem', position: 3, name: `${city} double glazing`, item: cityHubUrl },
+    { '@type': 'ListItem', position: 4, name: `${city} installers`, item: categoryUrl },
+    { '@type': 'ListItem', position: 5, name, item: pageUrl },
+  ],
+};
+// No Organization / LocalBusiness markup: this is a third party we neither
+// represent nor hold verified facts about beyond the statutory register.
+---
+
+<BaseLayout title={metaTitle} description={metaDescription} indexable={indexable}>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+
+  <div class="container city-page" style="padding-top: 1.5rem;">
+    <nav class="breadcrumb" aria-label="breadcrumb">
+      <a href="/">Home</a> / <a href="/services/double-glazing/">Double Glazing</a> /
+      <a href={`/double-glazing-${citySlug}/`}>{city} double glazing</a> /
+      <a href={`/double-glazing-installers-${citySlug}/`}>{city} installers</a> / {name}
+    </nav>
+
+    <div class="city-grid">
+      <div class="city-main">
+        <h1>{name}</h1>
+
+        <p class="lede">
+          {name} is a company on the UK register of companies (Companies House no.{' '}
+          {record.company_number}), classified under the glazing trade (SIC {record.sic},
+          {' '}{record.sic_label}), with a registered office in {record.postcode_area}, {city}.
+        </p>
+
+        <div class="register-note">
+          <strong>What this page is.</strong> A factual summary of this company's public
+          Companies House record. It is not a review, a rating or a recommendation, and {siteConfig.siteName}
+          {' '}is not affiliated with this company. A registered office address does not confirm
+          the area the company works in, nor that it holds FENSA or another competent-person
+          scheme. Always verify current details on the register before making contact.
+        </div>
+
+        <table class="price-table fact-table">
+          <tbody>
+            {facts.map((f) => (
+              <tr><th scope="row">{f.label}</th><td>{f.value}</td></tr>
+            ))}
+          </tbody>
+        </table>
+        <p class="register-source">
+          Source: Companies House free company data. Search company number {record.company_number}
+          {' '}on the Companies House register for the current position.
+        </p>
+
+        <section class="section" style="padding-top: 0;">
+          <div class="section-title"><h2>Before you contact a {city} installer</h2></div>
+          <ul>
+            <li>Check the company is current and not in liquidation on the Companies House register.</li>
+            <li>Confirm FENSA or CERTASS registration on the relevant scheme's own "find an installer" search - membership is per-company and can lapse.</li>
+            <li>Get the quote in writing, itemised per window or door, and check the guarantee is insurance-backed.</li>
+            <li>Ask for two recent installations nearby you can look at.</li>
+          </ul>
+          <p>
+            Our <a href="/blog/how-to-compare-double-glazing-quotes/">guide to comparing double glazing quotes</a>{' '}
+            and <a href="/blog/fensa-vs-certass/">FENSA vs CERTASS</a> explainer go into detail.
+          </p>
+        </section>
+
+        {(enrichment.houseTypes || enrichment.dominantEra || enrichment.conservationNote) && (
+          <section class="local-context">
+            <h2>Windows and doors in {city}</h2>
+            {enrichment.houseTypes && <p>{enrichment.houseTypes}</p>}
+            {enrichment.dominantEra && (
+              <p><strong>Dominant era of housing stock:</strong> {enrichment.dominantEra}</p>
+            )}
+            {enrichment.conservationNote && (
+              <p class="local-context-note"><strong>Heritage note:</strong> {enrichment.conservationNote}</p>
+            )}
+          </section>
+        )}
+
+        <div class="cta-banner">
+          <h2>Comparing installers in {city}?</h2>
+          <a class="btn btn-accent" href={`/quote?city=${citySlug}&intent=double-glazing`}>Get up to 3 vetted quotes</a>
+        </div>
+
+        <section class="section" style="padding-top: 0;">
+          <div class="section-title"><h2>Double glazing services in {city}</h2></div>
+          <ul class="pill-list">
+            {intents.map((i) => (
+              <li><a class="pill" href={`/${i.slug}-${citySlug}/`}>{i.label} in {city}</a></li>
+            ))}
+          </ul>
+        </section>
+
+        {siblings.length > 0 && (
+          <section class="section" style="padding-top: 0;">
+            <div class="section-title"><h2>Other {city} glazing companies on the register</h2></div>
+            <ul class="pill-list">
+              {siblings.map((r) => (
+                <li><a class="pill" href={`/installers/${citySlug}/${companyPageSlug(citySlug, r)}/`}>{displayName(r.name)}</a></li>
+              ))}
+            </ul>
+            <p><a href={`/double-glazing-installers-${citySlug}/`}>All double glazing installers in {city} &rarr;</a></p>
+          </section>
+        )}
+
+        {nearbyCities.length > 0 && (
+          <section class="section" style="padding-top: 0;">
+            <div class="section-title"><h2>Installers in nearby areas</h2></div>
+            <ul class="pill-list">
+              {nearbyCities.map((c) => (
+                <li><a class="pill" href={`/double-glazing-installers-${c.slug}/`}>Installers in {c.name}</a></li>
+              ))}
+            </ul>
+          </section>
+        )}
+      </div>
+
+      <aside class="city-sidebar" aria-label="Get a quote">
+        <div class="quote-sticky card">
+          <h2>Free double glazing quote in {city}</h2>
+          <p class="quote-sticky-sub">Compare vetted installers. 60 seconds, no cold calls.</p>
+          <ul class="quote-sticky-trust">
+            <li>&#10003; FENSA-registered installers</li>
+            <li>&#10003; Up to 3 quotes to compare</li>
+            <li>&#10003; 10-year typical guarantee</li>
+          </ul>
+          <a class="btn btn-accent btn-block" href={`/quote?city=${citySlug}&intent=double-glazing`}>Start my free quote &rarr;</a>
+          {siteConfig.phoneEnabled !== false && (
+            <p class="quote-sticky-alt">or call <a href={telHref}>{siteConfig.phone}</a></p>
+          )}
+        </div>
+      </aside>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .register-note {
+    border: 1px solid var(--color-border);
+    border-left: 4px solid var(--color-primary);
+    background: var(--color-surface-alt);
+    padding: 0.9rem 1.1rem;
+    border-radius: var(--radius-sm);
+    font-size: 0.92rem;
+    margin: 1rem 0 1.5rem;
+  }
+  .register-note a { text-decoration: underline; }
+  .fact-table th[scope='row'] {
+    text-align: left;
+    white-space: nowrap;
+    color: var(--color-muted);
+    font-weight: 600;
+    padding-right: 1.25rem;
+    vertical-align: top;
+  }
+  .register-source { font-size: 0.8rem; color: var(--color-muted); margin: 0.5rem 0 0; }
+  .register-source a { text-decoration: underline; }
+</style>

@@ -1,0 +1,36 @@
+[
+    {
+        "company_number": "13336746",
+        "name": "Alspec Windows And Doors Limited",
+        "address": "WREN HOUSE, 68 LONDON ROAD",
+        "postcode": "AL1 1NG",
+        "postcode_area": "AL1",
+        "town": "St Albans",
+        "county": "Hertfordshire",
+        "region": "East of England",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "15\/04\/2021",
+        "company_type": "Ltd",
+        "size": "Small",
+        "last_accounts": "2025",
+        "slug": "alspec-windows-and-doors-limited"
+    },
+    {
+        "company_number": "15535995",
+        "name": "Newstyle Windows (tring) Ltd",
+        "address": "UNIT 14 OAK COURT BUSINESS CENTRE, SANDRIDGE PARK, PORTERS WOOD",
+        "postcode": "AL3 6PH",
+        "postcode_area": "AL3",
+        "town": "St Albans",
+        "county": "Hertfordshire",
+        "region": "East of England",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "02\/03\/2024",
+        "company_type": "Ltd",
+        "size": "Micro",
+        "last_accounts": "2025",
+        "slug": "newstyle-windows-tring-ltd"
+    }
+]

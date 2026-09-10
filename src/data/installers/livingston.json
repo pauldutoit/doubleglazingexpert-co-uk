@@ -1,0 +1,36 @@
+[
+    {
+        "company_number": "SC787777",
+        "name": "Eco Installations Scotland Ltd",
+        "address": "8 DEER PARK AVENUE",
+        "postcode": "EH54 8AF",
+        "postcode_area": "EH54",
+        "town": "Livingston",
+        "county": "West Lothian",
+        "region": "Scotland",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "01\/11\/2023",
+        "company_type": "Ltd",
+        "size": "Micro",
+        "last_accounts": "2024",
+        "slug": "eco-installations-scotland-ltd"
+    },
+    {
+        "company_number": "SC878404",
+        "name": "Tintology Solutions Limited",
+        "address": "30 BEECHWOOD GROVE, UPHALL STATION",
+        "postcode": "EH54 5PZ",
+        "postcode_area": "EH54",
+        "town": "Livingston",
+        "county": "West Lothian",
+        "region": "Scotland",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "09\/02\/2026",
+        "company_type": "Ltd",
+        "size": "",
+        "last_accounts": "",
+        "slug": "tintology-solutions-limited"
+    }
+]

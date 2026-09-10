@@ -1,0 +1,53 @@
+[
+    {
+        "company_number": "NI602886",
+        "name": "Am Windows Direct Ltd",
+        "address": "UNIT 12 ENTERPRISE ROAD, ENTERPRISE ROAD",
+        "postcode": "BT19 7TA",
+        "postcode_area": "BT19",
+        "town": "Bangor",
+        "county": "Gwynedd",
+        "region": "Wales",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "19\/04\/2010",
+        "company_type": "Ltd",
+        "size": "Micro",
+        "last_accounts": "2025",
+        "slug": "am-windows-direct-ltd"
+    },
+    {
+        "company_number": "15658285",
+        "name": "North Wales Glass Limited",
+        "address": "PLOT 20 LLANDEGAI INDUSTRIAL ESTATE, LLANDEGAI",
+        "postcode": "LL57 4YH",
+        "postcode_area": "LL57",
+        "town": "Bangor",
+        "county": "Gwynedd",
+        "region": "Wales",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "18\/04\/2024",
+        "company_type": "Ltd",
+        "size": "Micro",
+        "last_accounts": "2025",
+        "slug": "north-wales-glass-limited"
+    },
+    {
+        "company_number": "NI726506",
+        "name": "Advancedni Ltd",
+        "address": "21 ENTERPRISE ROAD, BALLOO SOUTH BUSINESS PARK",
+        "postcode": "BT19 7TA",
+        "postcode_area": "BT19",
+        "town": "Bangor",
+        "county": "Gwynedd",
+        "region": "Wales",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "18\/02\/2025",
+        "company_type": "Ltd",
+        "size": "",
+        "last_accounts": "",
+        "slug": "advancedni-ltd"
+    }
+]

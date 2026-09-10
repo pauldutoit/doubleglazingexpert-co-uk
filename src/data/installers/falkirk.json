@@ -1,0 +1,53 @@
+[
+    {
+        "company_number": "SC556740",
+        "name": "Cracking Glass Limited",
+        "address": "UNIT 1 OCHILVIEW BUSINESS PARK, BOG ROAD",
+        "postcode": "FK2 9PJ",
+        "postcode_area": "FK2",
+        "town": "Falkirk",
+        "county": "Falkirk",
+        "region": "Scotland",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "06\/02\/2017",
+        "company_type": "Ltd",
+        "size": "Small",
+        "last_accounts": "2026",
+        "slug": "cracking-glass-limited"
+    },
+    {
+        "company_number": "SC822747",
+        "name": "Elite Group Scotland Ltd",
+        "address": "ELITE GROUP SCOTLAND, SCOTIA PLACE",
+        "postcode": "FK2 7AJ",
+        "postcode_area": "FK2",
+        "town": "Falkirk",
+        "county": "Falkirk",
+        "region": "Scotland",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "13\/09\/2024",
+        "company_type": "Ltd",
+        "size": "Micro",
+        "last_accounts": "2025",
+        "slug": "elite-group-scotland-ltd"
+    },
+    {
+        "company_number": "SC891192",
+        "name": "Mckeown Windows And Doors Ltd",
+        "address": "78 CARRONSHORE ROAD",
+        "postcode": "FK2 8EE",
+        "postcode_area": "FK2",
+        "town": "Falkirk",
+        "county": "Falkirk",
+        "region": "Scotland",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "29\/05\/2026",
+        "company_type": "Ltd",
+        "size": "",
+        "last_accounts": "",
+        "slug": "mckeown-windows-and-doors-ltd"
+    }
+]

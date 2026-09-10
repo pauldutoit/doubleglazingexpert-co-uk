@@ -1,0 +1,36 @@
+[
+    {
+        "company_number": "SC360887",
+        "name": "Normax Windows Limited",
+        "address": "2 CARRON PLACE, KELVIN INDUSTRIAL ESTATE",
+        "postcode": "G75 0YL",
+        "postcode_area": "G75",
+        "town": "East Kilbride",
+        "county": "South Lanarkshire",
+        "region": "Scotland",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "08\/06\/2009",
+        "company_type": "Ltd",
+        "size": "Small",
+        "last_accounts": "2025",
+        "slug": "normax-windows-limited"
+    },
+    {
+        "company_number": "SC878025",
+        "name": "Summerfield Windows & Doors Ltd",
+        "address": "ADMIRAL HOUSE, MONTGOMERY STREET",
+        "postcode": "G74 4BF",
+        "postcode_area": "G74",
+        "town": "East Kilbride",
+        "county": "South Lanarkshire",
+        "region": "Scotland",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "05\/02\/2026",
+        "company_type": "Ltd",
+        "size": "",
+        "last_accounts": "",
+        "slug": "summerfield-windows-doors-ltd"
+    }
+]

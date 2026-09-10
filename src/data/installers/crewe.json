@@ -1,0 +1,53 @@
+[
+    {
+        "company_number": "10724605",
+        "name": "South Cheshire Glass Limited",
+        "address": "SYCAMORE WORKS, 25 HOPE STREET",
+        "postcode": "CW2 7DR",
+        "postcode_area": "CW2",
+        "town": "Crewe",
+        "county": "Cheshire",
+        "region": "North West England",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "13\/04\/2017",
+        "company_type": "Ltd",
+        "size": "Small",
+        "last_accounts": "2025",
+        "slug": "south-cheshire-glass-limited"
+    },
+    {
+        "company_number": "16311630",
+        "name": "Baab Doors Ltd",
+        "address": "72 NANTWICH ROAD",
+        "postcode": "CW2 6AL",
+        "postcode_area": "CW2",
+        "town": "Crewe",
+        "county": "Cheshire",
+        "region": "North West England",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "12\/03\/2025",
+        "company_type": "Ltd",
+        "size": "",
+        "last_accounts": "",
+        "slug": "baab-doors-ltd"
+    },
+    {
+        "company_number": "17171707",
+        "name": "Phil Parsonage Windows Ltd",
+        "address": "18 JAMES ATKINSON WAY",
+        "postcode": "CW1 3NU",
+        "postcode_area": "CW1",
+        "town": "Crewe",
+        "county": "Cheshire",
+        "region": "North West England",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "21\/04\/2026",
+        "company_type": "Ltd",
+        "size": "",
+        "last_accounts": "",
+        "slug": "phil-parsonage-windows-ltd"
+    }
+]

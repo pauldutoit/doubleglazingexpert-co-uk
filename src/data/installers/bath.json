@@ -1,0 +1,53 @@
+[
+    {
+        "company_number": "05593656",
+        "name": "Mark Rogers Limited",
+        "address": "124 HIGH STREET, MIDSOMER NORTON, RADSTOCK",
+        "postcode": "BA3 2DA",
+        "postcode_area": "BA3",
+        "town": "Bath",
+        "county": "Somerset",
+        "region": "South West England",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "14\/10\/2005",
+        "company_type": "Ltd",
+        "size": "Micro",
+        "last_accounts": "2025",
+        "slug": "mark-rogers-limited"
+    },
+    {
+        "company_number": "06503975",
+        "name": "Leigh Goodchild Limited",
+        "address": "15 FAULKLAND VIEW, PEASEDOWN ST JOHN",
+        "postcode": "BA2 8TG",
+        "postcode_area": "BA2",
+        "town": "Bath",
+        "county": "Somerset",
+        "region": "South West England",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "14\/02\/2008",
+        "company_type": "Ltd",
+        "size": "Small",
+        "last_accounts": "2025",
+        "slug": "leigh-goodchild-limited"
+    },
+    {
+        "company_number": "11044464",
+        "name": "The Frameless Glass Company Ltd",
+        "address": "30 CIRCUS MEWS",
+        "postcode": "BA1 2PW",
+        "postcode_area": "BA1",
+        "town": "Bath",
+        "county": "Somerset",
+        "region": "South West England",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "02\/11\/2017",
+        "company_type": "Ltd",
+        "size": "Small",
+        "last_accounts": "2024",
+        "slug": "the-frameless-glass-company-ltd"
+    }
+]

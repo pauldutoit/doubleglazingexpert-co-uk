@@ -1,0 +1,36 @@
+[
+    {
+        "company_number": "15730488",
+        "name": "Jermyn Doors And Windows Ltd",
+        "address": "C\/O BLAYNEY ACCOUNTANCY LIMITED, UNIT 11, BUSINESS SERVICE CENTRE (BSC), HOOD ROAD",
+        "postcode": "CF62 5QN",
+        "postcode_area": "CF62",
+        "town": "Barry",
+        "county": "Vale of Glamorgan",
+        "region": "Wales",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "20\/05\/2024",
+        "company_type": "Ltd",
+        "size": "Micro",
+        "last_accounts": "2026",
+        "slug": "jermyn-doors-and-windows-ltd"
+    },
+    {
+        "company_number": "15938176",
+        "name": "Elite Double Glazing Repairs Ltd.",
+        "address": "40 STATION STREET",
+        "postcode": "CF63 4LY",
+        "postcode_area": "CF63",
+        "town": "Barry",
+        "county": "Vale of Glamorgan",
+        "region": "Wales",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "05\/09\/2024",
+        "company_type": "Ltd",
+        "size": "Small",
+        "last_accounts": "2025",
+        "slug": "elite-double-glazing-repairs-ltd"
+    }
+]

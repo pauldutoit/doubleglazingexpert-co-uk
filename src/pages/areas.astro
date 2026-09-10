@@ -49,6 +49,7 @@ const regions = [...new Set(cities.map((c) => c.region))].sort();
                   {intents.map((i) => (
                     <li><a class="pill" href={`/${i.slug}-${c.slug}/`}>{i.shortLabel ?? i.label}</a></li>
                   ))}
+                  <li><a class="pill" href={`/double-glazing-installers-${c.slug}/`}>Installers</a></li>
                 </ul>
               </div>
             ))}

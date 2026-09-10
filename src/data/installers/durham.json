@@ -1,0 +1,36 @@
+[
+    {
+        "company_number": "04748987",
+        "name": "Durham Window And Door Centre Limited",
+        "address": "MANORGATE, SUNDERLAND BRIDGE",
+        "postcode": "DH6 5HD",
+        "postcode_area": "DH6",
+        "town": "Durham",
+        "county": "County Durham",
+        "region": "North East England",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "30\/04\/2003",
+        "company_type": "Ltd",
+        "size": "Small",
+        "last_accounts": "2025",
+        "slug": "durham-window-and-door-centre-limited"
+    },
+    {
+        "company_number": "14514521",
+        "name": "The Clean And Reseal Man Limited",
+        "address": "16\/17 MARSHALL TERRACE, GILESGATE MOOR",
+        "postcode": "DH1 2HX",
+        "postcode_area": "DH1",
+        "town": "Durham",
+        "county": "County Durham",
+        "region": "North East England",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "29\/11\/2022",
+        "company_type": "Ltd",
+        "size": "Small",
+        "last_accounts": "2024",
+        "slug": "the-clean-and-reseal-man-limited"
+    }
+]

@@ -1,0 +1,9 @@
+{
+  "_note": "Service intent slug -> Companies House SIC 2007 codes used to match installers to that service. [] = no installer directory for the service. A code only resolves to companies if it was pulled by scripts/fetch-installers.php (currently 43342 only). 43320 (Joinery installation - 'installation of doors, windows...') is listed for uPVC doors so the mesh splits automatically if that code is fetched later; today it resolves to nothing.",
+  "double-glazing": ["43342"],
+  "upvc-windows": ["43342"],
+  "casement-windows": ["43342"],
+  "bay-windows": ["43342"],
+  "upvc-doors": ["43342", "43320"],
+  "window-repair": ["43342"]
+}

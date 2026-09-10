@@ -1,0 +1,53 @@
+[
+    {
+        "company_number": "04754894",
+        "name": "Crown Glass & Glazing Limited",
+        "address": "2 REAR COMMERCIAL STREET",
+        "postcode": "YO12 5EW",
+        "postcode_area": "YO12",
+        "town": "Scarborough",
+        "county": "North Yorkshire",
+        "region": "Yorkshire and the Humber",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "06\/05\/2003",
+        "company_type": "Ltd",
+        "size": "Micro",
+        "last_accounts": "2026",
+        "slug": "crown-glass-glazing-limited"
+    },
+    {
+        "company_number": "13657013",
+        "name": "Deerstone Windows Ltd",
+        "address": "38 SCALBY MILLS ROAD",
+        "postcode": "YO12 6RW",
+        "postcode_area": "YO12",
+        "town": "Scarborough",
+        "county": "North Yorkshire",
+        "region": "Yorkshire and the Humber",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "01\/10\/2021",
+        "company_type": "Ltd",
+        "size": "Micro",
+        "last_accounts": "2025",
+        "slug": "deerstone-windows-ltd"
+    },
+    {
+        "company_number": "15728977",
+        "name": "Northern Lights Stained Glass Ltd",
+        "address": "6 WESTOVER ROAD",
+        "postcode": "YO12 5AA",
+        "postcode_area": "YO12",
+        "town": "Scarborough",
+        "county": "North Yorkshire",
+        "region": "Yorkshire and the Humber",
+        "sic": "43342",
+        "sic_label": "Glazing",
+        "incorporated": "19\/05\/2024",
+        "company_type": "Ltd",
+        "size": "Small",
+        "last_accounts": "2025",
+        "slug": "northern-lights-stained-glass-ltd"
+    }
+]
