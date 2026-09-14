@@ -4,7 +4,7 @@ citySlug: "milton-keynes"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Milton Keynes | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Milton Keynes from vetted installers. Typical £3,240-£9,720. Free, no-obligation."
 generatedAt: "2026-09-03"

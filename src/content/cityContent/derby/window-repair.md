@@ -4,7 +4,7 @@ citySlug: "derby"
 intent: "Double Glazing Repairs"
 intentSlug: "window-repair"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing Repairs in Derby | Double Glazing Expert"
 metaDescription: "Double Glazing Repairs in Derby: prices from £78 to £264. Free, no-obligation quotes from vetted local installers, no cold calls."
 generatedAt: "2026-09-03"

@@ -4,7 +4,7 @@ citySlug: "derby"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Derby | Double Glazing Expert"
 metaDescription: "uPVC Windows in Derby: prices from £308 to £792. Free, no-obligation quotes from vetted local installers, no cold calls."
 generatedAt: "2026-09-03"

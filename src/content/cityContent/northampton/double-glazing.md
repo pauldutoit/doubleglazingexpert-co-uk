@@ -4,7 +4,7 @@ citySlug: "northampton"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Northampton | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Northampton from vetted installers. Typical £2,760-£8,280. Free, no-obligation."
 generatedAt: "2026-09-03"

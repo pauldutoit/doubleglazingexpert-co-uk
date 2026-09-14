@@ -4,7 +4,7 @@ citySlug: "sunderland"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "North East England"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Sunderland | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Sunderland from vetted installers. Typical £2,490-£7,470. Free, no-obligation."
 generatedAt: "2026-09-03"

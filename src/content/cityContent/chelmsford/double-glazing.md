@@ -4,7 +4,7 @@ citySlug: "chelmsford"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "East of England"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Chelmsford | Double Glazing Expert"
 metaDescription: "Whole-home double glazing quotes in Chelmsford from vetted installers. Typical £3,150-£9,450. Free, no-obligation."
 generatedAt: "2026-09-03"

@@ -4,7 +4,7 @@ citySlug: "sunderland"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "North East England"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Sunderland | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Sunderland from FENSA fitters. From £291 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

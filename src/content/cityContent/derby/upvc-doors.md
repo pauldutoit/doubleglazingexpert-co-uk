@@ -4,7 +4,7 @@ citySlug: "derby"
 intent: "uPVC Doors"
 intentSlug: "upvc-doors"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "uPVC Doors in Derby | Double Glazing Expert"
 metaDescription: "uPVC Doors in Derby: prices from £572 to £1,584. Free, no-obligation quotes from vetted local installers, no cold calls."
 generatedAt: "2026-09-03"

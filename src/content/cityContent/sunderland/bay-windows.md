@@ -4,7 +4,7 @@ citySlug: "sunderland"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "North East England"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Sunderland | Double Glazing Expert"
 metaDescription: "Bay window replacement quotes in Sunderland from vetted installers. Typical £996-£2,656. Free, no-obligation."
 generatedAt: "2026-09-03"

@@ -4,7 +4,7 @@ citySlug: "chelmsford"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "East of England"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Chelmsford | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Chelmsford from FENSA fitters. From £368 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

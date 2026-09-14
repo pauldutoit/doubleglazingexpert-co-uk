@@ -4,7 +4,7 @@ citySlug: "milton-keynes"
 intent: "uPVC Doors"
 intentSlug: "upvc-doors"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "uPVC Doors in Milton Keynes | Double Glazing Expert"
 metaDescription: "uPVC front, back and patio door quotes in Milton Keynes from vetted fitters. From £702. Free, no-obligation."
 generatedAt: "2026-09-03"

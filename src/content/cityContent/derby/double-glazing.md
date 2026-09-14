@@ -4,7 +4,7 @@ citySlug: "derby"
 intent: "Double Glazing"
 intentSlug: "double-glazing"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "Double Glazing in Derby | Double Glazing Expert"
 metaDescription: "Double Glazing in Derby: prices from £2,640 to £7,920. Free, no-obligation quotes from vetted local installers, no cold calls."
 generatedAt: "2026-09-03"

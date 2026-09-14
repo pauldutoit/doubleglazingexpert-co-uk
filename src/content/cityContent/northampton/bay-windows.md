@@ -4,7 +4,7 @@ citySlug: "northampton"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Northampton | Double Glazing Expert"
 metaDescription: "Bay window replacement quotes in Northampton from vetted installers. Typical £1,104-£2,944. Free, no-obligation."
 generatedAt: "2026-09-03"

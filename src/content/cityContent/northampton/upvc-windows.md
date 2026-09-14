@@ -4,7 +4,7 @@ citySlug: "northampton"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Northampton | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Northampton from FENSA fitters. From £322 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

@@ -4,7 +4,7 @@ citySlug: "sunderland"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "North East England"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Sunderland | Double Glazing Expert"
 metaDescription: "uPVC casement window quotes in Sunderland from FENSA fitters. From £291 per window. Free, no-obligation."
 generatedAt: "2026-09-03"

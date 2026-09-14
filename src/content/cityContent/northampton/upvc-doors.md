@@ -4,7 +4,7 @@ citySlug: "northampton"
 intent: "uPVC Doors"
 intentSlug: "upvc-doors"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "uPVC Doors in Northampton | Double Glazing Expert"
 metaDescription: "uPVC front, back and patio door quotes in Northampton from vetted fitters. From £598. Free, no-obligation."
 generatedAt: "2026-09-03"

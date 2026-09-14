@@ -4,7 +4,7 @@ citySlug: "chelmsford"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "East of England"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Chelmsford | Double Glazing Expert"
 metaDescription: "Bay window replacement quotes in Chelmsford from vetted installers. Typical £1,260-£3,360. Free, no-obligation."
 generatedAt: "2026-09-03"

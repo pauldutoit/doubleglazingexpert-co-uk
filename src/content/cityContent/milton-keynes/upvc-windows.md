@@ -4,7 +4,7 @@ citySlug: "milton-keynes"
 intent: "uPVC Windows"
 intentSlug: "upvc-windows"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "uPVC Windows in Milton Keynes | Double Glazing Expert"
 metaDescription: "uPVC window quotes in Milton Keynes from FENSA fitters. From £378 per window. Free, no-obligation, no cold calls."
 generatedAt: "2026-09-03"

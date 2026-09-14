@@ -4,7 +4,7 @@ citySlug: "sunderland"
 intent: "uPVC Doors"
 intentSlug: "upvc-doors"
 region: "North East England"
-indexable: false
+indexable: true
 metaTitle: "uPVC Doors in Sunderland | Double Glazing Expert"
 metaDescription: "uPVC front, back and patio door quotes in Sunderland from vetted fitters. From £540. Free, no-obligation."
 generatedAt: "2026-09-03"

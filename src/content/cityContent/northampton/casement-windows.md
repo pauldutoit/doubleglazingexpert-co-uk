@@ -4,7 +4,7 @@ citySlug: "northampton"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Northampton | Double Glazing Expert"
 metaDescription: "uPVC casement window quotes in Northampton from FENSA fitters. From £322 per window. Free, no-obligation."
 generatedAt: "2026-09-03"

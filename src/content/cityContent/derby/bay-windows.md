@@ -4,7 +4,7 @@ citySlug: "derby"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Derby | Double Glazing Expert"
 metaDescription: "Bay Windows in Derby: prices from £1,056 to £2,816. Free, no-obligation quotes from vetted local installers, no cold calls."
 generatedAt: "2026-09-03"

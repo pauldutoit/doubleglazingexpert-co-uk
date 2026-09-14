@@ -4,7 +4,7 @@ citySlug: "milton-keynes"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Milton Keynes | Double Glazing Expert"
 metaDescription: "uPVC casement window quotes in Milton Keynes from FENSA fitters. From £378 per window. Free, no-obligation."
 generatedAt: "2026-09-03"

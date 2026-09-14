@@ -4,7 +4,7 @@ citySlug: "milton-keynes"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Milton Keynes | Double Glazing Expert"
 metaDescription: "Bay window replacement quotes in Milton Keynes from vetted installers. Typical £1,296-£3,456. Free, no-obligation."
 generatedAt: "2026-09-03"

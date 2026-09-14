@@ -4,7 +4,7 @@ citySlug: "derby"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Derby | Double Glazing Expert"
 metaDescription: "Casement Windows in Derby: prices from £308 to £792. Free, no-obligation quotes from vetted local installers, no cold calls."
 generatedAt: "2026-09-03"

@@ -4,7 +4,7 @@ citySlug: "chelmsford"
 intent: "uPVC Doors"
 intentSlug: "upvc-doors"
 region: "East of England"
-indexable: false
+indexable: true
 metaTitle: "uPVC Doors in Chelmsford | Double Glazing Expert"
 metaDescription: "uPVC front, back and patio door quotes in Chelmsford from vetted fitters. From £683. Free, no-obligation."
 generatedAt: "2026-09-03"
