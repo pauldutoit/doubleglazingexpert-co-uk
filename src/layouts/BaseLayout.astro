@@ -95,9 +95,83 @@ const primaryIntentSlug = intents[0]?.slug ?? 'casement-windows';
     )}
 
     {matomoUrl && matomoSiteId && (
-      <script is:inline set:html={`var _paq = window._paq = window._paq || [];_paq.push(['trackPageView']);_paq.push(['enableLinkTracking']);(function() {var u="${matomoUrl}";_paq.push(['setTrackerUrl', u+'matomo.php']);_paq.push(['setSiteId', '${matomoSiteId}']);var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);})();`} />
+      <script is:inline set:html={`var _paq = window._paq = window._paq || [];_paq.push(['enableHeartBeatTimer', 15]);_paq.push(['trackPageView']);_paq.push(['enableLinkTracking']);(function() {var u="${matomoUrl}";_paq.push(['setTrackerUrl', u+'matomo.php']);_paq.push(['setSiteId', '${matomoSiteId}']);var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);})();`} />
     )}
 
+    {matomoUrl && matomoSiteId && (
+      <script is:inline>
+        /* Mesure des leads (Matomo) : clics tel:/mailto: + étapes du formulaire de devis interne
+           (QuoteFunnel -> /api/lead). Le composant émet lead:submit (envoi validé), lead:success
+           (réponse API OK) et lead:error. Objectif Matomo « Lead » = action "Lead submitted",
+           comptée sur /thank-you seulement si un envoi validé par l'API est en attente (sessionStorage mt_lead_pending). */
+        (function () {
+          window._paq = window._paq || [];
+          // Toujours passer par window._paq : matomo.js remplace le tableau par son propre objet au chargement.
+          function track(c, a, n) { window._paq.push(['trackEvent', c, a, n]); }
+          var FORM = 'form.quote-funnel[data-funnel]';
+          var THANKS = '/thank-you';
+          var KEY = 'mt_lead_pending';
+          function store(fn) { try { return fn(window.sessionStorage); } catch (e) { return null; } }
+          function context() {
+            var q = new URLSearchParams(location.search);
+            var parts = [q.get('intent'), q.get('city')].filter(Boolean);
+            return parts.length ? parts.join(' / ') : location.pathname;
+          }
+          function labelOf(ev) { return (ev && ev.detail && ev.detail.label) || context(); }
+          var started = false;
+          function onStart(ev) {
+            if (started || !ev.target || !ev.target.closest || !ev.target.closest(FORM)) return;
+            started = true;
+            track('Lead form', 'Quote started', context());
+          }
+          document.addEventListener('focusin', onStart, true);
+          document.addEventListener('change', onStart, true);
+          document.addEventListener('lead:submit', function (ev) {
+            var label = labelOf(ev);
+            store(function (s) { s.setItem(KEY, label); });
+          });
+          document.addEventListener('lead:success', function (ev) {
+            var pending = store(function (s) { return s.getItem(KEY); });
+            // Succès suivi d'une redirection : compté sur la page de remerciement (si la clé a pu être posée).
+            if (THANKS && ev.detail && ev.detail.redirect && pending) return;
+            store(function (s) { s.removeItem(KEY); });
+            track('Lead form', 'Lead submitted', pending || labelOf(ev));
+          });
+          document.addEventListener('lead:error', function (ev) {
+            var label = labelOf(ev);
+            if (ev.detail && ev.detail.reason) label += ' | ' + ev.detail.reason;
+            store(function (s) { s.removeItem(KEY); });
+            track('Lead form', 'Submit error', label);
+          });
+          function onReady() {
+            if (THANKS && location.pathname.replace(/\/+$/, '') === THANKS) {
+              var pending = store(function (s) { return s.getItem(KEY); });
+              if (pending) {
+                store(function (s) { s.removeItem(KEY); });
+                track('Lead form', 'Lead submitted', pending);
+              }
+            }
+            var forms = document.querySelectorAll(FORM);
+            if (!forms.length) return;
+            var seen = false;
+            function view() { if (!seen) { seen = true; track('Lead form', 'Form view', context()); } }
+            if (!('IntersectionObserver' in window)) { view(); return; }
+            var io = new IntersectionObserver(function (entries) {
+              for (var k = 0; k < entries.length; k++) {
+                if (entries[k].isIntersecting) { view(); io.disconnect(); return; }
+              }
+            });
+            for (var f = 0; f < forms.length; f++) io.observe(forms[f]);
+          }
+          if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', onReady);
+          else onReady();
+          document.addEventListener('click', function (ev) {
+            var a = ev.target && ev.target.closest ? ev.target.closest('a[href^="tel:"], a[href^="mailto:"]') : null;
+            if (a) track('Contact', a.getAttribute('href').indexOf('tel:') === 0 ? 'Phone click' : 'Email click', location.pathname);
+          }, true);
+        })();
+      </script>
+    )}
     <slot name="head" />
   </head>
   <body>
