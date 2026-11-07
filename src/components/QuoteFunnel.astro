@@ -306,6 +306,11 @@ const formId = `quote-funnel${idSuffix ? `-${idSuffix}` : ''}`;
         turnstileToken,
       };
 
+      // Mesure Matomo (écoutée dans BaseLayout) : envoi validé, puis succès / erreur de l'API.
+      const leadLabel = [payload.service_type, payload.city].filter(Boolean).join(' / ') || window.location.pathname;
+      const emitLead = (name, detail) => form.dispatchEvent(new CustomEvent(name, { bubbles: true, detail: Object.assign({ label: leadLabel }, detail) }));
+      emitLead('lead:submit');
+
       if (submitBtn) submitBtn.disabled = true;
       if (status) { status.textContent = 'Sending...'; status.dataset.state = ''; }
 
@@ -315,10 +320,12 @@ const formId = `quote-funnel${idSuffix ? `-${idSuffix}` : ''}`;
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(payload),
         });
-        if (!res.ok) throw new Error('request failed');
+        if (!res.ok) throw new Error('http_' + res.status);
+        emitLead('lead:success', { redirect: true });
         form.reset();
         window.location.href = '/thank-you';
       } catch (err) {
+        emitLead('lead:error', { reason: err && /^http_/.test(err.message) ? err.message : 'network' });
         if (status) { status.textContent = 'Something went wrong, please try again in a moment.'; status.dataset.state = 'error'; }
         if (submitBtn) submitBtn.disabled = false;
       }
